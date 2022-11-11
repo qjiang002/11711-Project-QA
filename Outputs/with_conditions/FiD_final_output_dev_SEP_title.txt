@@ -1,0 +1,285 @@
+dev-0	18 (unless the court takes your responsibility away earlier) [SEP] NA
+dev-1	no [SEP] NA
+dev-2	yes [SEP] NA
+dev-3	yes [SEP] NA
+dev-4	no [SEP] NA
+dev-5	yes [SEP] NA
+dev-6	no [SEP] NA
+dev-7	unanswerable
+dev-8	yes [SEP] NA
+dev-9	no [SEP] NA
+dev-10	higher rate [SEP] NA
+dev-11	yes [SEP] NA
+dev-12	no [SEP] NA
+dev-13	no [SEP] NA
+dev-14	yes [SEP] NA
+dev-15	yes [SEP] NA
+dev-16	25% of the ‘eligible rent’ [SEP] NA
+dev-17	no [SEP] NA
+dev-18	the donor, their family members and other attorneys [SEP] NA
+dev-19	no [SEP] NA
+dev-20	yes [SEP] NA
+dev-21	25% of the ‘eligible rent’ for 1 spare bedroom [SEP] NA
+dev-22	apply for the money in an account [SEP] NA
+dev-23	0.1% [SEP] NA
+dev-24	£200 per child [SEP] NA
+dev-25	unanswerable
+dev-26	yes [SEP] NA
+dev-27	yes [SEP] NA
+dev-28	no [SEP] NA
+dev-29	no [SEP] NA
+dev-30	no [SEP] NA
+dev-31	no [SEP] NA
+dev-32	no [SEP] NA
+dev-33	yes [SEP] NA
+dev-34	6 months [SEP] NA
+dev-35	yes [SEP] NA
+dev-36	yes [SEP] NA
+dev-37	yes [SEP] NA
+dev-38	yes [SEP] NA
+dev-39	yes [SEP] NA
+dev-40	no [SEP] NA
+dev-41	yes [SEP] NA
+dev-42	unanswerable
+dev-43	unanswerable
+dev-44	unanswerable
+dev-45	yes [SEP] NA
+dev-46	no [SEP] NA
+dev-47	no [SEP] NA
+dev-48	the sen co-ordinator, or ‘senco’ [SEP] NA
+dev-49	yes [SEP] NA
+dev-50	yes [SEP] NA
+dev-51	the rural payments agency [SEP] NA
+dev-52	£20 [SEP] NA
+dev-53	yes [SEP] NA
+dev-54	first aid [SEP] NA [SEP] water rescue map [SEP] NA [SEP] communications skills you need for your local area [SEP] NA
+dev-55	yes [SEP] NA
+dev-56	call the contact a family helpline for help and advice [SEP] NA [SEP] an education, health and care (ehc) plan [SEP] NA [SEP] an education, health and care (
+dev-57	contact the college before your child starts further education [SEP] NA
+dev-58	yes [SEP] NA
+dev-59	yes [SEP] NA
+dev-60	yes [SEP] NA
+dev-61	yes [SEP] NA
+dev-62	yes [SEP] NA
+dev-63	the national careers service course search [SEP] NA
+dev-64	2 hours [SEP] NA
+dev-65	no [SEP] NA
+dev-66	no [SEP] NA
+dev-67	unanswerable
+dev-68	the national careers service course search [SEP] NA
+dev-69	no [SEP] NA
+dev-70	yes [SEP] NA
+dev-71	yes [SEP] NA
+dev-72	no [SEP] NA
+dev-73	a motorcycle helmet that meets British safety standards (unless you’re Sikh and wearing a turban) [SEP] NA [SEP] a textile or leather motorcycle jacket or a heavy denim jacket with several
+dev-74	no [SEP] NA
+dev-75	passport or national identity card [SEP] NA
+dev-76	yes [SEP] NA
+dev-77	suspension [SEP] NA
+dev-78	no [SEP] NA
+dev-79	yes [SEP] NA
+dev-80	safety measures must be in place for any crew members using or maintaining marine engineering equipment, such as: [SEP] NA
+dev-81	the merchant shipping (fire protection: small ships) regulations 1998 [SEP] NA
+dev-82	every year and whenever there are significant changes to either the ship or working activities [SEP] NA
+dev-83	yes [SEP] NA
+dev-84	no [SEP] NA
+dev-85	no [SEP] NA
+dev-86	yes [SEP] NA
+dev-87	through your business’s hm revenue and customs (hm revenue and customs) online account [SEP] NA
+dev-88	yes [SEP] NA
+dev-89	3 years [SEP] NA
+dev-90	22 october following the tax year it applies to [SEP] NA
+dev-91	up to 4 weeks’ pay [SEP] NA
+dev-92	yes [SEP] NA
+dev-93	get advice from your staff or trade union representative or acas [SEP] NA
+dev-94	no [SEP] NA
+dev-95	no [SEP] NA
+dev-96	1 month to 2 years [SEP] NA
+dev-97	1.5 weeks’ pay for each full year of employment [SEP] NA
+dev-98	no [SEP] NA
+dev-99	£25,000 [SEP] NA
+dev-100	send an eps before your regular payday [SEP] NA
+dev-101	unanswerable
+dev-102	no [SEP] NA
+dev-103	yes [SEP] NA
+dev-104	yes [SEP] NA
+dev-105	every year [SEP] NA
+dev-106	22 october following the tax year it applies to [SEP] NA
+dev-107	no [SEP] NA
+dev-108	within one month [SEP] NA
+dev-109	yes [SEP] NA
+dev-110	the insolvency service’s redundancy payments service (rps) [SEP] NA
+dev-111	yes [SEP] NA
+dev-112	up to 5,000 litres (5 cubic metres) [SEP] NA
+dev-113	no [SEP] NA
+dev-114	no [SEP] NA
+dev-115	yes [SEP] NA
+dev-116	yes [SEP] NA
+dev-117	the centralised attachment of earning payments (caps) office [SEP] NA
+dev-118	yes [SEP] NA
+dev-119	no [SEP] NA
+dev-120	yes [SEP] NA
+dev-121	the centralised attachment of earning payments (caps) office [SEP] NA
+dev-122	yes [SEP] NA
+dev-123	no [SEP] NA
+dev-124	no [SEP] NA
+dev-125	no [SEP] NA
+dev-126	confirm to your supplier in writing that you meet these conditions [SEP] NA
+dev-127	the office of the immigration services commissioner (oisc) adviser finder [SEP] NA
+dev-128	yes [SEP] NA
+dev-129	no [SEP] NA
+dev-130	apply using a paper form [SEP] NA
+dev-131	yes [SEP] NA
+dev-132	yes [SEP] NA
+dev-133	yes [SEP] NA
+dev-134	no [SEP] NA
+dev-135	no [SEP] NA
+dev-136	no [SEP] NA
+dev-137	yes [SEP] NA
+dev-138	no [SEP] NA
+dev-139	no [SEP] NA
+dev-140	no [SEP] NA
+dev-141	no [SEP] NA
+dev-142	£3,500 [SEP] NA
+dev-143	get a funeral eves payment [SEP] NA
+dev-144	no [SEP] NA
+dev-145	yes [SEP] NA
+dev-146	yes [SEP] NA
+dev-147	no [SEP] NA
+dev-148	yes [SEP] NA
+dev-149	use the details you gave in your latest company tax return [SEP] NA
+dev-150	your local council [SEP] NA
+dev-151	no [SEP] NA
+dev-152	no [SEP] NA
+dev-153	no [SEP] NA
+dev-154	yes [SEP] NA
+dev-155	yes [SEP] NA
+dev-156	no [SEP] NA
+dev-157	yes [SEP] NA
+dev-158	ask the senior courts costs office to make a ‘detailed assessment’ of your bill [SEP] NA
+dev-159	£335 [SEP] NA
+dev-160	inspections and insurance [SEP] NA
+dev-161	meet the eligibility criteria set by TfL for your vehicle [SEP] NA
+dev-162	no [SEP] NA
+dev-163	yes [SEP] NA
+dev-164	yes [SEP] NA
+dev-165	yes [SEP] NA
+dev-166	yes [SEP] NA
+dev-167	yes [SEP] NA
+dev-168	yes [SEP] NA
+dev-169	yes [SEP] NA
+dev-170	tax relief on income, gains and profits from some activities [SEP] NA [SEP] gift aid repayments on donations [SEP] NA [SEP] business rates relief [SEP] NA
+dev-171	set out how you meet the eligibility criteria for registering as a CASC [SEP] NA [SEP] state that any assets left after the club closes are only used by another registered CASC, charity or related community sport
+dev-172	yes [SEP] NA
+dev-173	3 years [SEP] NA
+dev-174	apply to your local district registry (a court that deals with certain high court cases) [SEP] NA
+dev-175	yes [SEP] NA
+dev-176	no [SEP] NA
+dev-177	after a road’s been open to traffic for 1 year [SEP] NA
+dev-178	no [SEP] NA
+dev-179	2 working days after you apply [SEP] NA
+dev-180	maximum of 5 countries [SEP] NA
+dev-181	the visa application centre where you applied [SEP] NA
+dev-182	yes [SEP] NA
+dev-183	no [SEP] NA
+dev-184	apply for a new one [SEP] NA
+dev-185	£100 [SEP] NA
+dev-186	your local council for local roads [SEP] NA
+dev-187	no [SEP] NA
+dev-188	no [SEP] NA
+dev-189	at least 4 weeks [SEP] NA
+dev-190	through your local council [SEP] NA
+dev-191	several months [SEP] NA
+dev-192	yes [SEP] NA
+dev-193	yes [SEP] NA
+dev-194	no [SEP] NA
+dev-195	no [SEP] NA
+dev-196	9 months and 1 day [SEP] NA
+dev-197	direct debit (if you have not set one up before) [SEP] NA
+dev-198	yes [SEP] NA
+dev-199	yes [SEP] NA
+dev-200	no [SEP] NA
+dev-201	try to come to an agreement with the local planning authority (lpa) by adjusting your plans [SEP] NA
+dev-202	no [SEP] NA
+dev-203	yes [SEP] NA
+dev-204	yes [SEP] NA
+dev-205	no [SEP] NA
+dev-206	‘xi’ [SEP] NA
+dev-207	4 years [SEP] NA
+dev-208	no [SEP] NA
+dev-209	no [SEP] NA
+dev-210	yes [SEP] NA
+dev-211	on any payslip that hm revenue and customs (hmrc) sent you through your company’s hmrc online account - choose ‘View account’ then ‘Accounting period’ [SEP]
+dev-212	8 weeks [SEP] NA
+dev-213	yes [SEP] NA
+dev-214	yes [SEP] NA
+dev-215	yes [SEP] NA
+dev-216	no [SEP] NA
+dev-217	yes [SEP] NA
+dev-218	no [SEP] NA
+dev-219	no [SEP] NA
+dev-220	yes [SEP] NA
+dev-221	no [SEP] NA
+dev-222	unanswerable
+dev-223	no [SEP] NA
+dev-224	no [SEP] NA
+dev-225	the 8-figure grid reference for your septic tank or treatment plant and the point where it discharges to calculate the largest amount you’re likely to discharge [SEP] NA [SEP] use one of the calculators
+dev-226	the tenancy deposit protection scheme your landlord used [SEP] NA
+dev-227	the private rented housing panel (prh) [SEP] NA
+dev-228	the office of the immigration services commissioner (oisc) adviser finder [SEP] NA
+dev-229	email the office of the immigration services commissioner (oisc) adviser finder [SEP] NA
+dev-230	yes [SEP] NA
+dev-231	yes [SEP] NA
+dev-232	a bank in the country [SEP] NA
+dev-233	the uk [SEP] NA
+dev-234	contact the international pension centre [SEP] NA [SEP] send the international claim form to the international pension centre [SEP] NA
+dev-235	no [SEP] NA
+dev-236	yes [SEP] NA
+dev-237	no [SEP] NA
+dev-238	30 days [SEP] NA
+dev-239	you’re entitled to the same pay as a permanent employee doing the same job [SEP] NA
+dev-240	the central arbitration committee (cac) [SEP] NA
+dev-241	yes [SEP] NA
+dev-242	a manager who has not been involved in the process [SEP] NA
+dev-243	in your area [SEP] NA
+dev-244	yes [SEP] NA
+dev-245	yes [SEP] NA
+dev-246	show who you are [SEP] NA [SEP] show whether you have permission to work [SEP] NA [SEP] get health or education services [SEP] NA
+dev-247	6 months [SEP] NA
+dev-248	the time limit within which an appeal must be made [SEP] NA
+dev-249	yes [SEP] NA
+dev-250	in writing [SEP] NA
+dev-251	no [SEP] NA
+dev-252	you may be asked to leave the uk and given to a caseworker [SEP] NA
+dev-253	yes [SEP] NA
+dev-254	yes [SEP] NA
+dev-255	no [SEP] NA
+dev-256	Acas [SEP] NA
+dev-257	no [SEP] NA
+dev-258	yes [SEP] NA
+dev-259	at least 15 employees must make the request [SEP] NA
+dev-260	yes [SEP] NA
+dev-261	at least 15 weeks before your due date [SEP] NA
+dev-262	passport or national identity card [SEP] NA
+dev-263	no [SEP] NA
+dev-264	£11,222 [SEP] NA
+dev-265	passport or national identity card [SEP] NA
+dev-266	£11,222 [SEP] NA
+dev-267	no [SEP] NA
+dev-268	yes [SEP] NA
+dev-269	£11,222 [SEP] NA
+dev-270	employment and support allowance (esa) [SEP] NA
+dev-271	no [SEP] NA
+dev-272	try to come to an agreement with the local planning authority (lpa) by adjusting your plans [SEP] NA
+dev-273	4 years [SEP] NA
+dev-274	4 years [SEP] NA
+dev-275	no [SEP] NA
+dev-276	the private rented housing panel (prh) [SEP] NA
+dev-277	the tenancy deposit protection scheme your landlord used [SEP] NA
+dev-278	unanswerable
+dev-279	between 5,000 litres (5 cubic metres) and 50,000 litres (50 cubic metres) [SEP] NA
+dev-280	no [SEP] NA
+dev-281	yes [SEP] NA
+dev-282	you may be sent to a safe country that will consider your asylum claim [SEP] NA
+dev-283	yes [SEP] NA
+dev-284	a manager who has not been involved in the process [SEP] NA

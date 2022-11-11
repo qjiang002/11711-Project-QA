@@ -4,6 +4,7 @@
 * Clone [FiD](https://github.com/facebookresearch/FiD)
 * Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
 * `pip install transformers==3.0.2`
+* `pip install evaluate` which is used in output processing
 
 ### With conda
 ```bash
