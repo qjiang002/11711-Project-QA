@@ -43,10 +43,10 @@ python train_reader.py \
 ```
 
 ### Train with FiD_new
-1. T5-base
+1. T5-base, without condition
 ```bash
 cd FiD_new
-rm -r checkpoint_base
+rm -r checkpoint_base_wo_cond
 python train_reader.py \
     --train_data ../Data/without_conditions/train.json \
     --eval_data ../Data/without_conditions/dev.json \
@@ -65,12 +65,12 @@ python train_reader.py \
     --n_context 50 \
     --name experiment_without_conditions \
     --accumulation_steps 4 \
-    --checkpoint_dir checkpoint_base
+    --checkpoint_dir checkpoint_base_wo_cond
 ```
-2. T5-large
+2. T5-large without condition
 ```bash
 cd FiD_new
-rm -r checkpoint_large
+rm -r checkpoint_large_wo_cond
 python train_reader.py \
     --train_data ../Data/without_conditions/train.json \
     --eval_data ../Data/without_conditions/dev.json \
@@ -89,9 +89,56 @@ python train_reader.py \
     --n_context 50 \
     --name experiment_without_conditions \
     --accumulation_steps 4 \
-    --checkpoint_dir checkpoint_large
+    --checkpoint_dir checkpoint_large_wo_cond
 ```
-
+3. T5-base, with condition
+```bash
+cd FiD_new
+rm -r checkpoint_base_w_cond
+python train_reader.py \
+    --train_data ../Data/with_conditions/FiD_train_CON_no_title_html.json \
+    --eval_data ../Data/with_conditions/FiD_dev_CON_no_title_html.json \
+    --use_checkpoint \
+    --lr 0.00005 \
+    --optim adamw \
+    --scheduler linear \
+    --weight_decay 0.01 \
+    --text_maxlength 250 \
+    --total_step 15000 \
+    --warmup_step 100 \
+    --eval_freq 100 \
+    --save_freq 100 \
+    --model_size base \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name experiment_with_conditions \
+    --accumulation_steps 4 \
+    --checkpoint_dir checkpoint_base_w_cond
+```
+4. T5-large with condition
+```bash
+cd FiD_new
+rm -r checkpoint_large_w_cond
+python train_reader.py \
+    --train_data ../Data/with_conditions/FiD_train_CON_no_title_html.json \
+    --eval_data ../Data/with_conditions/FiD_dev_CON_no_title_html.json \
+    --use_checkpoint \
+    --lr 0.00005 \
+    --optim adamw \
+    --scheduler linear \
+    --weight_decay 0.01 \
+    --text_maxlength 150 \
+    --total_step 15000 \
+    --warmup_step 100 \
+    --eval_freq 100 \
+    --save_freq 100 \
+    --model_size large \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name experiment_with_conditions \
+    --accumulation_steps 4 \
+    --checkpoint_dir checkpoint_large_w_cond
+```
 
 ## Test Script
 ```
