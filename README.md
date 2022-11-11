@@ -1,9 +1,9 @@
 # 11711-Project-QA
 
 ## Requirements
-Clone [FiD](https://github.com/facebookresearch/FiD)
-Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
-`pip install transformers==3.0.2`
+* Clone [FiD](https://github.com/facebookresearch/FiD)
+* Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
+* `pip install transformers==3.0.2`
 
 ## Data Processing
 Convert ConditionalQA data into the format that FiD accepts
