@@ -4,5 +4,6 @@ channels:
 dependencies:
   - pip=21.2.4=py39h06a4308_0
   - pip:
+    - tokenizers==0.12.1
     - transformers==3.0.2
 
