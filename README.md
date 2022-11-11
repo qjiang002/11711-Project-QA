@@ -55,13 +55,13 @@ python train_reader.py \
     --text_maxlength 250 \
     --total_step 15000 \
     --warmup_step 100 \
-    --eval_freq 10 \
+    --eval_freq 100 \
     --save_freq 100 \
     --model_size base \
     --per_gpu_batch_size 1 \
     --n_context 50 \
     --name experiment_without_conditions \
-    --accumulation_steps 1
+    --accumulation_steps 2
 ```
 
 ## Test Script
