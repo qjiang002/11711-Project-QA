@@ -12,6 +12,7 @@ import numpy as np
 from pathlib import Path
 from torch.utils.data import DataLoader, RandomSampler, DistributedSampler, SequentialSampler
 from src.options import Options
+from tqdm import tqdm
 
 import src.slurm
 import src.util
@@ -103,8 +104,9 @@ def evaluate(model, dataset, tokenizer, collator, opt):
     total = 0
     exactmatch = []
     model = model.module if hasattr(model, "module") else model
+    print("Evaluating...")
     with torch.no_grad():
-        for i, batch in enumerate(dataloader):
+        for i, batch in tqdm(enumerate(dataloader)):
             (idx, _, _, context_ids, context_mask) = batch
 
             outputs = model.generate(
