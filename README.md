@@ -176,7 +176,8 @@ python evaluate.py --pred_file=../Outputs/without_conditions/dev_output.json --r
 |-------|:---------:|:---------:|:----------:|:---------:|:-----------:|:--------:|:---------:|:---------:|
 |       | answer    | w/ conds  | answer     | w/ conds  | answer      | w/ conds | answer    | w/ conds  |
 | Paper | 64.2/64.2 | 48.0/48.0 | 25.2/37.8  | 22.5/33.4 | 45.2/49.7   |  4.7/5.8 | 44.4/50.8 | 35.0/40.6 |
-| without conditions (dev)   | 69.9/69.9 | 48.6/48.6 |  24.2/35.7 | 22.1/32.8 | 56.8/60.0  |  4.3/5.7 | 46.3/51.5 | 34.7/39.5 |
+| w/o cond (dev)   | 69.9/69.9 | 48.6/48.6 |  24.2/35.7 | 22.1/32.8 | 56.8/60.0  |  4.3/5.7 | 46.3/51.5 | 34.7/39.5 |
+| w/ cond_SEP_title (dev) | 61.5/61.5 | 50.0/50.0 | 24.5/35.0 | 23.2/32.4 | 31.1/34.6 | 2.4/3.8 | 42.2/46.9 | 35.9/40.0 |
 
 ## References
 [ConditionalQA: A Complex Reading Comprehension Dataset with Conditional Answers.](https://arxiv.org/abs/2110.06884)
