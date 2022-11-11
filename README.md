@@ -110,7 +110,7 @@ python train_reader.py \
     --model_size base \
     --per_gpu_batch_size 1 \
     --n_context 50 \
-    --name experiment_without_conditions \
+    --name experiment_with_conditions \
     --accumulation_steps 4 \
     --checkpoint_dir checkpoint_base_w_cond
 ```
@@ -126,7 +126,7 @@ python train_reader.py \
     --optim adamw \
     --scheduler linear \
     --weight_decay 0.01 \
-    --text_maxlength 100 \
+    --text_maxlength 150 \
     --total_step 15000 \
     --warmup_step 100 \
     --eval_freq 100 \
@@ -134,7 +134,7 @@ python train_reader.py \
     --model_size large \
     --per_gpu_batch_size 1 \
     --n_context 50 \
-    --name experiment_without_conditions \
+    --name experiment_with_conditions \
     --accumulation_steps 4 \
     --checkpoint_dir checkpoint_large_w_cond
 ```
