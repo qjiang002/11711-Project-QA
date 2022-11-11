@@ -1,6 +1,8 @@
 # 11711-Project-QA
 
 ## Requirements
+Clone [FiD](https://github.com/facebookresearch/FiD)
+Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
 `pip install transformers==3.0.2`
 
 ## Data Processing
