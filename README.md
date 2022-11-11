@@ -60,7 +60,8 @@ python train_reader.py \
     --model_size base \
     --per_gpu_batch_size 1 \
     --n_context 50 \
-    --name experiment_without_conditions
+    --name experiment_without_conditions \
+    --accumulation_steps 1
 ```
 
 ## Test Script
