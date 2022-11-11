@@ -5,6 +5,15 @@
 * Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
 * `pip install transformers==3.0.2`
 
+### With conda
+```bash
+conda env create -f environment.yml
+conda activate qa
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
+git clone git@github.com:haitian-sun/ConditionalQA.git
+git clone git@github.com:facebookresearch/FiD.git
+```
+
 ## Data Processing
 Convert ConditionalQA data into the format that FiD accepts
 

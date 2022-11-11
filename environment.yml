@@ -1,0 +1,7 @@
+name: qa
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - transformers==3.0.2
+
