@@ -123,6 +123,8 @@ def evaluate(model, dataset, tokenizer, collator, opt):
                 exactmatch.append(score)
 
     exactmatch, total = src.util.weighted_average(np.mean(exactmatch), total, opt)
+    print("Evaluation done.")
+    print(f"EM: {100*exactmatch:.2f}")
     return exactmatch
 
 if __name__ == "__main__":
