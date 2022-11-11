@@ -41,9 +41,11 @@ python train_reader.py \
     --checkpoint_dir checkpoint
 ```
 
-### Train from scratch
+### Train with FiD_new
+1. T5-base
 ```bash
-rm -r checkpoint
+cd FiD_new
+rm -r checkpoint_base
 python train_reader.py \
     --train_data ../Data/without_conditions/train.json \
     --eval_data ../Data/without_conditions/dev.json \
@@ -57,12 +59,38 @@ python train_reader.py \
     --warmup_step 100 \
     --eval_freq 100 \
     --save_freq 100 \
+    --model_size base \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name experiment_without_conditions \
+    --accumulation_steps 4 \
+    --checkpoint_dir checkpoint_base
+```
+2. T5-large
+```bash
+cd FiD_new
+rm -r checkpoint_large
+python train_reader.py \
+    --train_data ../Data/without_conditions/train.json \
+    --eval_data ../Data/without_conditions/dev.json \
+    --use_checkpoint \
+    --lr 0.00005 \
+    --optim adamw \
+    --scheduler linear \
+    --weight_decay 0.01 \
+    --text_maxlength 100 \
+    --total_step 15000 \
+    --warmup_step 100 \
+    --eval_freq 100 \
+    --save_freq 100 \
     --model_size large \
     --per_gpu_batch_size 1 \
     --n_context 50 \
     --name experiment_without_conditions \
-    --accumulation_steps 4
+    --accumulation_steps 4 \
+    --checkpoint_dir checkpoint_large
 ```
+
 
 ## Test Script
 ```
