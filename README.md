@@ -41,6 +41,28 @@ python train_reader.py \
     --checkpoint_dir checkpoint
 ```
 
+### Train from scratch
+```bash
+rm -r checkpoint
+python train_reader.py \
+    --train_data ../Data/without_conditions/train.json \
+    --eval_data ../Data/without_conditions/dev.json \
+    --use_checkpoint \
+    --lr 0.00005 \
+    --optim adamw \
+    --scheduler linear \
+    --weight_decay 0.01 \
+    --text_maxlength 250 \
+    --total_step 15000 \
+    --warmup_step 100 \
+    --eval_freq 10 \
+    --save_freq 100 \
+    --model_size base \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name experiment_without_conditions
+```
+
 ## Test Script
 ```
 cd FiD

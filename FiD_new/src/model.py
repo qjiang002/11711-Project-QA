@@ -133,7 +133,7 @@ class EncoderWrapper(torch.nn.Module):
     def __init__(self, encoder, use_checkpoint=False):
         super().__init__()
         self.main_input_name = "input_ids"
-        
+
         self.encoder = encoder
         apply_checkpoint_wrapper(self.encoder, use_checkpoint)
 
