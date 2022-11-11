@@ -128,6 +128,7 @@ python train_reader.py \
     --scheduler linear \
     --weight_decay 0.01 \
     --text_maxlength 150 \
+    --answer_maxlength 50 \
     --total_step 15000 \
     --warmup_step 100 \
     --eval_freq 100 \
