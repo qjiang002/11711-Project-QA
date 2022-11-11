@@ -5,6 +5,15 @@
 * Clone [ConditionalQA](https://github.com/haitian-sun/ConditionalQA.git)
 * `pip install transformers==3.0.2`
 
+### With conda
+```bash
+conda env create -f environment.yml
+conda activate qa
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
+git clone git@github.com:haitian-sun/ConditionalQA.git
+git clone git@github.com:facebookresearch/FiD.git
+```
+
 ## Data Processing
 Convert ConditionalQA data into the format that FiD accepts
 
@@ -30,6 +39,29 @@ python train_reader.py \
     --n_context 50 \
     --name experiment_without_conditions \
     --checkpoint_dir checkpoint
+```
+
+### Train from scratch
+```bash
+rm -r checkpoint
+python train_reader.py \
+    --train_data ../Data/without_conditions/train.json \
+    --eval_data ../Data/without_conditions/dev.json \
+    --use_checkpoint \
+    --lr 0.00005 \
+    --optim adamw \
+    --scheduler linear \
+    --weight_decay 0.01 \
+    --text_maxlength 250 \
+    --total_step 15000 \
+    --warmup_step 100 \
+    --eval_freq 100 \
+    --save_freq 100 \
+    --model_size large \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name experiment_without_conditions \
+    --accumulation_steps 4
 ```
 
 ## Test Script
