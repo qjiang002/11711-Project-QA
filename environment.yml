@@ -2,7 +2,7 @@ name: qa
 channels:
   - defaults
 dependencies:
-  - pip
+  - pip=21.2.4=py39h06a4308_0
   - pip:
     - transformers==3.0.2
 
