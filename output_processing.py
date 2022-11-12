@@ -22,6 +22,7 @@ def match_condition(contents, cond):
 
 def parse_answer(contents, answer, conj_symbol='[SEP]'):
     answer = [a.strip() for a in answer.strip().split('[SEP]')]
+    print(answer)
     if answer[0].startswith('unanswerable'):
         return []
     # contents = doc_dict[example_id_url[example_id]]["contents"]
@@ -76,7 +77,6 @@ def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=
                     out = {"id": id, "answers": [[ans, []]]}
             else:
                 contents = doc_dict[example_id_url[id]]["contents"]
-                print(id)
                 out = {"id": id, "answers": parse_answer(contents, ans)}
             json_outputs.append(out)
 
