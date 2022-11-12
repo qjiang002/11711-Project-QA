@@ -1,6 +1,6 @@
 import json
 import argparse
-from ConditionalQA.evaluate import load
+from evaluate import load
 exact_match_metric = load("exact_match")
 
 documents_path = './ConditionalQA/v1_0/documents.json'
