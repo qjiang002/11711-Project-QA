@@ -42,56 +42,38 @@ python train_reader.py \
     --checkpoint_dir checkpoint
 ```
 
-### Train with FiD_new
-1. T5-base, without condition
-```bash
-cd FiD_new
-rm -r checkpoint_base_wo_cond
-python train_reader.py \
-    --train_data ../Data/without_conditions/train.json \
+## Test Script
+```
+cd FiD
+
+python test_reader.py \
+    --model_path checkpoint/experiment_without_conditions/checkpoint/best_dev \
     --eval_data ../Data/without_conditions/dev.json \
-    --use_checkpoint \
-    --lr 0.00005 \
-    --optim adamw \
-    --scheduler linear \
-    --weight_decay 0.01 \
-    --text_maxlength 250 \
-    --total_step 15000 \
-    --warmup_step 100 \
-    --eval_freq 100 \
-    --save_freq 100 \
-    --model_size base \
     --per_gpu_batch_size 1 \
     --n_context 50 \
-    --name experiment_without_conditions \
-    --accumulation_steps 4 \
-    --checkpoint_dir checkpoint_base_wo_cond
+    --name CQA_test_without_conditions \
+    --checkpoint_dir checkpoint \
+    --write_results
 ```
-2. T5-large without condition
-```bash
-cd FiD_new
-rm -r checkpoint_large_wo_cond
-python train_reader.py \
-    --train_data ../Data/without_conditions/train.json \
-    --eval_data ../Data/without_conditions/dev.json \
-    --use_checkpoint \
-    --lr 0.00005 \
-    --optim adamw \
-    --scheduler linear \
-    --weight_decay 0.01 \
-    --text_maxlength 100 \
-    --total_step 15000 \
-    --warmup_step 100 \
-    --eval_freq 100 \
-    --save_freq 100 \
-    --model_size large \
-    --per_gpu_batch_size 1 \
-    --n_context 50 \
-    --name experiment_without_conditions \
-    --accumulation_steps 4 \
-    --checkpoint_dir checkpoint_large_wo_cond
+Use `--write_results` and the output is written to `final_output.txt`.
+
+## Output Processing and Evaluation
+Convert the FiD output to the format that ConditionalQA can use for evaluation
 ```
-3. T5-base, with condition
+python output_processing.py \
+    --FiD_output_file FiD/checkpoint/CQA_test_without_conditions/final_output.txt \
+    --CQA_output_file Outputs/without_conditions/dev_output.json
+```
+
+Evaluate the output with `ConditionalQA/evaluate.py`.
+```
+cd ConditionalQA
+
+python evaluate.py --pred_file=../Outputs/without_conditions/dev_output.json --ref_file=v1_0/dev.json
+```
+
+## Put it all together
+1. T5-base, with condition
 ```bash
 cd FiD_new
 rm -r checkpoint_base_w_cond
@@ -130,7 +112,7 @@ python output_processing.py \
 cd ConditionalQA/
 python evaluate.py --pred_file=../Outputs/with_conditions/dev_output_base.json --ref_file=v1_0/dev.json
 ```
-4. T5-large with condition
+2. T5-large with condition
 ```bash
 cd FiD_new
 rm -r checkpoint_large_w_cond
@@ -171,35 +153,6 @@ cd ConditionalQA/
 python evaluate.py --pred_file=../Outputs/with_conditions/dev_output_large.json --ref_file=v1_0/dev.json
 ```
 
-## Test Script
-```
-cd FiD
-
-python test_reader.py \
-    --model_path checkpoint/experiment_without_conditions/checkpoint/best_dev \
-    --eval_data ../Data/without_conditions/dev.json \
-    --per_gpu_batch_size 1 \
-    --n_context 50 \
-    --name CQA_test_without_conditions \
-    --checkpoint_dir checkpoint \
-    --write_results
-```
-Use `--write_results` and the output is written to `final_output.txt`.
-
-## Output Processing and Evaluation
-Convert the FiD output to the format that ConditionalQA can use for evaluation
-```
-python output_processing.py \
-    --FiD_output_file FiD/checkpoint/CQA_test_without_conditions/final_output.txt \
-    --CQA_output_file Outputs/without_conditions/dev_output.json
-```
-
-Evaluate the output with `ConditionalQA/evaluate.py`.
-```
-cd ConditionalQA
-
-python evaluate.py --pred_file=../Outputs/without_conditions/dev_output.json --ref_file=v1_0/dev.json
-```
 
 ## Reproduction Results
 
