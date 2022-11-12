@@ -22,11 +22,10 @@ def match_condition(contents, cond):
 
 def parse_answer(contents, answer, conj_symbol='[SEP]'):
     answer = [a.strip() for a in answer.strip().split('[SEP]')]
-    print(answer)
     if answer[0].startswith('unanswerable'):
         return []
     # contents = doc_dict[example_id_url[example_id]]["contents"]
-    if conj_symbol=='[SEP]':
+    if False:
         res = []
         segs = []
         for token in answer:
@@ -47,7 +46,6 @@ def parse_answer(contents, answer, conj_symbol='[SEP]'):
         return res
     res = []
     for ans in answer:
-        print(ans)
         ans = [a.strip() for a in ans.split('[CON]')]
         if len(ans)<=1:
             res.append([ans[0], []])
