@@ -51,7 +51,7 @@ def parse_answer(contents, answer, conj_symbol='[SEP]'):
             res.append([ans[0], []])
         else:
             conds = [match_condition(contents, c) for c in ans[1:] if c!='NA']
-            res.append(ans[0], conds)
+            res.extend([ans[0], conds])
     return res
 
 def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=False):
