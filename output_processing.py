@@ -46,6 +46,7 @@ def parse_answer(contents, answer, conj_symbol='[SEP]'):
         return res
     res = []
     for ans in answer:
+        print(ans)
         ans = [a.strip() for a in ans.split('[CON]')]
         if len(ans)<=1:
             res.append([ans[0], []])
