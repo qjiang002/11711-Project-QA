@@ -1,0 +1,285 @@
+dev-0	within 10 days [CON] NA
+dev-1	yes [CON] NA
+dev-2	yes [CON] NA
+dev-3	yes [CON] NA
+dev-4	yes [CON] NA
+dev-5	yes [CON] NA
+dev-6	yes [CON] NA
+dev-7	unanswerable
+dev-8	yes [CON] NA
+dev-9	yes [CON] NA
+dev-10	yes [CON] NA
+dev-11	yes [CON] NA
+dev-12	yes [CON] NA
+dev-13	yes [CON] NA
+dev-14	yes [CON] NA
+dev-15	yes [CON] NA
+dev-16	14% of the ‘eligible rent’ [CON] NA
+dev-17	yes [CON] NA
+dev-18	the donor [CON] NA
+dev-19	yes [CON] NA
+dev-20	yes [CON] NA
+dev-21	14% of the ‘eligible rent’ for 1 spare bedroom 25% of the ‘eligible rent’ [CON] NA
+dev-22	apply for the money in the account [CON] NA
+dev-23	0.1% [CON] NA
+dev-24	£250 [CON] NA
+dev-25	unanswerable
+dev-26	yes [CON] NA
+dev-27	yes [CON] NA
+dev-28	yes [CON] NA
+dev-29	yes [CON] NA
+dev-30	yes [CON] NA
+dev-31	yes [CON] NA
+dev-32	yes [CON] NA
+dev-33	yes [CON] NA
+dev-34	by a specific date [CON] NA
+dev-35	yes [CON] NA
+dev-36	yes [CON] NA
+dev-37	yes [CON] NA
+dev-38	yes [CON] NA
+dev-39	yes [CON] NA
+dev-40	yes [CON] NA
+dev-41	yes [CON] NA
+dev-42	fill in the honours nomination form and email it to the Honours and Appointments Secretariat [CON] NA
+dev-43	no [CON] NA
+dev-44	50 years [CON] NA
+dev-45	yes [CON] NA
+dev-46	yes [CON] NA
+dev-47	yes [CON] NA
+dev-48	the SEN co-ordinator, or ‘SENCO’ [CON] NA
+dev-49	yes [CON] NA
+dev-50	yes [CON] NA
+dev-51	the rural payments agency [CON] NA
+dev-52	$ [CON] NA
+dev-53	yes [CON] NA
+dev-54	first aid [CON] NA
+dev-55	yes [CON] NA
+dev-56	a special learning programme [CON] NA
+dev-57	ask for an EHC assessment [CON] NA
+dev-58	yes [CON] NA
+dev-59	yes [CON] NA
+dev-60	yes [CON] NA
+dev-61	yes [CON] NA
+dev-62	yes [CON] NA
+dev-63	the national careers service course search [CON] NA
+dev-64	2 years [CON] NA
+dev-65	yes [CON] NA
+dev-66	yes [CON] NA
+dev-67	yes [CON] NA
+dev-68	the National Careers Service [CON] NA
+dev-69	no [CON] NA
+dev-70	yes [CON] NA
+dev-71	yes [CON] NA
+dev-72	yes [CON] NA
+dev-73	your own moped or motorcycle [CON] NA
+dev-74	yes [CON] NA
+dev-75	your course [CON] NA
+dev-76	yes [CON] NA
+dev-77	you’ll get a letter from the ADI registrar to tell you that your registration is suspended [CON] NA
+dev-78	yes [CON] NA
+dev-79	yes [CON] NA
+dev-80	safety measures must be in place [CON] NA
+dev-81	the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 [CON] NA
+dev-82	every year [CON] NA
+dev-83	yes [CON] NA
+dev-84	yes [CON] NA
+dev-85	yes [CON] NA
+dev-86	yes [CON] NA
+dev-87	through your business’s HM Revenue and Customs (HMRC) online account [CON] NA
+dev-88	yes [CON] NA
+dev-89	2 years [CON] NA
+dev-90	22 October following the tax year it applies to [CON] NA
+dev-91	up to 4 weeks’ pay [CON] NA
+dev-92	no [CON] NA
+dev-93	your staff or trade union representative or Acas [CON] NA
+dev-94	no [CON] NA
+dev-95	yes [CON] NA
+dev-96	1 month to 2 years [CON] NA
+dev-97	unanswerable
+dev-98	yes [CON] NA
+dev-99	unanswerable
+dev-100	yes [CON] NA
+dev-101	unanswerable
+dev-102	yes [CON] NA
+dev-103	yes [CON] NA
+dev-104	yes [CON] NA
+dev-105	every year [CON] NA
+dev-106	22 October following the tax year it applies to [CON] NA
+dev-107	no [CON] NA
+dev-108	within one month of the start of employment [CON] NA
+dev-109	no [CON] NA
+dev-110	the Insolvency Service’s Redundancy Payments Service (RPS) [CON] NA
+dev-111	yes [CON] NA
+dev-112	between 5,000 litres (5 cubic metres) and 50,000 litres (50 cubic metres) [CON] NA
+dev-113	yes [CON] NA
+dev-114	yes [CON] NA
+dev-115	yes [CON] NA
+dev-116	yes [CON] NA
+dev-117	the centralised attachment of earnings payments (CAPS) office [CON] NA
+dev-118	yes [CON] NA
+dev-119	yes [CON] NA
+dev-120	yes [CON] NA
+dev-121	the centralised attachment of earnings payments (CAPS) office [CON] NA
+dev-122	yes [CON] NA
+dev-123	yes [CON] NA
+dev-124	yes [CON] NA
+dev-125	yes [CON] NA
+dev-126	confirm to your supplier in writing [CON] NA
+dev-127	the office of the immigration services commissioner (oisc) adiser. [CON] NA
+dev-128	yes [CON] NA
+dev-129	yes [CON] NA
+dev-130	download a bereavement support payment form [CON] NA
+dev-131	yes [CON] NA
+dev-132	yes [CON] NA
+dev-133	yes [CON] NA
+dev-134	yes [CON] NA
+dev-135	yes [CON] NA
+dev-136	yes [CON] NA
+dev-137	yes [CON] NA
+dev-138	yes [CON] NA
+dev-139	yes [CON] NA
+dev-140	yes [CON] NA
+dev-141	yes [CON] NA
+dev-142	£2,500 [CON] NA
+dev-143	money will be paid directly to the organiser of the funeral (for example, the funeral director) if you have not paid yet [CON] NA
+dev-144	yes [CON] NA
+dev-145	yes [CON] NA
+dev-146	yes [CON] NA
+dev-147	yes [CON] NA
+dev-148	yes [CON] NA
+dev-149	pay the interest less Income Tax at the basic rate of 20% [CON] NA
+dev-150	your local council [CON] NA
+dev-151	yes [CON] NA
+dev-152	yes [CON] NA
+dev-153	yes [CON] NA
+dev-154	yes [CON] NA
+dev-155	yes [CON] NA
+dev-156	yes [CON] NA
+dev-157	no [CON] NA
+dev-158	ask the senior courts costs office to make a ‘detailed assessment’ of your bill [CON] NA
+dev-159	£675 [CON] NA
+dev-160	inspections and insurance [CON] NA
+dev-161	meet the eligibility criteria set by TfL for your vehicle [CON] NA
+dev-162	yes [CON] NA
+dev-163	yes [CON] NA
+dev-164	yes [CON] NA
+dev-165	yes [CON] NA
+dev-166	yes [CON] NA
+dev-167	yes [CON] NA
+dev-168	yes [CON] NA
+dev-169	yes [CON] NA
+dev-170	use of equipment, coaching, post-match refreshments [CON] NA
+dev-171	set out how you meet the eligibility criteria for registering as a CASC [CON] NA
+dev-172	yes [CON] NA
+dev-173	3 years [CON] NA
+dev-174	ask them to give their consent [CON] NA
+dev-175	yes [CON] NA
+dev-176	VAT [CON] NA
+dev-177	the authority responsible for the road [CON] NA
+dev-178	yes [CON] NA
+dev-179	2 working days [CON] NA
+dev-180	maximum of 5 countries [CON] NA
+dev-181	the visa application centre where you applied [CON] NA
+dev-182	yes [CON] NA
+dev-183	yes [CON] NA
+dev-184	apply for a new one [CON] NA
+dev-185	£100 [CON] NA
+dev-186	the authority responsible for the road [CON] NA
+dev-187	yes [CON] NA
+dev-188	yes [CON] NA
+dev-189	at least 4 weeks [CON] NA
+dev-190	through your local council [CON] NA
+dev-191	several months [CON] NA
+dev-192	yes [CON] NA
+dev-193	yes [CON] NA
+dev-194	yes [CON] NA
+dev-195	yes [CON] NA
+dev-196	9 months and 1 day [CON] NA
+dev-197	by either: filling in the ‘nil to pay’ form [CON] NA
+dev-198	yes [CON] NA
+dev-199	yes [CON] NA
+dev-200	yes [CON] NA
+dev-201	try to come to an agreement with the local planning authority (LPA) by adjusting your plans [CON] NA
+dev-202	yes [CON] NA
+dev-203	yes [CON] NA
+dev-204	yes [CON] NA
+dev-205	yes [CON] NA
+dev-206	xi [CON] NA
+dev-207	4 years [CON] NA
+dev-208	yes [CON] NA
+dev-209	yes [CON] NA
+dev-210	yes [CON] NA
+dev-211	on any payslip that HM Revenue and Customs (HMRC) sent you through your company’s HMRC online account - choose ‘View account’ then ‘Accounting period’ [CON] NA
+dev-212	within the deadline [CON] NA
+dev-213	yes [CON] NA
+dev-214	yes [CON] NA
+dev-215	yes [CON] NA
+dev-216	yes [CON] NA
+dev-217	yes [CON] NA
+dev-218	yes [CON] NA
+dev-219	yes [CON] NA
+dev-220	yes [CON] NA
+dev-221	no [CON] NA
+dev-222	follow safety regulations [CON] NA
+dev-223	yes [CON] NA
+dev-224	yes [CON] NA
+dev-225	get planning permission and building regulations approval [CON] NA
+dev-226	your local council [CON] NA
+dev-227	your landlord [CON] NA
+dev-228	the office of the immigration services commissioner (oisc) adiser Finder [CON] NA
+dev-229	email the office of the immigration services commissioner [CON] NA
+dev-230	yes [CON] NA
+dev-231	yes [CON] NA
+dev-232	a bank in the country [CON] NA
+dev-233	the country you’re living in [CON] NA
+dev-234	a bank in the country [CON] NA
+dev-235	yes [CON] NA
+dev-236	yes [CON] NA
+dev-237	yes [CON] NA
+dev-238	7 days [CON] NA
+dev-239	the same pay as a permanent employee doing the same job [CON] NA
+dev-240	the Central Arbitration Committee (CAC) [CON] NA
+dev-241	yes [CON] NA
+dev-242	a: colleague trade union representative [CON] NA
+dev-243	your area [CON] NA
+dev-244	no [CON] NA
+dev-245	yes [CON] NA
+dev-246	show who you are [CON] NA
+dev-247	6 months [CON] NA
+dev-248	your employer [CON] NA
+dev-249	yes [CON] NA
+dev-250	your employer should write to you setting out their final decision [CON] NA
+dev-251	yes [CON] NA
+dev-252	you may be sent to a safe country that will consider your asylum claim [CON] NA
+dev-253	yes [CON] NA
+dev-254	yes [CON] NA
+dev-255	no [CON] NA
+dev-256	Acas [CON] NA
+dev-257	yes [CON] NA
+dev-258	yes [CON] NA
+dev-259	at least 15 [CON] NA
+dev-260	yes [CON] NA
+dev-261	at least 15 weeks before your SMP start date [CON] NA
+dev-262	your course [CON] NA
+dev-263	yes [CON] NA
+dev-264	£11,222 [CON] NA
+dev-265	your course [CON] NA
+dev-266	£11,222 [CON] NA
+dev-267	no [CON] NA
+dev-268	yes [CON] NA
+dev-269	£11,222 [CON] NA
+dev-270	unanswerable
+dev-271	yes [CON] NA
+dev-272	try to come to an agreement with the local planning authority (LPA) by adjusting your plans [CON] NA
+dev-273	4 years [CON] NA
+dev-274	4 years [CON] NA
+dev-275	yes [CON] NA
+dev-276	your landlord [CON] NA
+dev-277	your landlord [CON] NA
+dev-278	follow safety regulations [CON] NA
+dev-279	get planning permission and building regulations approval [CON] NA
+dev-280	no [CON] NA
+dev-281	yes [CON] NA
+dev-282	you’ll be considered in the UK and given to a caseworker [CON] NA
+dev-283	yes [CON] NA
+dev-284	a manager who has not been involved in the process should handle the appeal [CON] NA
