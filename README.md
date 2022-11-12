@@ -112,8 +112,23 @@ python train_reader.py \
     --per_gpu_batch_size 1 \
     --n_context 50 \
     --name experiment_with_conditions \
-    --accumulation_steps 4 \
+    --accumulation_steps 8 \
     --checkpoint_dir checkpoint_base_w_cond
+python test_reader.py \
+    --model_path checkpoint_base_w_cond/experiment_with_conditions/checkpoint/best_dev \
+    --eval_data ../Data/with_conditions/FiD_dev_CON_no_title_html.json \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name CQA_base_test_with_conditions \
+    --checkpoint_dir checkpoint_base_w_cond \
+    --write_results
+cd ../
+python output_processing.py \
+    --FiD_output_file FiD_new/checkpoint_base_w_cond/CQA_base_test_with_conditions/final_output.txt \
+    --CQA_output_file Outputs/with_conditions/dev_output_base.json \
+    --cqa_data_path ./ConditionalQA/v1_0/dev.json
+cd ConditionalQA/
+python evaluate.py --pred_file=../Outputs/with_conditions/dev_output_base.json --ref_file=v1_0/dev.json
 ```
 4. T5-large with condition
 ```bash
@@ -137,8 +152,23 @@ python train_reader.py \
     --per_gpu_batch_size 1 \
     --n_context 50 \
     --name experiment_with_conditions \
-    --accumulation_steps 4 \
+    --accumulation_steps 8 \
     --checkpoint_dir checkpoint_large_w_cond
+python test_reader.py \
+    --model_path checkpoint_large_w_cond/experiment_with_conditions/checkpoint/best_dev \
+    --eval_data ../Data/with_conditions/FiD_dev_CON_no_title_html.json \
+    --per_gpu_batch_size 1 \
+    --n_context 50 \
+    --name CQA_large_test_with_conditions \
+    --checkpoint_dir checkpoint_large_w_cond \
+    --write_results
+cd ../
+python output_processing.py \
+    --FiD_output_file FiD_new/checkpoint_large_w_cond/CQA_large_test_with_conditions/final_output.txt \
+    --CQA_output_file Outputs/with_conditions/dev_output_large.json \
+    --cqa_data_path ./ConditionalQA/v1_0/dev.json
+cd ConditionalQA/
+python evaluate.py --pred_file=../Outputs/with_conditions/dev_output_large.json --ref_file=v1_0/dev.json
 ```
 
 ## Test Script
