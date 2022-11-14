@@ -36,6 +36,8 @@ def generate_FiD_data_without_conditions(cqa_data_path, FiD_data_path):
     new_example['question'] = example['question']
     if 'test' not in cqa_data_path:
       new_example['answers'] = [ans[0] for ans in example['answers']] if example['not_answerable'] == False else ['not_answerable']
+    else:
+      new_example['answers'] = [""]
     new_example['ctxs'] = copy.deepcopy(doc_dict[example['url']]['sections'])
     new_example['ctxs'].append({'title': "title", 'text': doc_dict[example['url']]['title']})
     new_example['ctxs'].append({'title': "scenario", 'text': example['scenario']})

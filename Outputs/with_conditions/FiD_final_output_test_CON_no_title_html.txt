@@ -1,0 +1,804 @@
+test-0	yes [CON] NA
+test-1	yes [CON] NA
+test-2	up to 8 weeks [CON] NA
+test-3	unpaid [CON] NA
+test-4	£46 [CON] NA
+test-5	yes [CON] NA
+test-6	family visa [CON] NA
+test-7	2 vouchers a week [CON] NA
+test-8	temporary [CON] NA
+test-9	yes [CON] NA
+test-10	extra funding [CON] NA
+test-11	yes [CON] NA
+test-12	18 [CON] NA
+test-13	yes [CON] NA
+test-14	up to 8 weeks [CON] NA
+test-15	your council [CON] NA
+test-16	family visa [CON] NA
+test-17	unanswerable
+test-18	yes [CON] NA
+test-19	whole weeks [CON] NA
+test-20	yes [CON] NA
+test-21	no [CON] NA
+test-22	the national careers service [CON] NA
+test-23	£86 [CON] NA
+test-24	whole weeks [CON] NA
+test-25	yes [CON] NA
+test-26	yes [CON] NA
+test-27	yes [CON] NA
+test-28	yes [CON] NA
+test-29	yes [CON] NA
+test-30	download and complete the forms for changing a child’s name [CON] NA
+test-31	an enrolled deed poll [CON] NA
+test-32	yes [CON] NA
+test-33	yes [CON] NA
+test-34	yes [CON] NA
+test-35	yes [CON] NA
+test-36	no [CON] NA
+test-37	no [CON] NA
+test-38	download and fill in a request for your own records (PDF, 64KB) [CON] NA
+test-39	yes [CON] NA
+test-40	no [CON] NA
+test-41	£122.55 [CON] NA
+test-42	no [CON] NA
+test-43	yes [CON] NA
+test-44	yes [CON] NA
+test-45	yes [CON] NA
+test-46	unanswerable
+test-47	yes [CON] NA
+test-48	search all of the following design registers [CON] NA
+test-49	yes [CON] NA
+test-50	yes [CON] NA
+test-51	£40 [CON] NA
+test-52	the academies or free schools [CON] NA
+test-53	child law advice [CON] NA
+test-54	follow the school’s complaints procedure [CON] NA
+test-55	follow the school’s complaints process [CON] NA
+test-56	a lawyer [CON] NA
+test-57	yes [CON] NA
+test-58	yes [CON] NA
+test-59	no [CON] NA
+test-60	within 5 days of you getting the decision letter [CON] NA
+test-61	yes [CON] NA
+test-62	no [CON] NA
+test-63	no [CON] NA
+test-64	yes [CON] NA
+test-65	no [CON] NA
+test-66	no [CON] NA
+test-67	yes [CON] NA
+test-68	no [CON] NA
+test-69	no [CON] NA
+test-70	50 years [CON] NA
+test-71	yes [CON] NA
+test-72	yes [CON] NA
+test-73	within 5 days of you getting the decision letter [CON] NA
+test-74	no [CON] NA
+test-75	yes [CON] NA
+test-76	yes [CON] NA
+test-77	no [CON] NA
+test-78	up to 12 months [CON] NA
+test-79	yes [CON] NA
+test-80	yes [CON] NA
+test-81	5 years [CON] NA
+test-82	yes [CON] NA
+test-83	yes [CON] NA
+test-84	send an amateur built declaration [CON] NA
+test-85	yes [CON] NA
+test-86	yes [CON] NA
+test-87	the local police force [CON] NA
+test-88	yes [CON] NA
+test-89	a letter saying what your new name is [CON] NA [SEP] your original mt back [CON] NA
+test-90	yes [CON] NA
+test-91	no [CON] NA
+test-92	you have to retake and pass the ADI part 1 test again [CON] NA
+test-93	yes [CON] NA
+test-94	yes [CON] NA
+test-95	yes [CON] NA
+test-96	yes [CON] NA
+test-97	the iva scheme [CON] NA
+test-98	10 days [CON] NA
+test-99	£27 [CON] NA
+test-100	yes [CON] NA
+test-101	yes [CON] NA
+test-102	no [CON] NA
+test-103	2 years [CON] NA
+test-104	no [CON] NA
+test-105	no [CON] NA
+test-106	yes [CON] NA
+test-107	no [CON] NA
+test-108	yes [CON] NA
+test-109	no [CON] NA
+test-110	no [CON] NA
+test-111	yes [CON] NA
+test-112	yes [CON] NA
+test-113	appeal the result of a grievance or disciplinary procedure [CON] NA
+test-114	no [CON] NA
+test-115	no [CON] NA
+test-116	48 hours [CON] NA
+test-117	no [CON] NA
+test-118	unanswerable
+test-119	yes [CON] NA
+test-120	yes [CON] NA
+test-121	yes [CON] NA
+test-122	yes [CON] NA
+test-123	yes [CON] NA
+test-124	no [CON] NA
+test-125	navigation lights, shapes and sound-signalling devices [CON] NA
+test-126	within 6 months of the date on the decision notice from your local planning authority. [CON] NA
+test-127	the planning inspectorate will tell you how to do this [CON] NA
+test-128	no [CON] NA
+test-129	no [CON] NA
+test-130	online [CON] NA
+test-131	yes [CON] NA
+test-132	a copy of your listed building consent application form and all documents you sent with your application [CON] NA [SEP] a copy of the site ownership certificate [CON] NA [SEP] any correspondence with your local planning authority
+test-133	yes [CON] NA
+test-134	no [CON] NA
+test-135	yes [CON] NA
+test-136	at least 4 weeks [CON] NA
+test-137	contact the ministry of defence (mod) [CON] NA
+test-138	the ministry of defence (mod) [CON] NA
+test-139	any other documents that directly support your appeal, for example your grounds of appeal [CON] NA
+test-140	no [CON] NA
+test-141	yes [CON] NA
+test-142	yes [CON] NA
+test-143	yes [CON] NA
+test-144	yes [CON] NA
+test-145	yes [CON] NA
+test-146	no [CON] NA
+test-147	no [CON] NA
+test-148	yes [CON] NA
+test-149	yes [CON] NA
+test-150	at least 6 months [CON] NA
+test-151	no [CON] NA
+test-152	at least 3 months [CON] NA
+test-153	£355 [CON] NA
+test-154	33211 [CON] NA
+test-155	yes [CON] NA
+test-156	council dog expert [CON] NA
+test-157	yes [CON] NA
+test-158	yes [CON] NA
+test-159	at least 5 years [CON] NA
+test-160	yes [CON] NA
+test-161	4 weeks’ notice [CON] NA
+test-162	yes [CON] NA
+test-163	12 months of age [CON] NA
+test-164	30 days of the horse’s arrival [CON] NA
+test-165	hmrc’s extra support team [CON] NA
+test-166	appoint someone to talk to hmrc for you [CON] NA
+test-167	yes [CON] NA
+test-168	up to £3,000 [CON] NA
+test-169	between £1,000 and £2,500 [CON] NA
+test-170	yes [CON] NA
+test-171	contacting them [CON] NA
+test-172	yes [CON] NA
+test-173	yes [CON] NA
+test-174	yes [CON] NA
+test-175	no [CON] NA
+test-176	no [CON] NA
+test-177	yes [CON] NA
+test-178	yes [CON] NA
+test-179	yes [CON] NA
+test-180	zero emission mileage figure [CON] NA
+test-181	yes [CON] NA
+test-182	a bare trust [CON] NA
+test-183	no [CON] NA
+test-184	less than the rent a room limit [CON] NA
+test-185	the income tax helpline [CON] NA
+test-186	check how your employer works out how much tax to deduct from your pay [CON] NA
+test-187	check or update your company car tax online [CON] NA
+test-188	every year [CON] NA
+test-189	yes [CON] NA
+test-190	textphone, webchat or bsl [CON] NA
+test-191	yes [CON] NA
+test-192	self assessment tax return [CON] NA
+test-193	apply for a refund [CON] NA
+test-194	the trustees pay income tax on the trust income by filling out a trust and estate tax return. [CON] NA
+test-195	no [CON] NA
+test-196	pay any capital gains tax due [CON] NA
+test-197	reporting and paying tax on behalf of the trust [CON] NA
+test-198	yes [CON] NA
+test-199	£11,175 [CON] NA
+test-200	yes [CON] NA
+test-201	yes [CON] NA
+test-202	yes [CON] NA
+test-203	no [CON] NA
+test-204	yes [CON] NA
+test-205	yes [CON] NA
+test-206	no [CON] NA
+test-207	3 weeks [CON] NA
+test-208	3 years [CON] NA
+test-209	yes [CON] NA
+test-210	yes [CON] NA
+test-211	yes [CON] NA
+test-212	no [CON] NA
+test-213	no fee [CON] NA
+test-214	no [CON] NA
+test-215	within 3 weeks [CON] NA
+test-216	yes [CON] NA
+test-217	no [CON] NA
+test-218	no [CON] NA
+test-219	unanswerable
+test-220	yes [CON] NA
+test-221	8% plus the bank of england base rate for business to business transactions [CON] NA
+test-222	8% plus the bank of england base rate [CON] NA
+test-223	yes [CON] NA
+test-224	a benefits calculator [CON] NA
+test-225	yes [CON] NA
+test-226	yes [CON] NA
+test-227	tell someone else [CON] NA
+test-228	yes [CON] NA
+test-229	a solicitor can help you choose an ‘after-the-event’ insurance policy and may take it out on your behalf. [CON] NA
+test-230	no [CON] NA
+test-231	yes [CON] NA
+test-232	no [CON] NA
+test-233	anonymously [CON] NA
+test-234	no [CON] NA
+test-235	£4.30 per hour [CON] NA
+test-236	paid and be entitled to the national minimum wage [CON] NA
+test-237	search for an apprenticeship [CON] NA
+test-238	70 [CON] NA
+test-239	the advisory committee for your area [CON] NA
+test-240	yes [CON] NA
+test-241	fees for experts [CON] NA
+test-242	3 years [CON] NA
+test-243	after inspections, tests or prosecutions against you. [CON] NA
+test-244	£500 [CON] NA
+test-245	yes [CON] NA
+test-246	ask for your things back [CON] NA
+test-247	yes [CON] NA
+test-248	go to court [CON] NA
+test-249	these tables list the eligible applications and whether you can pay to get a faster decision [CON] NA
+test-250	within 5 working days [CON] NA
+test-251	no [CON] NA
+test-252	yes [CON] NA
+test-253	yes [CON] NA
+test-254	£150 [CON] NA
+test-255	no [CON] NA
+test-256	no [CON] NA
+test-257	yes [CON] NA
+test-258	ask the court to take further steps [CON] NA
+test-259	yes [CON] NA
+test-260	companies house [CON] NA
+test-261	1 day after deadline [CON] NA
+test-262	yes [CON] NA
+test-263	unanswerable
+test-264	online or telephone banking [CON] NA
+test-265	yes [CON] NA
+test-266	£3,000 [CON] NA
+test-267	no [CON] NA
+test-268	no [CON] NA
+test-269	close any bank accounts and transfer any domain names [CON] NA
+test-270	yes [CON] NA
+test-271	by writing to hmrc - quote your unique taxpayer reference (utr) and the payment reference shown on the notice [CON] NA
+test-272	52 weeks [CON] NA
+test-273	yes [CON] NA
+test-274	yes [CON] NA
+test-275	yes [CON] NA
+test-276	yes [CON] NA
+test-277	no [CON] NA
+test-278	use bailiffs [CON] NA
+test-279	ask the court to take further steps to collect the money [CON] NA
+test-280	change the terms of (‘vary’) the judgment [CON] NA [SEP] pay it back in instalments [CON] NA
+test-281	yes [CON] NA
+test-282	accounting, legal and other professional fees [CON] NA
+test-283	yes [CON] NA
+test-284	yes [CON] NA
+test-285	yes [CON] NA
+test-286	yes [CON] NA
+test-287	yes [CON] NA
+test-288	30% of an assessment [CON] NA
+test-289	use compatible accounting software instead [CON] NA
+test-290	a ‘balance sheet’ [CON] NA [SEP] a ‘profit and loss account’ [CON] NA [SEP] a ‘profit and loss account’ [CON] NA
+test-291	yes [CON] NA
+test-292	midday 8 september 2021 [CON] NA
+test-293	6 years [CON] NA
+test-294	yes [CON] NA
+test-295	g34barc20051710753491 [CON] NA
+test-296	yes [CON] NA
+test-297	below hmrc’s official interest rate [CON] NA
+test-298	no [CON] NA
+test-299	no [CON] NA
+test-300	yes [CON] NA
+test-301	yes [CON] NA
+test-302	no [CON] NA
+test-303	use your VAT online account [CON] NA
+test-304	yes [CON] NA
+test-305	yes [CON] NA
+test-306	withhold some information when responding to a request [CON] NA
+test-307	3 working days [CON] NA
+test-308	48 hours [CON] NA
+test-309	yes [CON] NA
+test-310	tell your corporation tax office straight away [CON] NA
+test-311	yes [CON] NA
+test-312	no [CON] NA
+test-313	yes [CON] NA
+test-314	yes [CON] NA
+test-315	direct debit [CON] NA
+test-316	hmrc’s online banking [CON] NA
+test-317	no [CON] NA
+test-318	yes [CON] NA
+test-319	no [CON] NA
+test-320	no [CON] NA
+test-321	yes [CON] NA
+test-322	6 years [CON] NA
+test-323	use compatible accounting software [CON] NA
+test-324	yes [CON] NA
+test-325	yes [CON] NA
+test-326	yes [CON] NA
+test-327	yes [CON] NA
+test-328	30 days [CON] NA
+test-329	no [CON] NA
+test-330	yes [CON] NA
+test-331	no [CON] NA
+test-332	yes [CON] NA
+test-333	maximum weeks [CON] NA
+test-334	yes [CON] NA
+test-335	2013 to 2014 [CON] NA
+test-336	yes [CON] NA
+test-337	yes [CON] NA
+test-338	yes [CON] NA
+test-339	yes [CON] NA
+test-340	yes [CON] NA
+test-341	48 hours [CON] NA
+test-342	yes [CON] NA
+test-343	£150 [CON] NA
+test-344	yes [CON] NA
+test-345	no [CON] NA
+test-346	no [CON] NA
+test-347	yes [CON] NA
+test-348	keep their baby for the first 18 months in a mother and baby unit [CON] NA
+test-349	yes [CON] NA
+test-350	yes [CON] NA
+test-351	yes [CON] NA
+test-352	yes [CON] NA
+test-353	yes [CON] NA
+test-354	the joint terrorism analysis centre and the security service (mi5) [CON] NA
+test-355	call the police or report your suspicions to them online [CON] NA
+test-356	within one month of the date on the decision letter [CON] NA
+test-357	yes [CON] NA
+test-358	28 days [CON] NA
+test-359	yes [CON] NA
+test-360	yes [CON] NA
+test-361	yes [CON] NA
+test-362	contact the police force you want to complain about [CON] NA
+test-363	yes [CON] NA
+test-364	yes [CON] NA
+test-365	no [CON] NA
+test-366	no [CON] NA
+test-367	your name [CON] NA [SEP] a contact postal or email address [CON] NA [SEP] a contact postal or email address [CON] NA [SEP] a detailed description of the information you want
+test-368	complain or appeal to the information commissioner [CON] NA
+test-369	yes [CON] NA
+test-370	yes [CON] NA
+test-371	3 years before your earliest release date [CON] NA
+test-372	ask your lawyer [CON] NA
+test-373	yes [CON] NA
+test-374	no [CON] NA
+test-375	no [CON] NA
+test-376	yes [CON] NA
+test-377	yes [CON] NA
+test-378	yes [CON] NA
+test-379	yes [CON] NA
+test-380	once a week [CON] NA
+test-381	secure children’s homes [CON] NA
+test-382	30 hours [CON] NA
+test-383	no [CON] NA
+test-384	yes [CON] NA
+test-385	yes [CON] NA
+test-386	yes [CON] NA
+test-387	unanswerable
+test-388	unanswerable
+test-389	£110 [CON] NA
+test-390	yes [CON] NA
+test-391	no [CON] NA
+test-392	yes [CON] NA
+test-393	yes [CON] NA
+test-394	yes [CON] NA
+test-395	no [CON] NA
+test-396	3,500kg maximum authorised mass (MAM) [CON] NA
+test-397	yes [CON] NA
+test-398	apply to the first-tier tribunal [CON] NA
+test-399	yes [CON] NA
+test-400	your name [CON] NA [SEP] a contact postal or email address [CON] NA [SEP] a detailed description of the information you want [CON] NA
+test-401	call the police or report your suspicions to them online [CON] NA
+test-402	yes [CON] NA
+test-403	tell the crown prosecution service (cps), your solicitor or the court staff [CON] NA
+test-404	no [CON] NA
+test-405	yes [CON] NA
+test-406	no [CON] NA
+test-407	no [CON] NA
+test-408	no [CON] NA
+test-409	complain directly to the person or organisation [CON] NA [SEP] use someone else to help you sort it out [CON] NA [SEP] make a claim in a court or tribunal [CON] NA
+test-410	use someone else to help you sort it out [CON] NA
+test-411	no [CON] NA
+test-412	yes [CON] NA
+test-413	use someone else to help you sort it out [CON] NA [SEP] make a claim in a court or tribunal [CON] NA
+test-414	yes [CON] NA
+test-415	no [CON] NA
+test-416	3 to 11 [CON] NA
+test-417	get help with their physical and mental health [CON] NA [SEP] get help with their physical and mental health [CON] NA [SEP] get help with their physical and mental health [CON] NA [SEP] get
+test-418	in their cell for up to 21 days [CON] NA
+test-419	yes [CON] NA
+test-420	yes [CON] NA
+test-421	up to 24 hours [CON] NA
+test-422	no [CON] NA
+test-423	yes [CON] NA
+test-424	yes [CON] NA
+test-425	yes [CON] NA
+test-426	call the police [CON] NA
+test-427	yes [CON] NA
+test-428	at least 62mph [CON] NA
+test-429	yes [CON] NA
+test-430	within 20 working days of receiving your request [CON] NA
+test-431	no [CON] NA
+test-432	monthly, every 6 months or every year [CON] NA
+test-433	yes [CON] NA
+test-434	no [CON] NA
+test-435	4 years [CON] NA
+test-436	view your driving licence record [CON] NA
+test-437	yes [CON] NA
+test-438	yes [CON] NA
+test-439	yes [CON] NA
+test-440	yes [CON] NA
+test-441	yes [CON] NA
+test-442	within 5 working days of the appeal being started by the planning inspectorate [CON] NA
+test-443	15 [CON] NA
+test-444	artificial fly [CON] NA
+test-445	8 weeks [CON] NA
+test-446	a lawyer [CON] NA
+test-447	yes [CON] NA
+test-448	unanswerable
+test-449	yes [CON] NA
+test-450	30 weeks [CON] NA
+test-451	at least 5 years [CON] NA
+test-452	make a complaint to a ‘designated person’ (your MP, a local councillor or a tenant panel) [CON] NA
+test-453	no [CON] NA
+test-454	no [CON] NA
+test-455	a lump-sum payment [CON] NA
+test-456	download the guidance and fill in the application form [CON] NA
+test-457	no [CON] NA
+test-458	yes [CON] NA
+test-459	yes [CON] NA
+test-460	yes [CON] NA
+test-461	contact the ministry of defence (mod) [CON] NA
+test-462	contact the ministry of defence (mod) [CON] NA
+test-463	up to 10% [CON] NA
+test-464	yes [CON] NA
+test-465	yes [CON] NA
+test-466	yes [CON] NA
+test-467	the environment agency gives out stream warnings [CON] NA
+test-468	yes [CON] NA
+test-469	yes [CON] NA
+test-470	yes [CON] NA
+test-471	a home through shared ownership [CON] NA
+test-472	a map showing the proposed right of way [CON] NA [SEP] any other documents that directly support your appeal, for example your grounds for appeal [CON] NA
+test-473	unanswerable
+test-474	yes [CON] NA
+test-475	get help from a mediation service [CON] NA
+test-476	the planning inspectorate online [CON] NA
+test-477	no [CON] NA
+test-478	challenge the decision in the high court [CON] NA
+test-479	yes [CON] NA
+test-480	contact details for the people holding the event [CON] NA [SEP] type of aircraft, if known [CON] NA [SEP] a brief description of your complaint [CON] NA
+test-481	the ministry of defence (mod) [CON] NA
+test-482	within 8 weeks [CON] NA
+test-483	yes [CON] NA
+test-484	no [CON] NA
+test-485	replace a licence [CON] NA
+test-486	the passport issuing organisation (pio) [CON] NA
+test-487	the medication your animal can get depends on how it’s categorised on its passport [CON] NA
+test-488	collecting and managing the service charge [CON] NA
+test-489	yes [CON] NA
+test-490	up to £20,000 [CON] NA
+test-491	write a letter, explaining the problem clearly and sticking to the facts [CON] NA
+test-492	fined [CON] NA
+test-493	no [CON] NA
+test-494	no [CON] NA
+test-495	5% [CON] NA
+test-496	yes [CON] NA
+test-497	yes [CON] NA
+test-498	half or a third [CON] NA
+test-499	the ombudsman [CON] NA
+test-500	get an unlimited fine or be sent to prison for up to 6 months [CON] NA
+test-501	your council’s dog warden service [CON] NA
+test-502	yes [CON] NA
+test-503	6 months [CON] NA
+test-504	no [CON] NA
+test-505	no [CON] NA
+test-506	yes [CON] NA
+test-507	as soon after as is reasonably possible [CON] NA
+test-508	on your council’s website or at the town hall [CON] NA
+test-509	the first Thursday in may [CON] NA
+test-510	up to £2,500 [CON] NA
+test-511	£30 [CON] NA
+test-512	yes [CON] NA
+test-513	4 weeks [CON] NA
+test-514	yes [CON] NA
+test-515	countyside stewardship funding [CON] NA
+test-516	no [CON] NA
+test-517	contact the pio that issued the original passport [CON] NA
+test-518	yes [CON] NA
+test-519	unanswerable
+test-520	yes [CON] NA
+test-521	yes [CON] NA
+test-522	yes [CON] NA
+test-523	£100 on the spot [CON] NA
+test-524	no [CON] NA
+test-525	£1 million [CON] NA
+test-526	the canal and river trust website [CON] NA
+test-527	a boat safety scheme (bss) certificate [CON] NA
+test-528	yes [CON] NA
+test-529	make a complaint to a ‘designated person’ [CON] NA
+test-530	yes [CON] NA
+test-531	yes [CON] NA
+test-532	yes [CON] NA
+test-533	within 28 days of the notice [CON] NA
+test-534	the environment agency [CON] NA
+test-535	the environment agency [CON] NA
+test-536	unanswerable
+test-537	at least 4 weeks [CON] NA
+test-538	no [CON] NA
+test-539	no [CON] NA
+test-540	3 years [CON] NA
+test-541	no [CON] NA
+test-542	no [CON] NA
+test-543	yes [CON] NA
+test-544	yes [CON] NA
+test-545	any valid passports from a different country your child might have [CON] NA
+test-546	second hand goods [CON] NA
+test-547	copies of purchase and sales invoices for all items [CON] NA
+test-548	5 years [CON] NA
+test-549	£49 [CON] NA
+test-550	yes [CON] NA
+test-551	no [CON] NA
+test-552	1181 [CON] NA
+test-553	a health and care sector employer [CON] NA
+test-554	a gcse, a scotsman or a doctor [CON] NA
+test-555	a current passport or other valid travel documentation [CON] NA [SEP] a CAS from your course provider [CON] NA
+test-556	no [CON] NA
+test-557	fined up to £1,000 [CON] NA
+test-558	yes [CON] NA
+test-559	£10.10 per hour [CON] NA
+test-560	tapeworm treatment [CON] NA
+test-561	no [CON] NA
+test-562	yes [CON] NA
+test-563	yes [CON] NA
+test-564	no [CON] NA
+test-565	20% [CON] NA
+test-566	yes [CON] NA
+test-567	unanswerable
+test-568	3 months [CON] NA
+test-569	no [CON] NA
+test-570	tapeworm treatment [CON] NA
+test-571	no [CON] NA
+test-572	no [CON] NA
+test-573	a stockbook that tracks each item sold under the margin scheme individually [CON] NA [SEP] copies of purchase and sales invoices for all items [CON] NA
+test-574	no [CON] NA
+test-575	yes [CON] NA
+test-576	3 years [CON] NA
+test-577	no [CON] NA
+test-578	yes [CON] NA
+test-579	yes [CON] NA
+test-580	alterations you do to install qualifying energy-saving products, and certain grant-funded heating and security equipment for people over 60 [CON] NA
+test-581	temporary disabled or incapacitated, or elderly and frail but not disabled [CON] NA
+test-582	3 months before your course starts [CON] NA
+test-583	have an unconditional offer of a place on a course with a licensed child student sponsor [CON] NA [SEP] have enough money to pay for your course fees for one academic year (up to 9 months). [CON]
+test-584	no [CON] NA
+test-585	a passport or travel document [CON] NA
+test-586	standard visitor visa [CON] NA
+test-587	yes [CON] NA
+test-588	work as a student union sabbatical officer [CON] NA
+test-589	unanswerable
+test-590	decree absolute [CON] NA
+test-591	marriage visitor visa [CON] NA
+test-592	no [CON] NA
+test-593	£993 [CON] NA
+test-594	no [CON] NA
+test-595	no [CON] NA
+test-596	£49 [CON] NA
+test-597	yes [CON] NA
+test-598	no [CON] NA
+test-599	apply for a replacement if you plan to leave and re-enter the uk within 3 months of its expiry date [CON] NA
+test-600	use the ‘uk immigration: ID check’ smartphone app [CON] NA
+test-601	go to an appointment at a visa application centre [CON] NA
+test-602	no [CON] NA
+test-603	no [CON] NA
+test-604	no [CON] NA
+test-605	your animal health certificate [CON] NA
+test-606	£137.60 per week [CON] NA
+test-607	no [CON] NA
+test-608	yes [CON] NA
+test-609	a damaged card to BRCError@homeoffice.gov.uk [CON] NA
+test-610	no [CON] NA
+test-611	no [CON] NA
+test-612	no [CON] NA
+test-613	take all or some of it as cash [CON] NA [SEP] buy a product that gives give you a guaranteed income (sometimes known as ‘career average’ pensions). [CON] NA
+test-614	no [CON] NA
+test-615	no [CON] NA
+test-616	call the pension service [CON] NA
+test-617	30 june 2021 [CON] NA
+test-618	yes [CON] NA
+test-619	no [CON] NA
+test-620	your local refugee community organisation [CON] NA
+test-621	no [CON] NA
+test-622	less than £82.45 a week [CON] NA
+test-623	no [CON] NA
+test-624	no [CON] NA
+test-625	how much you’ll be paid during your notice period [CON] NA
+test-626	yes [CON] NA
+test-627	pensions advising service [CON] NA
+test-628	no [CON] NA
+test-629	yes [CON] NA
+test-630	unanswerable
+test-631	5 years [CON] NA
+test-632	a passport or national identity card [CON] NA
+test-633	email or call the certification officer [CON] NA
+test-634	email or call the certification officer [CON] NA
+test-635	yes [CON] NA
+test-636	no basic state pension [CON] NA
+test-637	no [CON] NA
+test-638	no [CON] NA
+test-639	no [CON] NA
+test-640	no [CON] NA
+test-641	30 June 2021 [CON] NA
+test-642	stakeholder pensions [CON] NA
+test-643	yes [CON] NA
+test-644	your partner’s death certificate [CON] NA
+test-645	pay £19.20 [CON] NA
+test-646	yes [CON] NA
+test-647	£39.63 per person [CON] NA
+test-648	£137.60 per week [CON] NA
+test-649	yes [CON] NA
+test-650	yes [CON] NA
+test-651	no [CON] NA
+test-652	yes [CON] NA
+test-653	yes [CON] NA
+test-654	yes [CON] NA
+test-655	yes [CON] NA
+test-656	yes [CON] NA
+test-657	the disclosure and barring service (dbs) customer services team [CON] NA
+test-658	yes [CON] NA
+test-659	yes [CON] NA
+test-660	no [CON] NA
+test-661	automatically [CON] NA
+test-662	yes [CON] NA
+test-663	yes [CON] NA
+test-664	explain why you want your identity kept secret from any legal evidence that backs up the draft arguments [CON] NA
+test-665	a full list of the complaints you can make to the certification officer [CON] NA
+test-666	short-term housing [CON] NA [SEP] help with prescriptions for medicine [CON] NA [SEP] help with prescriptions for medicine [CON] NA [SEP] help with prescriptions for medicine [CON]
+test-667	£39.63 for each person in your household [CON] NA
+test-668	personal or stakeholder pensions [CON] NA
+test-669	yes [CON] NA
+test-670	yes [CON] NA
+test-671	yes [CON] NA
+test-672	the country you’re from [CON] NA
+test-673	unanswerable
+test-674	unanswerable
+test-675	unanswerable
+test-676	no [CON] NA
+test-677	apply for a refugee integration loan [CON] NA
+test-678	no [CON] NA
+test-679	no [CON] NA
+test-680	no [CON] NA
+test-681	no [CON] NA
+test-682	yes [CON] NA
+test-683	yes [CON] NA
+test-684	yes [CON] NA
+test-685	the pension service [CON] NA
+test-686	the pension service [CON] NA
+test-687	a letter from the ministry of defence (mos) within 5 weeks of an employee signing up [CON] NA
+test-688	yes [CON] NA
+test-689	1% for every 9 weeks [CON] NA
+test-690	no [CON] NA
+test-691	no [CON] NA
+test-692	a current passport or other valid travel identification [CON] NA [SEP] a birth certificate if they were born in the UK [CON] NA
+test-693	a recognised english test qualification from an approved test centre [CON] NA
+test-694	an english language proficiency statement (elps) from an approved test centre [CON] NA
+test-695	family visa [CON] NA
+test-696	follow the school’s complaints procedure [CON] NA
+test-697	follow the school’s complaints process [CON] NA
+test-698	yes [CON] NA
+test-699	no [CON] NA
+test-700	yes [CON] NA
+test-701	£13,175 [CON] NA
+test-702	go to an employment tribunal [CON] NA
+test-703	6 months [CON] NA
+test-704	6 months [CON] NA
+test-705	at the end of the hearing [CON] NA
+test-706	no [CON] NA
+test-707	unanswerable
+test-708	£13,100 [CON] NA
+test-709	6 months [CON] NA
+test-710	at least 3 months [CON] NA
+test-711	no [CON] NA
+test-712	your council [CON] NA
+test-713	yes [CON] NA
+test-714	no [CON] NA
+test-715	companies house [CON] NA
+test-716	close it down legally [CON] NA
+test-717	close any of the assets of the company before applying [CON] NA
+test-718	yes [CON] NA
+test-719	uniforms [CON] NA [SEP] printer ink and cartridges [CON] NA [SEP] business vehicles [CON] NA
+test-720	yes [CON] NA
+test-721	g34barc20051710753491 [CON] NA
+test-722	yes [CON] NA
+test-723	yes [CON] NA
+test-724	pay a penalty and interest [CON] NA
+test-725	by cheque through the post [CON] NA
+test-726	no [CON] NA
+test-727	change the terms of (‘vary’) the judgment [CON] NA [SEP] pay it back in instalments [CON] NA [SEP] pay it back in instalments [CON] NA
+test-728	a ‘balance sheet’ [CON] NA [SEP] a ‘profit and loss account’ [CON] NA [SEP] a ‘profit and loss account’ [CON] NA
+test-729	yes [CON] NA
+test-730	penalty and interest [CON] NA
+test-731	£3,000 [CON] NA
+test-732	£5,000 [CON] NA
+test-733	g34barc20051710753491 [CON] NA
+test-734	yes [CON] NA
+test-735	appeal [CON] NA
+test-736	yes [CON] NA
+test-737	yes [CON] NA
+test-738	yes [CON] NA
+test-739	yes [CON] NA
+test-740	yes [CON] NA
+test-741	a place in another unit [CON] NA
+test-742	complain or appeal to the information commissioner [CON] NA
+test-743	complain or appeal to the information commissioner [CON] NA
+test-744	yes [CON] NA
+test-745	yes [CON] NA
+test-746	offered a place in another unit [CON] NA
+test-747	£100 [CON] NA
+test-748	yes [CON] NA
+test-749	yes [CON] NA
+test-750	talk to your neighbour [CON] NA [SEP] write a letter, explaining the problem clearly and sticking to the facts [CON] NA [SEP] if your neighbour is a tenant, you could contact their landlord [
+test-751	the environment agency gives out stream warnings [CON] NA
+test-752	no [CON] NA
+test-753	a boat safety scheme (bss) certificate [CON] NA
+test-754	no [CON] NA
+test-755	a boat safety scheme (bss) certificate [CON] NA
+test-756	make a complaint to a ‘ often through your local council/li> [CON] NA
+test-757	up to £20,000 [CON] NA
+test-758	£30 [CON] NA
+test-759	no [CON] NA
+test-760	yes [CON] NA
+test-761	contact the passport issuing organisation (pio) that issued the original passport [CON] NA
+test-762	up to £20,000 [CON] NA
+test-763	21 weeks [CON] NA
+test-764	30 weeks [CON] NA
+test-765	talk to your neighbour [CON] NA
+test-766	make a complaint to a ‘designated person’ (your MP) [CON] NA
+test-767	get help from a mediation service [CON] NA
+test-768	unlimited fine or be sent to prison for up to 6 months [CON] NA
+test-769	yes [CON] NA
+test-770	yes [CON] NA
+test-771	within 20 working days of receiving your request [CON] NA
+test-772	yes [CON] NA
+test-773	a current passport or other valid travel documentation [CON] NA
+test-774	£10.10 per hour [CON] NA
+test-775	3 months [CON] NA
+test-776	tapeworm treatment [CON] NA
+test-777	a passport or travel document [CON] NA
+test-778	a passport or travel document [CON] NA
+test-779	apply for a replacement [CON] NA
+test-780	£137.60 per week [CON] NA
+test-781	yes [CON] NA
+test-782	no [CON] NA
+test-783	email or call the certification officer [CON] NA
+test-784	no [CON] NA
+test-785	yes [CON] NA
+test-786	yes [CON] NA
+test-787	pension credit [CON] NA
+test-788	for up to 10 years [CON] NA
+test-789	no [CON] NA
+test-790	yes [CON] NA
+test-791	yes [CON] NA
+test-792	yes [CON] NA
+test-793	for up to 5 years [CON] NA
+test-794	a current passport or other valid travel documentation [CON] NA
+test-795	£4 [CON] NA
+test-796	£993 [CON] NA
+test-797	£49 [CON] NA
+test-798	£49 [CON] NA
+test-799	no [CON] NA
+test-800	no [CON] NA
+test-801	yes [CON] NA
+test-802	£39.63 per person [CON] NA
+test-803	call the pension service [CON] NA

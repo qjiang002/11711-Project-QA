@@ -25,7 +25,7 @@ def parse_answer(contents, answer, conj_symbol='[SEP]'):
     if answer[0].startswith('unanswerable'):
         return []
     # contents = doc_dict[example_id_url[example_id]]["contents"]
-    if False:
+    if conj_symbol=='[SEP]':
         res = []
         segs = []
         for token in answer:
@@ -54,7 +54,7 @@ def parse_answer(contents, answer, conj_symbol='[SEP]'):
             res.append([ans[0], conds])
     return res
 
-def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=False):
+def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=False, conj_symbol='[SEP]'):
     # cqa_data_path = './ConditionalQA/v1_0/dev.json'
     with open(cqa_data_path, 'r') as f:
         cqa_data = json.load(f)
@@ -75,7 +75,7 @@ def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=
                     out = {"id": id, "answers": [[ans, []]]}
             else:
                 contents = doc_dict[example_id_url[id]]["contents"]
-                out = {"id": id, "answers": parse_answer(contents, ans)}
+                out = {"id": id, "answers": parse_answer(contents, ans, conj_symbol)}
             json_outputs.append(out)
 
     with open(CQA_output_file, 'w') as f:
@@ -92,8 +92,9 @@ def parse_arguments():
     parser.add_argument('--cqa_data_path', type=str,
                         default=None, help="Path to original ConditionalQA data file.")
     parser.add_argument('--without_conditions', action='store_true', help="Trained with data in Data/without_conditions.")
+    parser.add_argument("--conj_symbol", type=str, default='[SEP]')
     return parser.parse_args()
 
 if __name__=="__main__":
     args = parse_arguments()
-    convert(args.cqa_data_path, args.FiD_output_file, args.CQA_output_file, args.without_conditions)
+    convert(args.cqa_data_path, args.FiD_output_file, args.CQA_output_file, args.without_conditions, args.conj_symbol)

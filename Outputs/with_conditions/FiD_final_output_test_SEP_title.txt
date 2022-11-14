@@ -1,0 +1,804 @@
+test-0	yes [SEP] NA
+test-1	yes [SEP] NA
+test-2	up to 8 weeks [SEP] NA
+test-3	unpaid [SEP] NA
+test-4	£46 [SEP] NA
+test-5	yes [SEP] NA
+test-6	no [SEP] NA
+test-7	£4.25 each [SEP] NA
+test-8	unanswerable
+test-9	yes [SEP] NA
+test-10	unanswerable
+test-11	yes [SEP] NA
+test-12	18 [SEP] NA
+test-13	yes [SEP] NA
+test-14	up to 8 weeks at first [SEP] NA
+test-15	your child’s carer [SEP] NA
+test-16	family visa [SEP] NA
+test-17	more than £85,000. [SEP] NA
+test-18	yes [SEP] NA
+test-19	4 weeks [SEP] NA
+test-20	yes [SEP] NA
+test-21	no [SEP] NA
+test-22	the business support helpline in your area [SEP] NA
+test-23	up to 70 days [SEP] NA
+test-24	1 week or 2 weeks [SEP] NA
+test-25	yes [SEP] NA
+test-26	no [SEP] NA
+test-27	yes [SEP] NA
+test-28	yes [SEP] NA
+test-29	yes [SEP] NA
+test-30	apply for an ‘enrolled’ deed poll [SEP] NA
+test-31	a ‘deed poll’ [SEP] NA
+test-32	yes [SEP] NA
+test-33	yes [SEP] NA
+test-34	yes [SEP] NA
+test-35	yes [SEP] NA
+test-36	no [SEP] NA
+test-37	no [SEP] NA
+test-38	the cwgs memorial roll of honour [SEP] NA [SEP] the national archives [SEP] NA
+test-39	yes [SEP] NA
+test-40	yes [SEP] NA
+test-41	£122.55 a week [SEP] NA
+test-42	no [SEP] NA
+test-43	yes [SEP] NA
+test-44	no [SEP] NA
+test-45	no [SEP] NA
+test-46	distributing copies of it, whether free of charge or for sale [SEP] NA [SEP] renting or lending copies of your work [SEP] NA [SEP] making an adaptation of your work [SEP] NA
+test-47	yes [SEP] NA
+test-48	search all of the following design registers [SEP] NA
+test-49	yes [SEP] NA
+test-50	yes [SEP] NA
+test-51	£50 [SEP] NA
+test-52	the department for education (dfe) [SEP] NA
+test-53	child law advice [SEP] NA
+test-54	follow the school’s complaints procedure [SEP] NA
+test-55	follow the school’s complaints process [SEP] NA
+test-56	rfat or your legal representative [SEP] NA
+test-57	yes [SEP] NA
+test-58	no [SEP] NA
+test-59	no [SEP] NA
+test-60	within 5 days of you getting the decision letter [SEP] NA
+test-61	yes [SEP] NA
+test-62	no [SEP] NA
+test-63	no [SEP] NA
+test-64	yes [SEP] NA
+test-65	no [SEP] NA
+test-66	no [SEP] NA
+test-67	yes [SEP] NA
+test-68	no [SEP] NA
+test-69	no [SEP] NA
+test-70	70 years after the author’s death [SEP] NA
+test-71	yes [SEP] NA
+test-72	yes [SEP] NA
+test-73	within 5 days of you getting the decision letter [SEP] NA
+test-74	no [SEP] NA
+test-75	yes [SEP] NA
+test-76	yes [SEP] NA
+test-77	no [SEP] NA
+test-78	up to 25 years [SEP] NA
+test-79	yes [SEP] NA
+test-80	yes [SEP] NA
+test-81	5 years [SEP] NA
+test-82	yes [SEP] NA
+test-83	no [SEP] NA
+test-84	download and fill in the iva application form [SEP] NA
+test-85	no [SEP] NA
+test-86	yes [SEP] NA
+test-87	the local police force or dvsa office that gave you the prohibition [SEP] NA
+test-88	yes [SEP] NA
+test-89	a new log book (v5c) [SEP] NA [SEP] a letter saying what the mistakes are [SEP] NA [SEP] a covering letter signed by the all the executors [
+test-90	yes [SEP] NA
+test-91	no [SEP] NA
+test-92	unanswerable
+test-93	yes [SEP] NA
+test-94	yes [SEP] NA
+test-95	no [SEP] NA
+test-96	no [SEP] NA
+test-97	the iva scheme [SEP] NA
+test-98	10 days before you want to take the test [SEP] NA
+test-99	£27 [SEP] NA
+test-100	yes [SEP] NA
+test-101	yes [SEP] NA
+test-102	no [SEP] NA
+test-103	2 years [SEP] NA
+test-104	no [SEP] NA
+test-105	no [SEP] NA
+test-106	yes [SEP] NA
+test-107	no [SEP] NA
+test-108	yes [SEP] NA
+test-109	no [SEP] NA
+test-110	no [SEP] NA
+test-111	yes [SEP] NA
+test-112	yes [SEP] NA
+test-113	go to an employment tribunal [SEP] NA
+test-114	yes [SEP] NA
+test-115	no [SEP] NA
+test-116	48 hours [SEP] NA
+test-117	no [SEP] NA
+test-118	unanswerable
+test-119	yes [SEP] NA
+test-120	yes [SEP] NA
+test-121	yes [SEP] NA
+test-122	yes [SEP] NA
+test-123	yes [SEP] NA
+test-124	no [SEP] NA
+test-125	radar reflector [SEP] NA
+test-126	6 months of the date on the decision notice from your local planning authority [SEP] NA
+test-127	unanswerable
+test-128	no [SEP] NA
+test-129	no [SEP] NA
+test-130	no [SEP] NA
+test-131	no [SEP] NA
+test-132	a copy of your listed building consent application form and all documents you sent with your application [SEP] NA [SEP] a copy of the site ownership certificate [SEP] NA [SEP] any correspondence with your local
+test-133	yes [SEP] NA
+test-134	no [SEP] NA
+test-135	yes [SEP] NA
+test-136	at least 4 weeks (if they pay weekly) or 1 month (if they pay monthly) [SEP] NA
+test-137	contact the ministry of defence (mod) [SEP] NA
+test-138	the ministry of defence (mod) [SEP] NA
+test-139	all plans, drawings and documents you sent to the local planning authority [SEP] NA [SEP] any letters or emails between you and the local planning authority [SEP] NA [SEP] any letters or emails between you and
+test-140	yes [SEP] NA
+test-141	no [SEP] NA
+test-142	no [SEP] NA
+test-143	yes [SEP] NA
+test-144	no [SEP] NA
+test-145	yes [SEP] NA
+test-146	no [SEP] NA
+test-147	yes [SEP] NA
+test-148	yes [SEP] NA
+test-149	no [SEP] NA
+test-150	3 months [SEP] NA
+test-151	no [SEP] NA
+test-152	at least 2 months [SEP] NA
+test-153	£355 [SEP] NA
+test-154	7 days [SEP] NA
+test-155	yes [SEP] NA
+test-156	the dog warden [SEP] NA
+test-157	yes [SEP] NA
+test-158	yes [SEP] NA
+test-159	4 weeks’ notice in writing [SEP] NA
+test-160	yes [SEP] NA
+test-161	4 weeks [SEP] NA
+test-162	yes [SEP] NA
+test-163	12 months of age [SEP] NA
+test-164	30 days of the horse’s arrival [SEP] NA
+test-165	hm revenue and customs (hmrc) can help you if you need extra support because of your condition or circumstances [SEP] NA
+test-166	call the relevant contact number and tell them what help you need. They will transfer you to HMRC’s extra support team. [SEP] NA
+test-167	yes [SEP] NA
+test-168	up to £3,000 each tax year [SEP] NA
+test-169	£1,000 [SEP] NA
+test-170	no [SEP] NA
+test-171	contact the court [SEP] NA
+test-172	yes [SEP] NA
+test-173	no [SEP] NA
+test-174	no [SEP] NA
+test-175	no [SEP] NA
+test-176	no [SEP] NA
+test-177	yes [SEP] NA
+test-178	yes [SEP] NA
+test-179	yes [SEP] NA
+test-180	its zero emission mileage figure, or ‘electric range’ [SEP] NA
+test-181	yes [SEP] NA
+test-182	a bare trust [SEP] NA
+test-183	no [SEP] NA
+test-184	£1,000 of income from self-employment [SEP] NA
+test-185	contacting hmrc or by getting help from an accountant [SEP] NA
+test-186	with hmrc’s company car and fuel benefit calculator [SEP] NA
+test-187	check or update your company car tax online [SEP] NA
+test-188	every year [SEP] NA
+test-189	no [SEP] NA
+test-190	textphone, webchat or bls [SEP] NA
+test-191	yes [SEP] NA
+test-192	use form nrl2i [SEP] NA
+test-193	apply for a refund [SEP] NA
+test-194	deal with the assets according to the settlor’s wishes, as set out in the trust deed or their will manage the trust on a day-to-day basis and pay any tax due [SEP] NA [
+test-195	no [SEP] NA
+test-196	pay any capital gains tax due [SEP] NA
+test-197	deal with the assets according to the settlor’s wishes, as set out in the trust deed or their will [SEP] NA [SEP] manage the trust on a day-to-day basis and pay
+test-198	no [SEP] NA
+test-199	£180 [SEP] NA
+test-200	yes [SEP] NA
+test-201	yes [SEP] NA
+test-202	yes [SEP] NA
+test-203	no [SEP] NA
+test-204	no [SEP] NA
+test-205	yes [SEP] NA
+test-206	yes [SEP] NA
+test-207	within 3 weeks [SEP] NA
+test-208	3 years [SEP] NA
+test-209	yes [SEP] NA
+test-210	yes [SEP] NA
+test-211	no [SEP] NA
+test-212	no [SEP] NA
+test-213	no [SEP] NA
+test-214	no [SEP] NA
+test-215	within 3 weeks [SEP] NA
+test-216	no [SEP] NA
+test-217	no [SEP] NA
+test-218	no [SEP] NA
+test-219	from Purchased Life Annuities [SEP] NA [SEP] Widowed Parent’s Allowance or Bereavement Allowance [SEP] NA [SEP] Carer’s Allowance [SEP
+test-220	yes [SEP] NA
+test-221	8% plus the bank of england base rate for business to business transactions [SEP] NA
+test-222	8% plus the bank of england base rate [SEP] NA
+test-223	yes [SEP] NA
+test-224	unanswerable
+test-225	yes [SEP] NA
+test-226	no [SEP] NA
+test-227	tell someone else (for example a more senior member of staff) or a prescribed person or body [SEP] NA
+test-228	yes [SEP] NA
+test-229	use a mediation service [SEP] NA
+test-230	no [SEP] NA
+test-231	no [SEP] NA
+test-232	no [SEP] NA
+test-233	anonymously [SEP] NA
+test-234	no [SEP] NA
+test-235	the national minimum wage [SEP] NA
+test-236	paid and be entitled to the national minimum wage [SEP] NA
+test-237	sign in or create an account [SEP] NA
+test-238	over 18 and under 65 [SEP] NA
+test-239	the advisory committee for your area [SEP] NA
+test-240	yes [SEP] NA
+test-241	fees to pay for experts court fees travelling expenses [SEP] NA
+test-242	3 years [SEP] NA
+test-243	after inspections, tests or prosecutions against you. DVSA calls these ‘encounters’. [SEP] NA
+test-244	£500 in addition to the application fee [SEP] NA
+test-245	yes [SEP] NA
+test-246	ask for your things back [SEP] NA [SEP] ask for your things back [SEP] NA [SEP] ask for a court hearing [SEP] NA [SEP] ask for a court hearing
+test-247	yes [SEP] NA
+test-248	ask for your things back [SEP] NA
+test-249	check the ‘premium services’ page for your nearest centre [SEP] NA
+test-250	within 5 working days [SEP] NA
+test-251	no [SEP] NA
+test-252	yes [SEP] NA
+test-253	yes [SEP] NA
+test-254	£150 [SEP] NA
+test-255	yes [SEP] NA
+test-256	no [SEP] NA
+test-257	yes [SEP] NA
+test-258	ask the court to take further steps to collect the money [SEP] NA
+test-259	yes [SEP] NA
+test-260	companies house form ds01 [SEP] NA
+test-261	between £100 and £400, depending on how many late returns you’ve previously filed [SEP] NA
+test-262	no [SEP] NA
+test-263	no [SEP] NA
+test-264	online or telephone banking (faster payments) [SEP] NA
+test-265	no [SEP] NA
+test-266	£13 [SEP] NA
+test-267	no [SEP] NA
+test-268	no [SEP] NA
+test-269	close any bank accounts and transfer any domain names [SEP] NA
+test-270	yes [SEP] NA
+test-271	by writing to hmrc [SEP] NA
+test-272	52 weeks [SEP] NA
+test-273	yes [SEP] NA
+test-274	yes [SEP] NA
+test-275	no [SEP] NA
+test-276	no [SEP] NA
+test-277	no [SEP] NA
+test-278	ask the court to collect payment from the person or business who owes you money (the ‘debtor’) [SEP] NA
+test-279	ask the court to take further steps to collect the money [SEP] NA
+test-280	apply for the judgment to be cancelled [SEP] NA
+test-281	yes [SEP] NA
+test-282	unanswerable
+test-283	yes [SEP] NA
+test-284	yes [SEP] NA
+test-285	yes [SEP] NA
+test-286	yes [SEP] NA
+test-287	yes [SEP] NA
+test-288	2.6% [SEP] NA
+test-289	send a correct VAT return and VAT payment or contacting them [SEP] NA
+test-290	a ‘balance sheet’, which shows the value of everything the company owns, owes and is owed on the last day of the financial year [SEP] NA [SEP] a ‘profit and
+test-291	no [SEP] NA
+test-292	8 september 2021 [SEP] NA
+test-293	more than 2 years [SEP] NA
+test-294	yes [SEP] NA
+test-295	g34barc20051710753491 [SEP] NA
+test-296	yes [SEP] NA
+test-297	below hmrc’s official interest rate [SEP] NA
+test-298	no [SEP] NA
+test-299	no [SEP] NA
+test-300	yes [SEP] NA
+test-301	no [SEP] NA
+test-302	no [SEP] NA
+test-303	via your VAT online account [SEP] NA
+test-304	yes [SEP] NA
+test-305	yes [SEP] NA
+test-306	withhold some information when responding to a request [SEP] NA
+test-307	3 working days [SEP] NA
+test-308	48 hours [SEP] NA
+test-309	no [SEP] NA
+test-310	use the companies house online service [SEP] NA [SEP] fill in and send paper forms [SEP] NA
+test-311	yes [SEP] NA
+test-312	no [SEP] NA
+test-313	yes [SEP] NA
+test-314	yes [SEP] NA
+test-315	direct debit [SEP] NA
+test-316	hm revenue and customs (hm revenue and customs) account [SEP] NA
+test-317	no [SEP] NA
+test-318	yes [SEP] NA
+test-319	yes [SEP] NA
+test-320	no [SEP] NA
+test-321	yes [SEP] NA
+test-322	6 years [SEP] NA
+test-323	use compatible accounting software instead [SEP] NA
+test-324	no [SEP] NA
+test-325	yes [SEP] NA
+test-326	no [SEP] NA
+test-327	yes [SEP] NA
+test-328	30 days [SEP] NA
+test-329	no [SEP] NA
+test-330	yes [SEP] NA
+test-331	no [SEP] NA
+test-332	no [SEP] NA
+test-333	52 weeks [SEP] NA
+test-334	yes [SEP] NA
+test-335	2013 to 2014 tax year onwards [SEP] NA
+test-336	yes [SEP] NA
+test-337	no [SEP] NA
+test-338	yes [SEP] NA
+test-339	no [SEP] NA
+test-340	yes [SEP] NA
+test-341	within 48 hours [SEP] NA
+test-342	no [SEP] NA
+test-343	£150 [SEP] NA
+test-344	no [SEP] NA
+test-345	no [SEP] NA
+test-346	no [SEP] NA
+test-347	no [SEP] NA
+test-348	keep their baby for the first 18 months in a mother and baby unit [SEP] NA
+test-349	yes [SEP] NA
+test-350	no [SEP] NA
+test-351	yes [SEP] NA
+test-352	no [SEP] NA
+test-353	yes [SEP] NA
+test-354	the joint terrorism analysis centre and the security service (mi5) [SEP] NA
+test-355	call the police or report your suspicions to them online [SEP] NA [SEP] report suspicious activity to MI5 [SEP] NA [SEP] report online terrorist material [SEP] NA
+test-356	28 days [SEP] NA
+test-357	yes [SEP] NA
+test-358	6 weeks [SEP] NA
+test-359	yes [SEP] NA
+test-360	yes [SEP] NA
+test-361	yes [SEP] NA
+test-362	contact the police force you want to complain about [SEP] NA
+test-363	yes [SEP] NA
+test-364	yes [SEP] NA
+test-365	no [SEP] NA
+test-366	no [SEP] NA
+test-367	your name [SEP] NA [SEP] a contact postal or email address [SEP] NA [SEP] a detailed description of the information you want [SEP] NA
+test-368	complain or appeal to the information commissioner for [SEP] NA
+test-369	yes [SEP] NA
+test-370	yes [SEP] NA
+test-371	before 3 dc 2012 [SEP] NA
+test-372	ask a friend for help [SEP] NA
+test-373	yes [SEP] NA
+test-374	yes [SEP] NA
+test-375	no [SEP] NA
+test-376	yes [SEP] NA
+test-377	yes [SEP] NA
+test-378	yes [SEP] NA
+test-379	no [SEP] NA
+test-380	no [SEP] NA
+test-381	run by local councils [SEP] NA
+test-382	30 hours of education and training a week [SEP] NA
+test-383	no [SEP] NA
+test-384	yes [SEP] NA
+test-385	yes [SEP] NA
+test-386	yes [SEP] NA
+test-387	unanswerable
+test-388	you’ll automatically get a refund cheque for any full months left on your vehicle tax. [SEP] NA
+test-389	£275 [SEP] NA
+test-390	yes [SEP] NA
+test-391	no [SEP] NA
+test-392	no [SEP] NA
+test-393	yes [SEP] NA
+test-394	yes [SEP] NA
+test-395	yes [SEP] NA
+test-396	2.55 metres [SEP] NA
+test-397	yes [SEP] NA
+test-398	apply for help paying the fee [SEP] NA
+test-399	yes [SEP] NA
+test-400	your name (not needed if you’re asking for environmental information) [SEP] NA [SEP] a contact postal or email address [SEP] NA [SEP] a detailed description of the information you want
+test-401	call the police or report your suspicions to them online [SEP] NA [SEP] report suspicious activity to MI5 [SEP] NA [SEP] report online terrorist material [SEP] NA [SEP] report
+test-402	yes [SEP] NA
+test-403	tell the crown prosecution service (cps), your solicitor or the court staff [SEP] NA [SEP] report it to the police [SEP] NA
+test-404	no [SEP] NA
+test-405	yes [SEP] NA
+test-406	no [SEP] NA
+test-407	no [SEP] NA
+test-408	yes [SEP] NA
+test-409	complain directly to the person or organisation [SEP] NA [SEP] use someone else to help you sort it out (called ‘mediation’ or ‘alternative dispute resolution’) [SEP] make a claim in
+test-410	complain directly to the person or organisation [SEP] NA [SEP] use someone else to help you sort it out (called ‘mediation’ or ‘alternative dispute resolution’) [SEP] make a claim in
+test-411	no [SEP] NA
+test-412	yes [SEP] NA
+test-413	complain directly to the person or organisation [SEP] NA [SEP] use someone else to help you sort it out (called ‘mediation’ or ‘alternative dispute resolution’) make a claim in a court or
+test-414	no [SEP] NA
+test-415	no [SEP] NA
+test-416	3 to 11 [SEP] NA
+test-417	get help with their physical and mental health [SEP] NA [SEP] get help with their physical and mental health, for example with sexual health or drug and alcohol problems [SEP] NA [SEP] be allowed to spend
+test-418	in a mother and baby unit [SEP] NA
+test-419	yes [SEP] NA
+test-420	no [SEP] NA
+test-421	up to 24 hours [SEP] NA
+test-422	yes [SEP] NA
+test-423	no [SEP] NA
+test-424	yes [SEP] NA
+test-425	yes [SEP] NA
+test-426	the police or report suspicious activity to them online [SEP] NA [SEP] report suspicious activity to mi5 [SEP] NA
+test-427	no [SEP] NA
+test-428	62mph [SEP] NA
+test-429	yes [SEP] NA
+test-430	within 20 working days of receiving your request. some schools are allowed more time during school holidays. [SEP] NA
+test-431	yes [SEP] NA
+test-432	yes [SEP] NA
+test-433	yes [SEP] NA
+test-434	yes [SEP] NA
+test-435	4 years from the date of conviction [SEP] NA
+test-436	view your driving licence record [SEP] NA [SEP] see what penalty points you have and when they’ll be removed. [SEP] NA [SEP] contact the court that convicted [SEP] NA
+test-437	yes [SEP] NA
+test-438	yes [SEP] NA
+test-439	no [SEP] NA
+test-440	no [SEP] NA
+test-441	yes [SEP] NA
+test-442	5 weeks after the start date of the appeal, or 6 weeks after the date on the local planning authority’s enforcement notice [SEP] NA
+test-443	15 small fish (up to 20cm) [SEP] NA
+test-444	another fish you’ve taken as bait [SEP] NA
+test-445	8 weeks [SEP] NA
+test-446	yes [SEP] NA
+test-447	yes [SEP] NA
+test-448	unanswerable
+test-449	yes [SEP] NA
+test-450	28 days of the date on the decision letter, or 12 months after you submitted the application [SEP] NA
+test-451	4 weeks’ notice in writing [SEP] NA
+test-452	a ‘designated person’ (your MP, a local councillor or a tenant panel) [SEP] NA
+test-453	yes [SEP] NA
+test-454	no [SEP] NA
+test-455	10% of the property’s open market value (up to £64,000) [SEP] NA
+test-456	apply [SEP] NA
+test-457	no [SEP] NA
+test-458	yes [SEP] NA
+test-459	yes [SEP] NA
+test-460	yes [SEP] NA
+test-461	apply to have low flying to be temporarily stopped [SEP] NA
+test-462	contact the ministry of defence (mod) [SEP] NA
+test-463	up to 10% of the selling price (known as a ‘commission’) [SEP] NA
+test-464	yes [SEP] NA
+test-465	no [SEP] NA
+test-466	yes [SEP] NA
+test-467	at allington lock [SEP] NA
+test-468	yes [SEP] NA
+test-469	yes [SEP] NA
+test-470	yes [SEP] NA
+test-471	home ownership [SEP] NA
+test-472	your original application [SEP] NA [SEP] the reason for your appeal [SEP] NA [SEP] the council’s decision notice [SEP] NA [SEP] any notices you issued while applying,
+test-473	the council approves a different use for the land, for example they make an order for a footpath when you applied for a bridleway [SEP] NA
+test-474	yes [SEP] NA
+test-475	take legal action through the courts [SEP] NA
+test-476	the appeals casework portal [SEP] NA
+test-477	yes [SEP] NA
+test-478	challenge the decision in the high court [SEP] NA
+test-479	yes [SEP] NA
+test-480	name and nature of the event location and ordnance survey grid reference [SEP] NA [SEP] name and nature of the event location and ordnance survey grid reference [SEP] NA [SEP] location
+test-481	the low level advisory service [SEP] NA
+test-482	within 8 weeks [SEP] NA
+test-483	yes [SEP] NA
+test-484	yes [SEP] NA
+test-485	contact the environment agency [SEP] NA
+test-486	the passport issuing organisation (pio) [SEP] NA
+test-487	by breed, colour, species [SEP] NA [SEP] all vaccinations [SEP] NA [SEP] all vaccinations [SEP] NA
+test-488	collecting and managing the service charge [SEP] NA [SEP] upkeep of communal areas (such as communal hallways and stairs) [SEP] upkeep of the structure of the building (such as the roof) [S
+test-489	yes [SEP] NA
+test-490	fined up to £20,000 [SEP] NA
+test-491	write a letter, explaining the problem clearly and sticking to the facts [SEP] NA [SEP] use a mediation service [SEP] NA
+test-492	fined [SEP] NA
+test-493	no [SEP] NA
+test-494	no [SEP] NA
+test-495	75% [SEP] NA
+test-496	yes [SEP] NA
+test-497	yes [SEP] NA
+test-498	half or a third of their councillors [SEP] NA
+test-499	the full council (a meeting of all council members) [SEP] NA
+test-500	get an unlimited fine or be sent to prison for up to 6 months (or both) [SEP] NA
+test-501	your council’s dog warden service [SEP] NA
+test-502	yes [SEP] NA
+test-503	3 months [SEP] NA
+test-504	no [SEP] NA
+test-505	yes [SEP] NA
+test-506	no [SEP] NA
+test-507	on the date given on the notice of claim [SEP] NA
+test-508	on your council’s website or at the town hall [SEP] NA
+test-509	the first Thursday in may [SEP] NA
+test-510	up to £2,500 [SEP] NA
+test-511	£30 [SEP] NA
+test-512	yes [SEP] NA
+test-513	4 weeks [SEP] NA
+test-514	yes [SEP] NA
+test-515	the countryside steering scheme [SEP] NA
+test-516	no [SEP] NA
+test-517	contact the passport issuing organisation (pio) [SEP] NA
+test-518	yes [SEP] NA
+test-519	4 weeks [SEP] NA
+test-520	no [SEP] NA
+test-521	yes [SEP] NA
+test-522	yes [SEP] NA
+test-523	£100 on the spot (a ‘fixed penalty notice’) up to £1,000 if it goes to court [SEP] NA
+test-524	yes [SEP] NA
+test-525	£1 million [SEP] NA
+test-526	the place you bought them, if they offer a ‘take back’ scheme [SEP] NA
+test-527	a boat safety scheme (bss) certificate [SEP] NA
+test-528	yes [SEP] NA
+test-529	unanswerable
+test-530	yes [SEP] NA
+test-531	no [SEP] NA
+test-532	yes [SEP] NA
+test-533	within 28 days of the notice [SEP] NA
+test-534	allington lock [SEP] NA
+test-535	allington lock [SEP] NA
+test-536	unanswerable
+test-537	4 weeks [SEP] NA
+test-538	no [SEP] NA
+test-539	no [SEP] NA
+test-540	up to 3 years and 14 days [SEP] NA
+test-541	no [SEP] NA
+test-542	no [SEP] NA
+test-543	yes [SEP] NA
+test-544	yes [SEP] NA
+test-545	any valid passports from a different country [SEP] NA [SEP] any valid passports from a different country [SEP] NA [SEP] any court orders (for example, that describe parental responsibility or residency
+test-546	second-hand goods [SEP] NA
+test-547	a stockbook [SEP] NA
+test-548	5 years [SEP] NA
+test-549	£49 [SEP] NA
+test-550	no [SEP] NA
+test-551	no [SEP] NA
+test-552	unanswerable
+test-553	the nhs [SEP] NA
+test-554	a secure english language test (selt) from an approved provider [SEP] NA
+test-555	a current passport or other valid travel documentation [SEP] NA [SEP] a copy of your birth certificate (or another government issued document) that shows the names of your parents [SEP] NA [SEP] proof
+test-556	no [SEP] NA
+test-557	fined up to £1,000 and made to leave the uk [SEP] NA
+test-558	no [SEP] NA
+test-559	£25,600 per year [SEP] NA
+test-560	revaccinate your pet [SEP] NA [SEP] issue a new animal health certificate [SEP] NA [SEP] a new animal health certificate [SEP] NA
+test-561	no [SEP] NA
+test-562	no [SEP] NA
+test-563	yes [SEP] NA
+test-564	no [SEP] NA
+test-565	the standard rate of 20% [SEP] NA
+test-566	yes [SEP] NA
+test-567	£186 [SEP] NA
+test-568	3 months before your course starts [SEP] NA
+test-569	no [SEP] NA
+test-570	a microchip [SEP] NA [SEP] a valid rabies vaccination [SEP] NA [SEP] an animal health certificate [SEP] NA
+test-571	no [SEP] NA
+test-572	no [SEP] NA
+test-573	a stockbook that tracks each item sold under the margin scheme individually [SEP] NA
+test-574	no [SEP] NA
+test-575	no [SEP] NA
+test-576	3 years [SEP] NA
+test-577	no [SEP] NA
+test-578	no [SEP] NA
+test-579	no [SEP] NA
+test-580	on alterations you make to a disabled person’s home, or certain equipment you supply for their personal use [SEP] NA
+test-581	someone who’s temporarily disabled or incapacitated, or elderly and frail but not disabled, does not qualify. [SEP] NA
+test-582	3 months before your course starts [SEP] NA
+test-583	unanswerable
+test-584	no [SEP] NA
+test-585	a passport or travel document [SEP] NA
+test-586	a standard visitor visa [SEP] NA
+test-587	yes [SEP] NA
+test-588	unanswerable
+test-589	your supporting documents need to be verified [SEP] NA [SEP] you need to attend an interview of your personal circumstances (for example if you have a criminal conviction) [SEP] NA [SEP] you need
+test-590	proof that you’ve paid money for some of its costs [SEP] NA [SEP] proof that you’ve paid money for some of its costs [SEP] NA [SEP] proof that you’ve paid money
+test-591	unanswerable
+test-592	yes [SEP] NA
+test-593	£993 [SEP] NA
+test-594	no [SEP] NA
+test-595	yes [SEP] NA
+test-596	£49 [SEP] NA
+test-597	yes [SEP] NA
+test-598	no [SEP] NA
+test-599	apply for a replacement if you plan to leave and re-enter the uk within 3 months of reporting it lost or stolen [SEP] NA
+test-600	use the ‘uk immigration: ID check’ smartphone app [SEP] NA
+test-601	go to an appointment at a visa application centre [SEP] NA [SEP] use the ‘uk immigration: ID check’ smartphone app [SEP] NA [SEP] take it to the visa application centre to collect your
+test-602	no [SEP] NA
+test-603	no [SEP] NA
+test-604	no [SEP] NA
+test-605	your animal health certificate [SEP] NA
+test-606	£177.10 (single people) or £270.30 (couples] NA
+test-607	no [SEP] NA
+test-608	yes [SEP] NA
+test-609	email bccrror@homeoffice.gov.uk [SEP] NA
+test-610	no [SEP] NA
+test-611	no [SEP] NA
+test-612	no [SEP] NA
+test-613	make withdrawals [SEP] NA
+test-614	no [SEP] NA
+test-615	yes [SEP] NA
+test-616	apply online [SEP] NA
+test-617	30 june 2021 [SEP] NA
+test-618	no [SEP] NA
+test-619	yes [SEP] NA
+test-620	your local refugee community organisation [SEP] NA [SEP] the integration loan team [SEP] NA
+test-621	no [SEP] NA
+test-622	less than £82.45 a week in 2021 to 2022 [SEP] NA
+test-623	no [SEP] NA
+test-624	no [SEP] NA
+test-625	at least a week’s notice [SEP] NA
+test-626	yes [SEP] NA
+test-627	pensions advising service [SEP] NA
+test-628	no [SEP] NA
+test-629	yes [SEP] NA
+test-630	free national health service (nhs) healthcare [SEP] NA
+test-631	5 years [SEP] NA
+test-632	a birth certificate or adoption order [SEP] NA
+test-633	email or call the certification officer [SEP] NA
+test-634	email the certification officer [SEP] NA
+test-635	yes [SEP] NA
+test-636	no basic state pension [SEP] NA
+test-637	no [SEP] NA
+test-638	no [SEP] NA
+test-639	no [SEP] NA
+test-640	no [SEP] NA
+test-641	30 jun 2021 [SEP] NA
+test-642	stakeholder pensions [SEP] NA
+test-643	no [SEP] NA
+test-644	broken uk immigration law [SEP] NA
+test-645	use a computer to apply online [SEP] NA
+test-646	yes [SEP] NA
+test-647	£39.63 per person [SEP] NA
+test-648	£137.60 per week [SEP] NA
+test-649	yes [SEP] NA
+test-650	yes [SEP] NA
+test-651	no [SEP] NA
+test-652	no [SEP] NA
+test-653	no [SEP] NA
+test-654	yes [SEP] NA
+test-655	yes [SEP] NA
+test-656	yes [SEP] NA
+test-657	the disclosure and barring service (dbs) customer services team [SEP] NA
+test-658	yes [SEP] NA
+test-659	yes [SEP] NA
+test-660	no [SEP] NA
+test-661	automatic enrolment [SEP] NA
+test-662	yes [SEP] NA
+test-663	no [SEP] NA
+test-664	unanswerable
+test-665	unanswerable
+test-666	free national health service (nhs) healthcare, such as to see a doctor or get hospital treatment [SEP] NA [SEP] a payment card for food and toiletries [SEP] NA [SEP]
+test-667	£39.63 per person [SEP] NA
+test-668	defer your state pension (delay payments) [SEP] NA
+test-669	yes [SEP] NA
+test-670	yes [SEP] NA
+test-671	yes [SEP] NA
+test-672	the country you’re from [SEP] NA
+test-673	£75 for adults [SEP] NA
+test-674	within 3 months of the date on the certificate [SEP] NA
+test-675	unanswerable
+test-676	yes [SEP] NA
+test-677	sign a repayment agreement [SEP] NA
+test-678	no [SEP] NA
+test-679	no [SEP] NA
+test-680	no [SEP] NA
+test-681	no [SEP] NA
+test-682	no [SEP] NA
+test-683	yes [SEP] NA
+test-684	yes [SEP] NA
+test-685	your pension centre [SEP] NA [SEP] your local jobcentre plus [SEP] NA
+test-686	the pension service [SEP] NA
+test-687	give your employer’s details to their commanding officer [SEP] NA
+test-688	yes [SEP] NA
+test-689	based on the consumer price index [SEP] NA
+test-690	no [SEP] NA
+test-691	no [SEP] NA
+test-692	a current passport or other valid travel identification [SEP] NA [SEP] a current passport or other valid travel identification [SEP] NA [SEP] a current passport or other valid travel identification [SEP]
+test-693	by having a recognised english test qualification from an approved test centre [SEP] NA
+test-694	by having a recognised english test qualification from an approved test centre [SEP] NA
+test-695	no [SEP] NA
+test-696	follow the school’s complaints procedure [SEP] NA
+test-697	complain to the special educational needs co-ordinator (sep) [SEP] NA
+test-698	no [SEP] NA
+test-699	no [SEP] NA
+test-700	yes [SEP] NA
+test-701	£250 [SEP] NA
+test-702	go to an employment tribunal [SEP] NA
+test-703	3 months [SEP] NA
+test-704	3 months [SEP] NA
+test-705	within 28 days of the tribunal getting your appeal [SEP] NA
+test-706	no [SEP] NA
+test-707	apply for a refund [SEP] NA
+test-708	£2,496 [SEP] NA
+test-709	3 months [SEP] NA
+test-710	2 months [SEP] NA
+test-711	no [SEP] NA
+test-712	your council [SEP] NA
+test-713	yes [SEP] NA
+test-714	no [SEP] NA
+test-715	companies house form ds01 [SEP] NA
+test-716	make sure that any business assets are shared among the shareholders before applying [SEP] NA
+test-717	close any bank accounts and transfer any domain names [SEP] NA
+test-718	yes [SEP] NA
+test-719	unanswerable
+test-720	yes [SEP] NA
+test-721	g34barc20051710753491 [SEP] NA
+test-722	yes [SEP] NA
+test-723	yes [SEP] NA
+test-724	between £100 and £400, depending on how many late returns you’ve previously filed [SEP] NA
+test-725	through hmrc’s online service [SEP] NA
+test-726	no [SEP] NA
+test-727	change the terms of (‘vary’) the judgment [SEP] NA [SEP] pay it back in instalments [SEP] NA [SEP] cancel the county court judgment (CCJ) or high court
+test-728	a ‘balance sheet’, which shows the value of everything the company owns, owes and is owed on the last day of the financial year [SEP] NA [SEP] a ‘profit and
+test-729	yes [SEP] NA
+test-730	between £100 and £400, depending on how many late returns you’ve previously filed [SEP] NA
+test-731	£13 [SEP] NA
+test-732	£13 [SEP] NA
+test-733	g34barc20051710753491 [SEP] NA
+test-734	yes [SEP] NA
+test-735	appeal [SEP] NA
+test-736	yes [SEP] NA
+test-737	yes [SEP] NA
+test-738	yes [SEP] NA
+test-739	yes [SEP] NA
+test-740	yes [SEP] NA
+test-741	they may be offered a place in another unit [SEP] NA
+test-742	complain or appeal to the information commissioner for [SEP] NA
+test-743	complain or appeal to the information commissioner for [SEP] NA
+test-744	yes [SEP] NA
+test-745	yes [SEP] NA
+test-746	unanswerable
+test-747	£100 on the spot (a ‘fixed penalty notice’) up to £1,000 if it goes to court [SEP] NA
+test-748	no [SEP] NA
+test-749	yes [SEP] NA
+test-750	contact their landlord [SEP] NA
+test-751	allington lock [SEP] NA
+test-752	no [SEP] NA
+test-753	a bss certificate [SEP] NA
+test-754	no [SEP] NA
+test-755	a bss certificate [SEP] NA
+test-756	a ‘designated person’ (your MP, a local councillor or a tenant panel) [SEP] NA
+test-757	up to £20,000 [SEP] NA
+test-758	£30 [SEP] NA
+test-759	no [SEP] NA
+test-760	yes [SEP] NA
+test-761	contact the passport issuing organisation (pio) [SEP] NA
+test-762	up to £20,000 [SEP] NA
+test-763	30 weeks [SEP] NA
+test-764	within 28 days of the date on the decision letter, or 12 months after you submitted the application [SEP] NA
+test-765	take legal action through the courts [SEP] NA
+test-766	to a ‘designated person’ (your MP, a local councillor or a tenant panel) [SEP] NA
+test-767	get help from a mediation service [SEP] NA
+test-768	£100 on the spot (a ‘fixed penalty notice’) up to £1,000 if it goes to court [SEP] NA
+test-769	yes [SEP] NA
+test-770	yes [SEP] NA
+test-771	within 20 working days of receiving your request. [SEP] NA
+test-772	yes [SEP] NA
+test-773	a current passport or other valid travel documentation [SEP] NA [SEP] a valid ATAS certificate [SEP] NA [SEP] proof you have enough money to support yourself and pay for your course [S
+test-774	£20 per hour [SEP] NA
+test-775	3 months before your course starts [SEP] NA
+test-776	a microchip [SEP] NA [SEP] a valid rabies vaccination [SEP] NA [SEP] an animal health certificate [SEP] NA
+test-777	a passport or travel document [SEP] NA
+test-778	a passport or travel document [SEP] NA
+test-779	apply for a replacement if you plan to leave and re-enter the uk within 3 months of reporting it lost or stolen [SEP] NA
+test-780	£177.10 (single people) or £270.30 (couples) [SEP] NA
+test-781	yes [SEP] NA
+test-782	no [SEP] NA
+test-783	email or call the certification officer [SEP] NA
+test-784	no [SEP] NA
+test-785	yes [SEP] NA
+test-786	yes [SEP] NA
+test-787	pension credit [SEP] NA
+test-788	£75 for adults [SEP] NA
+test-789	no [SEP] NA
+test-790	yes [SEP] NA
+test-791	yes [SEP] NA
+test-792	yes [SEP] NA
+test-793	£75 for adults [SEP] NA
+test-794	a current passport or other valid travel documentation [SEP] NA [SEP] a birth certificate for your child [SEP] NA [SEP] a valid ATAS certificate [SEP] NA [SEP]
+test-795	£186 [SEP] NA
+test-796	£993 [SEP] NA
+test-797	£49 [SEP] NA
+test-798	£49 [SEP] NA
+test-799	no [SEP] NA
+test-800	no [SEP] NA
+test-801	no [SEP] NA
+test-802	£39.63 per person [SEP] NA
+test-803	apply online [SEP] NA
