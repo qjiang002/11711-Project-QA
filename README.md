@@ -164,6 +164,7 @@ python evaluate.py --pred_file=../Outputs/with_conditions/dev_output_large.json 
 | w/ cond_SEP_title | 61.5/61.5 | 50.0/50.0 | 24.5/35.0 | 23.2/32.4 | 31.1/34.6 | 2.4/3.8 | 42.2/46.9 | 35.9/40.0 |
 | w/ cond_CON_no_title | 67.1/67.1 | 45.8/45.8 | 19.5/33.4 | 18.9/32.5 | 53.6/55.9 | 4.0/5.5 | 42.8/49.0 | 31.8/37.9 |
 | w/ cond_CON_no_title_html | 69.1/69.1 | 51.1/51.1 | 16.0/28.7 | 15.3/26.7 | 45.4/49.0 | 3.7/4.7 | 42.9/48.5 | 33.4/38.4 |
+| w/o cond_sentence_level | 71.3/71.3 | 49.7/49.7 |  20.3/34.6 | 18.1/32.0 | 58.7/61.1  |  5.0/6.7 | 45.3/51.7 | 33.4/39.7 |
 
 ## References
 [ConditionalQA: A Complex Reading Comprehension Dataset with Conditional Answers.](https://arxiv.org/abs/2110.06884)

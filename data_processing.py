@@ -3,7 +3,7 @@ import copy
 import argparse
 
 
-def generate_FiD_data_without_conditions(cqa_data_path, FiD_data_path):
+def generate_FiD_data_without_conditions(cqa_data_path, FiD_data_path, use_section_as_passage, question_as_passage):
   def content_to_sections(contents):
     ans = []
     sec = []
@@ -17,6 +17,9 @@ def generate_FiD_data_without_conditions(cqa_data_path, FiD_data_path):
       ans.append({"title": sec[0], "text": (' '.join(sec[1:]) if len(sec)>1 else "")})
     return ans
 
+  def content_to_sentences(contents):
+    return [{"title": "", "text": sent} for sent in contents]
+
   # cqa_data_path = './ConditionalQA/v1_0/train.json'
   with open(cqa_data_path, 'r') as f:
     cqa_data = json.load(f)
@@ -27,20 +30,27 @@ def generate_FiD_data_without_conditions(cqa_data_path, FiD_data_path):
 
   doc_dict = dict()
   for doc in documents:
-    doc_dict[doc['url']] = {"title": doc['title'], "sections": content_to_sections(doc['contents'])}
+    doc_dict[doc['url']] = {"title": doc['title'], "sections": content_to_sections(doc['contents']) if use_section_as_passage else content_to_sentences(doc['contents'])}
 
   FiD_examples = []
   for example in cqa_data:
     new_example = dict()
     new_example['id'] = example['id']
-    new_example['question'] = example['question']
+    new_example['question'] = example['question'] if not question_as_passage else ""
     if 'test' not in cqa_data_path:
-      new_example['answers'] = [ans[0] for ans in example['answers']] if example['not_answerable'] == False else ['not_answerable']
+      target = ' [SEP] '.join([ans[0] for ans in example['answers']]) if example['not_answerable'] == False else 'unanswerable'
+      new_example['target'] = target
+      new_example['answers'] = [target]
     else:
+      new_example['target'] = ""
       new_example['answers'] = [""]
     new_example['ctxs'] = copy.deepcopy(doc_dict[example['url']]['sections'])
-    new_example['ctxs'].append({'title': "title", 'text': doc_dict[example['url']]['title']})
-    new_example['ctxs'].append({'title': "scenario", 'text': example['scenario']})
+    if question_as_passage:
+      new_example['ctxs'].append({'title': "", 'text': example['scenario']})
+      new_example['ctxs'].append({'title': "", 'text': example['question']})
+    else:
+      # new_example['ctxs'].append({'title': "title", 'text': doc_dict[example['url']]['title']})
+      new_example['ctxs'].append({'title': "scenario", 'text': example['scenario']})
     FiD_examples.append(new_example)
 
   # FiD_data_path = './FiD_train.json'
@@ -130,6 +140,8 @@ def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--without_condition', action='store_true', help="Only convert answers.")
     parser.add_argument('--no_title', action='store_true', help="FiD contexts don't have titles.")
+    parser.add_argument('--use_section_as_passage', action='store_true', help="For without_condition, use each sentence as a passage in FiD.")
+    parser.add_argument('--question_as_passage', action='store_true', help="For without_condition, treat question and scenario as passages.")
     parser.add_argument('--conj_symbol', type=str, default='[SEP]', help='symbol that seperates answer and conditions, [SEP] or [CON].')
     parser.add_argument('--keep_html', action='store_true', help="Don't remove the HTML headers.")
     parser.add_argument('--cqa_data_path', type=str, default='./ConditionalQA/v1_0/train.json', help='Path to original ConditionalQA json data.')
@@ -139,6 +151,6 @@ def parse_arguments():
 if __name__=="__main__":
   args = parse_arguments()
   if args.without_condition:
-    generate_FiD_data_without_conditions(args.cqa_data_path, args.FiD_data_path)
+    generate_FiD_data_without_conditions(args.cqa_data_path, args.FiD_data_path,  args.use_section_as_passage, args.question_as_passage)
   else:
     generate_FiD_data(args.cqa_data_path, args.FiD_data_path, include_title=(not args.no_title), conj_symbol=args.conj_symbol, remove_html=(not args.keep_html))

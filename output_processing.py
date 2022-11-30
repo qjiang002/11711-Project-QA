@@ -69,10 +69,11 @@ def convert(cqa_data_path, FiD_output_file, CQA_output_file, without_conditions=
             id = line.split('\t')[0]
             ans = '\t'.join(line.strip().split('\t')[1:])
             if without_conditions:
-                if ans == 'not_answerable':
+                ans = ans.split(conj_symbol)
+                if len(ans)==1 and ans[0] in ['not_answerable', 'unanswerable']:
                     out = {"id": id, "answers": []}
                 else:
-                    out = {"id": id, "answers": [[ans, []]]}
+                    out = {"id": id, "answers": [[a.strip(), []] for a in ans]}
             else:
                 contents = doc_dict[example_id_url[id]]["contents"]
                 out = {"id": id, "answers": parse_answer(contents, ans, conj_symbol)}

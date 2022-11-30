@@ -1,0 +1,285 @@
+dev-0	10 days
+dev-1	21 or over
+dev-2	yes
+dev-3	yes
+dev-4	no
+dev-5	yes
+dev-6	yes
+dev-7	unanswerable
+dev-8	yes
+dev-9	no
+dev-10	£60 or £89.60 a week
+dev-11	yes
+dev-12	tax relief
+dev-13	yes
+dev-14	yes
+dev-15	yes
+dev-16	14% of the ‘eligible rent’
+dev-17	yes
+dev-18	the office of the public guard
+dev-19	yes
+dev-20	yes
+dev-21	25% of the ‘eligible rent’ for 2 or more spare bedrooms
+dev-22	send it to the address on the form
+dev-23	0.1%
+dev-24	£250
+dev-25	unanswerable
+dev-26	yes
+dev-27	yes
+dev-28	yes
+dev-29	yes
+dev-30	yes
+dev-31	yes
+dev-32	yes
+dev-33	yes
+dev-34	6 months from when you received your declaration to get another citizenship
+dev-35	yes
+dev-36	yes
+dev-37	yes
+dev-38	yes
+dev-39	yes
+dev-40	yes
+dev-41	yes
+dev-42	unanswerable
+dev-43	for having a major local role in any activity, usually at national level
+dev-44	12 to 18 months
+dev-45	yes
+dev-46	yes
+dev-47	yes
+dev-48	your local council
+dev-49	yes
+dev-50	yes
+dev-51	the rural payments agency
+dev-52	£19.20
+dev-53	yes
+dev-54	pass initial training by hm coastguard, followed by regular training to keep your skills up to date
+dev-55	yes
+dev-56	independent support
+dev-57	contact your local council
+dev-58	yes
+dev-59	yes
+dev-60	yes
+dev-61	yes
+dev-62	yes
+dev-63	the national careers service course search
+dev-64	a full day
+dev-65	no
+dev-66	yes
+dev-67	£11, 570
+dev-68	the national careers service course search
+dev-69	no
+dev-70	yes
+dev-71	yes
+dev-72	no
+dev-73	your own moped or motorcycle
+dev-74	instalments
+dev-75	passport or national identity card
+dev-76	yes
+dev-77	you can claim compensation
+dev-78	yes
+dev-79	yes
+dev-80	health and safety measures
+dev-81	control of vibration at work regulations
+dev-82	every year
+dev-83	yes
+dev-84	yes
+dev-85	yes
+dev-86	yes
+dev-87	through your business’s hm revenue and customs (hm revenue) online account
+dev-88	yes
+dev-89	2 years
+dev-90	22 October following the tax year it applies to
+dev-91	up to 4 weeks’ pay
+dev-92	no
+dev-93	employment tribunal
+dev-94	no
+dev-95	yes
+dev-96	a week’s notice for every year
+dev-97	a week’s pay for each full year of employment up to their 22nd birthday
+dev-98	yes
+dev-99	9% of their income above £25,000 a year
+dev-100	send an EPS
+dev-101	any reduction on what you’ll owe
+dev-102	yes
+dev-103	yes
+dev-104	yes
+dev-105	every year
+dev-106	22 October following the tax year it applies to
+dev-107	yes
+dev-108	within one month
+dev-109	yes
+dev-110	the insolvency service’s redundancy payments service (RPS)
+dev-111	yes
+dev-112	up to 5,000 litres (15 cubic metres)
+dev-113	yes
+dev-114	yes
+dev-115	yes
+dev-116	yes
+dev-117	the centralised attachment of earning payments (CAPS) office
+dev-118	yes
+dev-119	yes
+dev-120	yes
+dev-121	the centralised attachment of earning payments (CAPS) office
+dev-122	yes
+dev-123	yes
+dev-124	yes
+dev-125	no
+dev-126	get a VAT 407 form from the retailer
+dev-127	an immigration adviser
+dev-128	yes
+dev-129	yes
+dev-130	use a paper form
+dev-131	yes
+dev-132	yes
+dev-133	yes
+dev-134	yes
+dev-135	yes
+dev-136	yes
+dev-137	yes
+dev-138	yes
+dev-139	yes
+dev-140	yes
+dev-141	yes
+dev-142	£2,500 [SEP] £100
+dev-143	other help
+dev-144	yes
+dev-145	yes
+dev-146	yes
+dev-147	yes
+dev-148	yes
+dev-149	reclaim the corporation tax it pays on a director’s loan
+dev-150	your local council
+dev-151	yes
+dev-152	yes
+dev-153	yes
+dev-154	yes
+dev-155	yes
+dev-156	yes
+dev-157	yes
+dev-158	ask the senior courts costs office to make a ‘detailed assessment’ of your bill
+dev-159	£1,345
+dev-160	your vehicle
+dev-161	meet the eligibility criteria set by tfl
+dev-162	yes
+dev-163	yes
+dev-164	yes
+dev-165	yes
+dev-166	yes
+dev-167	yes
+dev-168	yes
+dev-169	yes
+dev-170	unanswerable
+dev-171	details of at least 2 other officials, including national insurance and telephone numbers
+dev-172	yes
+dev-173	3 years
+dev-174	apply to your nearest county court
+dev-175	yes
+dev-176	no
+dev-177	highways english
+dev-178	yes
+dev-179	2 working days
+dev-180	5 countries
+dev-181	the visa application centre where you applied
+dev-182	yes
+dev-183	yes
+dev-184	apply for an emergency travel document
+dev-185	£100
+dev-186	highways english
+dev-187	yes
+dev-188	no
+dev-189	4 weeks
+dev-190	contact your local planning authority (LPA) through your local council
+dev-191	several months
+dev-192	yes
+dev-193	yes
+dev-194	yes
+dev-195	yes
+dev-196	9 months and 1 day
+dev-197	online or telephone banking
+dev-198	yes
+dev-199	yes
+dev-200	yes
+dev-201	try to come to an agreement with the local planning authority (lpa) by adjusting your plans
+dev-202	yes
+dev-203	yes
+dev-204	yes
+dev-205	yes
+dev-206	an ‘xi’ prefix
+dev-207	4 years
+dev-208	yes
+dev-209	yes
+dev-210	yes
+dev-211	use your 17-character corporation tax payslip reference
+dev-212	8 weeks
+dev-213	yes
+dev-214	yes
+dev-215	yes
+dev-216	yes
+dev-217	yes
+dev-218	yes
+dev-219	yes
+dev-220	yes
+dev-221	yes
+dev-222	yes
+dev-223	yes
+dev-224	yes
+dev-225	the general binding rules
+dev-226	contact your local council
+dev-227	your landlord
+dev-228	the office of the immigration services commissioner (oisc) adviser finder
+dev-229	email the office of the immigration services commissioner
+dev-230	yes
+dev-231	yes
+dev-232	bank accounts
+dev-233	the country you live in
+dev-234	send the international claim form to the international pension centre
+dev-235	yes
+dev-236	yes
+dev-237	yes
+dev-238	10 working days’ written notice to the agency
+dev-239	you can get paid time off to go to ‘antenatal care’
+dev-240	your employer
+dev-241	yes
+dev-242	a family member or citizens advice bureau worker
+dev-243	your area
+dev-244	yes
+dev-245	yes
+dev-246	get legal advice to help your asylum claim
+dev-247	6 months
+dev-248	your employer
+dev-249	yes
+dev-250	how to appeal your employer’s decision
+dev-251	yes
+dev-252	you may be sent to a safe country that will consider your asylum claim
+dev-253	yes
+dev-254	yes
+dev-255	yes
+dev-256	Acas
+dev-257	yes
+dev-258	yes
+dev-259	21 days
+dev-260	yes
+dev-261	at least 15 weeks before your SMP start date
+dev-262	passport or national identity card
+dev-263	instalments
+dev-264	£11, 570
+dev-265	passport or national identity card
+dev-266	£11,570
+dev-267	yes
+dev-268	yes
+dev-269	£11,920
+dev-270	unanswerable
+dev-271	yes
+dev-272	try to come to an agreement with the local planning authority (lpa) by adjusting your plans
+dev-273	4 years
+dev-274	6 years
+dev-275	yes
+dev-276	your landlord
+dev-277	your local council
+dev-278	yes
+dev-279	the general binding rules
+dev-280	yes
+dev-281	yes
+dev-282	you may be sent to a safe country that will consider your asylum claim
+dev-283	yes
+dev-284	a family member or citizens advice bureau worker
