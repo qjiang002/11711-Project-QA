@@ -1,0 +1,285 @@
+dev-0	within 10 days
+dev-1	no
+dev-2	yes
+dev-3	yes
+dev-4	no
+dev-5	yes
+dev-6	yes
+dev-7	yes
+dev-8	yes
+dev-9	no
+dev-10	£89.60
+dev-11	yes
+dev-12	yes
+dev-13	yes
+dev-14	yes
+dev-15	yes
+dev-16	14% of the ‘eligible rent’
+dev-17	yes
+dev-18	the donor [SEP] the donor and a witness who were not one of the attorneys for the EPA
+dev-19	yes
+dev-20	yes
+dev-21	14% of the ‘eligible rent’
+dev-22	send a certified copy of the death certificate
+dev-23	unanswerable
+dev-24	£200 per child [SEP] £250 per child
+dev-25	yes
+dev-26	yes
+dev-27	yes
+dev-28	yes
+dev-29	yes
+dev-30	yes
+dev-31	yes
+dev-32	yes
+dev-33	yes
+dev-34	6 months
+dev-35	yes
+dev-36	yes
+dev-37	yes
+dev-38	yes
+dev-39	yes
+dev-40	yes
+dev-41	yes
+dev-42	a detailed description explaining why you’re recommending them
+dev-43	no
+dev-44	12 to 18 months
+dev-45	yes
+dev-46	yes
+dev-47	yes
+dev-48	your local council
+dev-49	yes
+dev-50	yes
+dev-51	the rural payments agency
+dev-52	£19.20
+dev-53	yes
+dev-54	first aid [SEP] water rescue [SEP] search for missing people [SEP] report and deal with pollution and other hazards [SEP] help emergency services and local authorities during emergencies, for example flooding
+dev-55	yes
+dev-56	talk to the sen co-ordinator, or ‘senco’ in your child’s school or nursery
+dev-57	talk to the sen co-ordinator, or ‘senco’ in your child’s school or nursery
+dev-58	yes
+dev-59	yes
+dev-60	yes
+dev-61	yes
+dev-62	yes
+dev-63	the national careers service course search
+dev-64	2 hours
+dev-65	yes
+dev-66	yes
+dev-67	£11,222
+dev-68	the national careers service course search
+dev-69	yes
+dev-70	yes
+dev-71	yes
+dev-72	yes
+dev-73	a motorcycle helmet that meets british safety standards
+dev-74	yes
+dev-75	use the evidence return form
+dev-76	yes
+dev-77	appeal to the transport tribunal
+dev-78	yes
+dev-79	yes
+dev-80	up-to-date copies of the ‘code of safe working practices for merchant seamen’ must be carried on a uk ship that’s not a fishing boat or pleasure craft
+dev-81	up-to-date copies of the ‘code of safe working practices for merchant seamen’ must be carried on a uk ship that’s not a fishing boat or pleasure craft
+dev-82	every year
+dev-83	yes
+dev-84	yes
+dev-85	yes
+dev-86	yes
+dev-87	hmrc shipley
+dev-88	yes
+dev-89	5 working days
+dev-90	22 October
+dev-91	unanswerable
+dev-92	yes
+dev-93	time off
+dev-94	no
+dev-95	yes
+dev-96	unanswerable
+dev-97	unanswerable
+dev-98	yes
+dev-99	yes
+dev-100	yes
+dev-101	yes
+dev-102	yes
+dev-103	yes
+dev-104	yes
+dev-105	every year
+dev-106	22 October
+dev-107	yes
+dev-108	within 2 months of the start of employment
+dev-109	yes
+dev-110	rrs.enquiries@dwp.gov.uk
+dev-111	yes
+dev-112	between 2 and 15 cubic metres per day [SEP] over 15 cubic metres per day
+dev-113	yes
+dev-114	yes
+dev-115	yes
+dev-116	yes
+dev-117	the centralised attachment of earning payments (caps) office
+dev-118	yes
+dev-119	yes
+dev-120	yes
+dev-121	unpaid maintenance payments [SEP] county court judgment (cj)
+dev-122	yes
+dev-123	yes
+dev-124	yes
+dev-125	yes
+dev-126	get a reduced rate of 5%
+dev-127	download and fill in the complaints form [SEP] include any documents that are relevant with your complaint [SEP] send the complaints form and documents to complaints@oisc.gov.uk or by post to the address on the form
+dev-128	yes
+dev-129	yes
+dev-130	call the bereavement service helpline
+dev-131	yes
+dev-132	yes
+dev-133	yes
+dev-134	yes
+dev-135	yes
+dev-136	yes
+dev-137	yes
+dev-138	no
+dev-139	yes
+dev-140	yes
+dev-141	yes
+dev-142	£3,500
+dev-143	a funeral support payment
+dev-144	yes
+dev-145	yes
+dev-146	yes
+dev-147	yes
+dev-148	yes
+dev-149	report the interest on a personal self assessment tax return
+dev-150	your local council
+dev-151	yes
+dev-152	yes
+dev-153	yes
+dev-154	yes
+dev-155	yes
+dev-156	yes
+dev-157	yes
+dev-158	ask the senior courts costs office to make a ‘detailed assessment’ of your bill
+dev-159	£45
+dev-160	the colour scheme of your vehicle [SEP] the taximeter works properly [SEP] the doors are safe and secure
+dev-161	the colour scheme of your vehicle [SEP] the taximeter works properly [SEP] the doors are safe and secure
+dev-162	yes
+dev-163	yes
+dev-164	yes
+dev-165	yes
+dev-166	yes
+dev-167	yes
+dev-168	yes
+dev-169	yes
+dev-170	tax relief on income, gains and profits from some activities [SEP] gift aid repayments on donations [SEP] business rates relief
+dev-171	tax relief on income, gains and profits from some activities [SEP] gift aid repayments on donations [SEP] business rates relief
+dev-172	yes
+dev-173	up to £1,152
+dev-174	ask the senior courts costs office to make a ‘detailed assessment’ of your bill
+dev-175	yes
+dev-176	no
+dev-177	your local council for local roads [SEP] highways England for major roads, including motorways and some A roads
+dev-178	yes
+dev-179	2 working days
+dev-180	2 working days after you apply
+dev-181	your contact details [SEP] your legal representative’s details [SEP] dependent family members’ details [SEP] if you separate from your partner [SEP] if you get a criminal conviction [SEP]
+dev-182	yes
+dev-183	yes
+dev-184	apply online
+dev-185	£100
+dev-186	your local council for local roads [SEP] highways England for major roads, including motorways and some A roads
+dev-187	yes
+dev-188	yes
+dev-189	unanswerable
+dev-190	contact your local planning authority (lpa) through your local council
+dev-191	several months to be decided
+dev-192	yes
+dev-193	yes
+dev-194	yes
+dev-195	yes
+dev-196	3 working days
+dev-197	by cash or cheque
+dev-198	yes
+dev-199	yes
+dev-200	yes
+dev-201	appeal
+dev-202	yes
+dev-203	yes
+dev-204	yes
+dev-205	yes
+dev-206	unanswerable
+dev-207	within 30 days
+dev-208	yes
+dev-209	yes
+dev-210	yes
+dev-211	by faster payments, chps or bacs
+dev-212	several months
+dev-213	yes
+dev-214	yes
+dev-215	yes
+dev-216	no
+dev-217	yes
+dev-218	yes
+dev-219	yes
+dev-220	yes
+dev-221	yes
+dev-222	yes
+dev-223	yes
+dev-224	yes
+dev-225	the 8-figure grid reference for your septic tank or treatment plant and the point where it discharges [SEP] a small sewage treatment plant [SEP] a cesspool
+dev-226	your landlord must get your permission
+dev-227	your landlord must get your permission
+dev-228	download and fill in the complaints form [SEP] include any documents that are relevant with your complaint [SEP] send the complaints form and documents to complaints@oisc.gov.uk or by post to the address on the form
+dev-229	complain about an immigration adviser
+dev-230	yes
+dev-231	yes
+dev-232	a bank in the country you’re living in [SEP] a bank or building society in the uk
+dev-233	the international pension centre
+dev-234	yes
+dev-235	yes
+dev-236	yes
+dev-237	yes
+dev-238	up to 26 weeks after childbirth [SEP] your notice period [SEP] your pay [SEP] paid annual leave
+dev-239	your start date [SEP] your notice period [SEP] your pay [SEP] your holiday entitlement
+dev-240	your employer
+dev-241	yes
+dev-242	a family member or citizens advice bureau worker
+dev-243	your employer should put their grievance procedure in writing and share it with all staff, such as on the company intranet or in the HR manual
+dev-244	yes
+dev-245	yes
+dev-246	your application will be registered and you’ll be screened [SEP] your foster carer’s name and contact details [SEP] details of any medical conditions you have
+dev-247	5 years
+dev-248	your employer
+dev-249	yes
+dev-250	appeal
+dev-251	yes
+dev-252	you may be asked to leave the uk
+dev-253	yes
+dev-254	yes
+dev-255	yes
+dev-256	your start date [SEP] your notice period [SEP] your pay [SEP] your holiday entitlement
+dev-257	yes
+dev-258	yes
+dev-259	at least 2% of all the employees in the company or organisation make a request [SEP] more than 50% of those voting supported the request for an information and consultation agreement
+dev-260	yes
+dev-261	at least 15 weeks before your due date
+dev-262	use the evidence return form
+dev-263	yes
+dev-264	£11,222
+dev-265	use the evidence return form
+dev-266	£11,222
+dev-267	yes
+dev-268	yes
+dev-269	£11,222
+dev-270	yes
+dev-271	yes
+dev-272	appeal
+dev-273	within 30 days
+dev-274	within 30 days
+dev-275	yes
+dev-276	your landlord must get your permission
+dev-277	your landlord must get your permission
+dev-278	yes
+dev-279	the 8-figure grid reference for your septic tank or treatment plant and the point where it discharges [SEP] a small sewage treatment plant [SEP] a cesspool
+dev-280	yes
+dev-281	yes
+dev-282	you may be asked to leave the uk
+dev-283	yes
+dev-284	a family member or citizens advice bureau worker
