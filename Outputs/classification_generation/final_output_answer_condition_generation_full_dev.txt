@@ -1,0 +1,285 @@
+dev-0	3 months
+dev-1	no upper age limit
+dev-2	yes [CON] putting the child up for adoption taking the child abroad for more than 3 months [CON] having surgery for reasons other than improving health, such as circumcision, sterilisation or cosmetic surgery
+dev-3	yes [CON] on or before their 21st birthday (or if they’ve died, the date they would have reached 21) within 6 years of the vaccination
+dev-4	yes [CON] You may have to pay Inheritance Tax if the deceased person’s estate can’t or doesn’t pay. HM Revenue and Customs (HMRC) will contact you if you need to
+dev-5	yes [CON] the child or baby was living with you at your home for 4 continuous weeks, ending with the date of death [CON] you or your partner had day to day responsibility for the child or baby’s care during that time
+dev-6	yes [CON] after the adoption order was granted before the adoption order was made, if the child was placed with you and the placement was not disrupted (for example, being temporarily placed elsewhere) or stopped (for example, being
+dev-7	higher rate mobility component
+dev-8	yes [CON] You could get a payment if you’re severely disabled and your disability was caused by vaccination against any of the following diseases: coronavirus (COVID-19) diphtheria haemophil
+dev-9	yes [SEP] no [CON] interest you earn from money you inherit dividends paid on shares you inherit
+dev-10	higher rate - £89.60
+dev-11	the adoption support fund
+dev-12	up to £10,000 per household
+dev-13	yes [CON] You and your partner have both reached State Pension age [CON] one of you has reached State Pension age and started claiming Pension Credit (for you as a couple) before 15 May 2019 [CON] you’re
+dev-14	yes [CON] Keep the donor’s finances separate from your own, unless you’ve got a joint bank account or own a home together. If you do, tell the bank or mortgage company you’re acting as the
+dev-15	yes [CON] you’re already the child’s legal guardian [CON] you have the agreement of anyone named in a child arrangements order as someone who the child will live with [CON] you have the agreement of all
+dev-16	14%
+dev-17	yes [CON] You do not have a statutory right to time off work to care for foster children.
+dev-18	the office of the public guard
+dev-19	you’re living in a refuge for survivors of domestic abuse
+dev-20	you’re not their parent and you’re over 18
+dev-21	14%
+dev-22	a certificate of funds when you write to the court funds office
+dev-23	0.1%
+dev-24	£250
+dev-25	higher rate mobility component of disability living allowance [SEP] disability living allowance [SEP] attendance allowance [SEP] disability living allowance [SEP] attendance allowance [SEP] disability living allowance [SEP] disability living allowance [
+dev-26	no [CON] You must register the enduring power of attorney (EPA) when the donor starts to lose or has lost their mental capacity. This means they cannot make a decision at the time it needs to be made because of a
+dev-27	yes [CON] you’re in supported, sheltered or temporary housing (such as a hostel) which provides you with ‘care, support or supervision’
+dev-28	yes [CON] You must be appointed by the Court of Protection as the person’s property and affairs deputy.
+dev-29	yes [CON] You cannot get Statutory Maternity Leave if you have a child through surrogacy - you could get Statutory Adoption Leave and Pay instead.
+dev-30	yes [CON] You may not have the same level of authority for each child you foster.
+dev-31	yes [CON] the adoption took place in certain overseas countries [CON] the parent or parents were habitually resident in England and Wales at the time of the adoption
+dev-32	register with your local rural payments and inspections directorate (RPID) office
+dev-33	yes [CON] you sell the land to someone else
+dev-34	6 months
+dev-35	yes [CON] You already have another citizenship or nationality [CON] You’re going to get another citizenship or nationality after giving up your British citizenship or status [CON] You must also be: aged 18 or over (unless you
+dev-36	SEN support [SEP] making reasonable adjustments for disabled children, like providing aids like tactile signs
+dev-37	yes [CON] SEN support - support given in school, like speech therapy [CON] an education, health and care (EHC) plan
+dev-38	yes [CON] in the same tax year as you want to claim GASDS without getting a penalty in the last 2 tax years in at least 2 of the last 4 tax years
+dev-39	yes [CON] You must be recognised as a charity or community amateur sports club (CASC) for tax purposes.
+dev-40	yes [CON] You must be recognised as a charity or community amateur sports club (CASC) for tax purposes.
+dev-41	you cannot claim on donations: from limited companies made through Payroll Giving that are a payment for goods or services or made because your charity or CASC bought goods and services where the donor gets a ‘benefit’ over a certain
+dev-42	write a detailed description explaining why you’re nominating them
+dev-43	having a major local role in any activity, including people whose work has made them known nationally in their chosen area
+dev-44	after they’ve died
+dev-45	yes [CON] making a difference to their community or field of work enhancing Britain’s reputation [CON] long-term voluntary service [CON] innovation and entrepreneurship [CON] changing things, with an emphasis on achievement improving life
+dev-46	yes [CON] you’re aged 18 or over [CON] you have a full driving licence [CON] you live or work within 30 minutes of the rescue station - check the map to find your nearest station
+dev-47	you will not be paid
+dev-48	the sen co-ordinator, or ‘senco’ in your child’s school or nursery
+dev-49	yes [CON] Your child may need an education, health and care (EHC) plan
+dev-50	yes [CON] You can give an agent full powers (empowerment) to deal with your land registration or partial powers (for example, they can access information but not change it).
+dev-51	the rural payments agency
+dev-52	£19.20
+dev-53	yes [CON] You can only use this service if you’re applying in the UK. You cannot get immigration advice through this service.
+dev-54	first aid water rescue map work search techniques [SEP] communications skills you need for your local area, for example rope rescue, mud rescue
+dev-55	you must ask your employer if you can respond to emergencies during work hours before you become a volunteer
+dev-56	SEN support - support given in school, like speech therapy
+dev-57	talk to a doctor or health adviser
+dev-58	yes [CON] You must be recognised as a charity or community amateur sports club (CASC) for tax purposes.
+dev-59	eligible software, like a database a spreadsheet of your donations
+dev-60	yes [CON] Nominations will be considered by an independent honours committee.
+dev-61	yes [CON] They’ll be given an ‘honorary award’ if they’re not: British a national of a country where the Queen is Head of State
+dev-62	yes [CON] Learner Support Residential Support Scheme [CON] Care to Learn [CON] Dance and Drama Awards 16 to 19 Bursary Fund [CON] a loan to help with the costs of a college or training course 
+dev-63	the national careers service course search
+dev-64	a full day
+dev-65	you do not need to take a CBT course or take the full moped test
+dev-66	yes [CON] you’re taking a year out of an undergraduate course to study for a master’s.
+dev-67	undergraduate funding [SEP] £10,906
+dev-68	the national careers service
+dev-69	no
+dev-70	yes [CON] Your approved driving instructor (ADI) registration can be suspended if the ADI registrar thinks you pose a significant threat to public safety.
+dev-71	yes [CON] You cannot get paid for giving driving lessons if you’re suspended.
+dev-72	no
+dev-73	your own moped or motorcycle
+dev-74	in 3 instalments of 33%, 33% and 34% each year
+dev-75	valid uk passport details [SEP] evidence of residency status [SEP] customer reference number [SEP] customer reference number [SEP] customer reference number [SEP] customer reference number [SEP] customer reference number [
+dev-76	yes [CON] You should base your claim on the period that best compares to the time you were suspended if you cannot directly compare with a previous year.
+dev-77	compensation for income and non-income losses as a result of being suspended
+dev-78	those who opted for early retirement do not qualify
+dev-79	yes [CON] You must make the payment when you dismiss the employee, or soon after.
+dev-80	safety measures must be in place
+dev-81	the merchant shipping (fire protection: large ships) regulations 1998.
+dev-82	every year and whenever there are significant changes to either the ship or working activities
+dev-83	yes [CON] Risk assessments must be reviewed every year and whenever there are significant changes to either the ship or working activities.
+dev-84	yes [CON] You can’t take time off for dependants after the birth to care for the child, unless it’s an emergency. However, if you’re the child’s parent you could be entitled to
+dev-85	refuse you training or promotion
+dev-86	yes [CON] maternity leave and paternity leave [CON] holiday entitlement (and if that includes public holidays) [CON] holiday entitlement (and if that includes public holidays) [CON] holiday entitlement (and if
+dev-87	through your business’s hm revenue and customs (hmrc) online account
+dev-88	yes [CON] You can check your bank or building society statement to confirm the payment has left your account. If you’re paying by post, you can include a letter with your payment to request a receipt from HM Revenue and
+dev-89	2 years
+dev-90	22 october
+dev-91	up to 4 weeks’ pay
+dev-92	in a written contract, or similar document like a written statement of employment
+dev-93	an employment tribunal
+dev-94	no
+dev-95	yes [CON] HMRC will close your PAYE scheme if you’re a new employer and you do not send a report to or pay HMRC in 120 days.
+dev-96	1 month to 2 years
+dev-97	half a week’s pay for each full year of employment up to their 22nd birthday
+dev-98	pay before any deductions (‘gross’ wages) deductions like tax and national insurance [SEP] pay after deductions (‘net’ wages) [SEP] the number of hours worked, if the pay 
+dev-99	9% of their income above £27,295 a year
+dev-100	put ‘yes’ in the ‘irregular payment pattern indicator’
+dev-101	tax and national insurance
+dev-102	yes [CON] You can’t take time off for dependants after the birth to care for the child, unless it’s an emergency. However, if you’re the child’s parent you could be entitled to
+dev-103	yes [CON] You may be able to take a case to an Employment Tribunal.
+dev-104	must follow safety standards and requirements
+dev-105	every year and whenever there are significant changes to either the ship or working activities
+dev-106	22 October
+dev-107	by personal debit card
+dev-108	within one month of making the change
+dev-109	yes [CON] in a written contract, or similar document like a written statement of employment verbally agreed in an employee handbook or on a company notice board in an offer letter from the employer required by law (for example,
+dev-110	the insolvency service’s redundancy payments service (rps)
+dev-111	yes [CON] There are no set rules to follow if there are fewer than 20 redundancies planned, but it’s good practice to fully consult employees and their representatives.
+dev-112	18,000 litres per 2 users (plus another 6,800 litres per each extra user)
+dev-113	yes [CON] You must apply for a permit if you’re discharging more than 5 cubic metres (5,000 litres) per day.
+dev-114	your landlord must get your permission if they want to increase the rent by more than previously agreed
+dev-115	yes [CON] You can appeal against a rent officer’s decision. They may pass your case to a tribunal, which can make a final decision on the rent.
+dev-116	unpaid maintenance payments county court judgment (CCJ)
+dev-117	the centralised attachment of earning payments (caps) office
+dev-118	yes [CON] You can only get a VAT refund if you take the goods out of Northern Ireland and the EU within 3 months of buying them.
+dev-119	yes [CON] You can only get a VAT refund if you take the goods out of Northern Ireland and the EU within 3 months of buying them.
+dev-120	yes [CON] unpaid maintenance payments [CON] county court judgment (CCJ) [CON] The person you owe money is called a ‘creditor’. [CON] You and your employer can be fined 
+dev-121	the centralised attachment of earning payments (caps) office
+dev-122	yes [CON] take extra payments directly agree to put the order on hold so you can pay more directly to them
+dev-123	yes [CON] You do not get the reduced rate if you repair or replace the goods after they’ve been installed.
+dev-124	yes [CON] You can only buy tax-free goods from shops in Great Britain (England, Wales and Scotland) if they’re delivered straight to an address outside the UK.
+dev-125	no
+dev-126	confirm to your supplier in writing that you meet these conditions
+dev-127	the office of the immigration services commissioner (oisc) adviser finder
+dev-128	yes [CON] someone giving immigration advice who is not regulated by either the OSIC or another approved body.
+dev-129	yes [CON] under State Pension age living in the UK or a country that pays bereavement benefits
+dev-130	claim within 3 months of your partner’s death to get the full amount
+dev-131	special rate pool with a rate of 6%
+dev-132	you’ve already claimed AIA on items worth a total of more than the AIA amount
+dev-133	yes [CON] Your dates for accounts and tax returns will normally match your company’s financial year from 1 June to 31 May every year.
+dev-134	yes [CON] You started trading on the same day it was set up - one for your company’s first 12 months and one for the rest of the time covered by your company’s first accounts.
+dev-135	one for the first 12 months of trading and one for the rest of the time covered by your company’s first accounts
+dev-136	yes [CON] started trading on the same day it was set up [CON] didn’t start trading until after it was set up [CON] didn’t start trading until after it was set up [CON] didn’t start
+dev-137	yes [CON] You’ll need to work out your gain to find out whether you need to pay tax. Report your gains to HM Revenue and Customs (HMRC) when you file your Company Tax Return.
+dev-138	yes [CON] Your limited company usually pays Corporation Tax on the profit (‘chargeable gain’) from selling or disposing of an asset.
+dev-139	yes [CON] You must report the income on a personal self assessment tax return.
+dev-140	treat the discounted interest as a ‘benefit in kind’
+dev-141	yes [CON] Your husband, wife or civil partner died in the last 21 months. You must claim within 3 months of your partner’s death to get the full amount. You can claim up to 21 months after their death but you’
+dev-142	£3,500 [SEP] £350 [SEP] £100
+dev-143	a funeral earps payment [SEP] other help to pay for the funeral
+dev-144	yes [CON] you get certain benefits or tax credits [CON] you meet the rules on your relationship with the deceased [CON] you’re arranging a funeral in the UK, the European Economic Area (EEA) or Switzerland
+dev-145	yes [SEP] no [CON] You get certain benefits or tax credits [CON] You meet the rules on your relationship with the deceased [CON] You might also be eligible if you’re getting a Support for Mortgage Interest
+dev-146	yes [CON] You must apply within 6 months of the funeral, even if you’re waiting for a decision on a qualifying benefit.
+dev-147	yes [CON] Your limited company usually pays Corporation Tax on the profit (‘chargeable gain’) from selling or disposing of an asset.
+dev-148	yes [CON] a business expense for your company [CON] personal income for you
+dev-149	report the interest on a personal self assessment tax return
+dev-150	your local council
+dev-151	outside London inside London
+dev-152	from Great Britain to anywhere outside the UK from Northern Ireland to a non-EU country
+dev-153	a ve103 vehicle on hire certificate
+dev-154	you can appeal directly to the awarding organisation if you’re a private student, for example, if you were home schooled or are a mature student.
+dev-155	you cannot make an appeal yourself unless you’re a private candidate, for example you were home schooled.
+dev-156	yes [CON] If you registered to vote anonymously your details will not appear on either version of the electoral register.
+dev-157	yes [CON] You must register to vote if you’re asked to do so and you meet the conditions for registering, for example you’re 16 or over and you’re British or a national of an EU or Commonwealth
+dev-158	ask the senior courts costs office to make a ‘detailed assessment’ of your bill
+dev-159	£45 [SEP] pay your own costs and the other party’s reasonable costs of the detailed assessment
+dev-160	it’s roadworthy [SEP] it’s comfortable and clean [SEP] the taximeter works properly [SEP] the doors are safe and secure
+dev-161	have no more than 8 passenger seats [SEP] not look like a licensed taxi [SEP] only display advertising that complies with TfL guidelines [SEP] display licence discs
+dev-162	yes [CON] tax relief on income, gains and profits from some activities [CON] Gift Aid repayments on donations [CON] business rates relief
+dev-163	yes [CON] You can appeal in writing to HMRC within 30 days of their decision if you think it’s wrong. If you’re not satisfied with the outcome you have a further 30 days to appeal to the tax tribunal
+dev-164	yes [CON] You must register to vote if you’re asked to do so and you meet the conditions for registering, for example you’re 16 or over and you’re British or a national of an EU or Commonwealth
+dev-165	yes [CON] preventing and detecting crime checking applications for loans or credit jury summoning in England, Wales and Northern Ireland
+dev-166	16 to 19 funded
+dev-167	residential bursary fund
+dev-168	yes [CON] You cannot make an appeal yourself unless you’re a private candidate, for example you were home schooled.
+dev-169	yes [CON] You cannot make an appeal yourself unless you’re a private candidate, for example you were home schooled.
+dev-170	tax relief on income, gains and profits from some activities [SEP] gift aid repayments on donations [SEP] business rates relief
+dev-171	set out how you meet the eligibility criteria for registering as a CASC
+dev-172	yes [CON] You can get help with the cost of term-time accommodation from the Residential Bursary Fund (RBF).
+dev-173	3 years
+dev-174	ask the senior courts costs office
+dev-175	yes [CON] You can drive the vehicle in the UK for up to 6 months after the delivery date (or 12 months for non-UK and non-EU residents) - it must then be exported.
+dev-176	vehicle taxes and the registration fee
+dev-177	your local council [SEP] your local council for local roads [SEP] highways england [SEP] your local council for local roads [SEP] your local council for local roads [SEP] your local
+dev-178	yes [CON] noise vibration smell fumes smoke artificial lighting [CON] solid or liquid discharge on to your property
+dev-179	2 working days after you apply [SEP] you’re a British national [SEP] you’re outside the UK [SEP] your passport has been lost, stolen, damaged, is full, has recently expired or is
+dev-180	a maximum of 5 countries
+dev-181	the visa application centre where you applied
+dev-182	fill in the change of circumstances form and send it to the address on the form
+dev-183	you get a criminal conviction you separate from your partner any of your children stop living permanently with you
+dev-184	apply for an emergency travel document
+dev-185	£100
+dev-186	your local council for local roads [SEP] highways england
+dev-187	yes [CON] noise vibration smell fumes smoke artificial lighting [CON] noise or disturbance from the use of a new or altered road
+dev-188	yes [CON] You will need to pay VAT to the delivery company if the goods are: gifts sent to you by someone else and worth more than £39 excise goods
+dev-189	at least 4 weeks
+dev-190	through your local council
+dev-191	several months
+dev-192	yes [CON] you did business with them [CON] you worked for them [CON] they owed you money when they were dissolved [CON] you’re responsible for their employee pension fund [CON] you have a shared
+dev-193	yes [CON] you did business with them [CON] you worked for them [CON] they owed you money when they were dissolved [CON] you’re responsible for their employee pension fund [CON] you have a shared
+dev-194	yes [CON] You will not have to pay anything to the delivery company to receive goods worth less than £135 unless they’re gifts over £39 or excise goods (for example, alcohol and tobacco).
+dev-195	yes [CON] You will need to pay VAT to the delivery company if the goods are: gifts sent to you by someone else and worth more than £39 excise goods worth £135 or less [CON] You will need to
+dev-196	9 months and 1 day
+dev-197	by cash or cheque
+dev-198	yes [CON] getting a court order to restore the company - if they owe you money buying or claiming some of their assets - if you’re affected by the company closing [CON] applying for 
+dev-199	discretionary grant
+dev-200	yes [CON] building projects that benefit the local community, and the community supports it, may not have to go through the normal planning permission process.
+dev-201	try to come to an agreement with the local planning authority (lpa) by adjusting your plans [SEP] try to come to an agreement with the local planning authority (lpa) by adjusting your plans
+dev-202	by cash or cheque
+dev-203	it should be updated within a few days of HMRC receiving the payment
+dev-204	yes [CON] You must register for VAT - though HMRC may allow you ‘exception from registration’ if your turnover goes above the threshold temporarily.
+dev-205	yes [CON] You must register for VAT if your VAT taxable turnover goes over £85,000 (the ‘threshold’) or you know that it will.
+dev-206	xi
+dev-207	4 years [SEP] 6 months [SEP] 6 months
+dev-208	yes
+dev-209	when you buy the goods or to the delivery company before you receive them
+dev-210	yes [CON] You worked for them they owed you money when they were dissolved [CON] You’re responsible for their employee pension fund [CON] You have a shared or competing interest in land [CON] You were 
+dev-211	on any payslip that hm revenue and customs (hmrc) sent you through your company’s hmrc online account - choose ‘View account’ then ‘Accounting period’
+dev-212	13 weeks
+dev-213	yes [SEP] no [CON] If your project needs planning permission and you do the work without getting it, you can be served an ‘enforcement notice’ ordering you to undo all the changes you have made.
+dev-214	yes [CON] You must pay your Corporation Tax in instalments.
+dev-215	yes [CON] You may be able to get back a dissolved company’s assets if you were one of its shareholders.
+dev-216	the price paid for the goods
+dev-217	yes [CON] You must register for VAT if your VAT taxable turnover goes over £85,000 in the next 30-day period [SEP] no [CON] You must register for VAT if: [CON] you expect your
+dev-218	directly to you
+dev-219	you’re taking a part-time course
+dev-220	yes [CON] You can be charged again to retake the course if your trainer stops your training because you are not prepared.
+dev-221	yes [CON] You passed your driving test and full moped test last year. [CON] You passed your theory test and full moped test last year. [CON] You passed your car driving test and then completed a compulsory basic
+dev-222	follow safety regulations [SEP] provide a smoke alarm on each storey and a carbon monoxide alarm in any room with a solid fuel burning appliance (for example a coal fire or wood burning stove) [SEP
+dev-223	yes [SEP] no [CON] Your landlord must not discriminate against you, for example because of your nationality.
+dev-224	yes [CON] You must apply retrospectively for building regulations approval. You may also need planning permission.
+dev-225	the general binding rules [SEP] make sure it has a minimum capacity of 18,000 litres per 2 users (plus another 6,800 litres per each extra user)
+dev-226	citizens advice
+dev-227	your landlord
+dev-228	the office of the immigration services commissioner (oisc) adviser finder
+dev-229	download and fill in the complaints form
+dev-230	getting a business visa extension when you have no problems with work
+dev-231	yes [SEP] no [CON] you cannot get your money back if an adviser is not regulated.
+dev-232	a bank in the country you’re living in a bank or building society in the UK
+dev-233	the european economic area (EEA) gibraltar [SEP] gibraltar [SEP] gibraltar [SEP] Switzerland [SEP] countries that have a social security agreement with the UK (but you cannot
+dev-234	a bank in the country you’re living in a bank or building society in the UK
+dev-235	yes [CON] You will not get yearly increases if you live outside these countries.
+dev-236	yes [CON] You’ll be paid in local currency - the amount you get may change due to exchange rates.
+dev-237	Switzerland countries that have a social security agreement with the UK (but you cannot get increases in Canada or New Zealand)
+dev-238	up to 7 days after the cooling off period
+dev-239	paid time off to go to ‘antenatal care’
+dev-240	the central arbitration committee (cac)
+dev-241	yes [CON] Your employer can start negotiating with you straight away if they choose to, regardless of how many employees have applied.
+dev-242	a: colleague trade union representative [SEP] a family member or citizens advice bureau worker [SEP] a manager who has not been involved in the process should handle the appeal
+dev-243	the acas guide on mediation
+dev-244	yes [CON] You may be able to get Statutory Maternity Pay, but you cannot get Statutory Maternity Leave.
+dev-245	no
+dev-246	show who you are [SEP] show whether you have permission to work [SEP] get health or education services
+dev-247	6 months
+dev-248	a: colleague trade union representative
+dev-249	yes [CON] You have the right to be accompanied during any appeal meetings. If possible, a manager who has not been involved in the process should handle the appeal.
+dev-250	make a formal grievance complaint in writing
+dev-251	yes [CON] You must have left your country and be unable to go back because you fear persecution.
+dev-252	you may be sent to a safe country that will consider your asylum claim
+dev-253	yes [CON] at least 2% of all the employees in the company or organisation make a request [CON] at least 15 employees must make the request
+dev-254	no [CON] If the negotiations are started by the employer without receiving a request, they must inform all employees in writing about what’s happening. [CON] You can complain to CAC if they do not meet both these requirements
+dev-255	you take a break of 6 weeks or less
+dev-256	acas
+dev-257	yes [CON] You must have left your country and be unable to go back because you fear persecution.
+dev-258	yes [CON] your employer has made an unreasonable request that you keep information confidential that disclosing particular information would harm your business
+dev-259	at least 15 people
+dev-260	yes [CON] You could get a payment if you’re severely disabled and your disability was caused by vaccination against any of the following diseases: coronavirus (COVID-19) diphtheria haemophil
+dev-261	at least 15 weeks
+dev-262	valid uk passport details in your application
+dev-263	in 3 instalments of 33%, 33% and 34% each year
+dev-264	undergraduate funding
+dev-265	valid uk passport details in your application
+dev-266	£11,222
+dev-267	yes [CON] You’ll need to report dates in the ‘Period of inactivity’ fields in your EPS.
+dev-268	yes [CON] You can only apply to the tribunal if: you have an assured or assured shorthold tenancy [CON] your rent’s been increased as part of a ‘section 13 procedure’ - the letter from
+dev-269	£11,222
+dev-270	direct payments [SEP] allowing you to buy in and arrange help yourself instead of getting it directly from social services [SEP] disabled facilities grant [SEP] pay for the costs of home adaptations
+dev-271	pay before any deductions (‘gross’ wages) deductions like tax and national insurance [SEP] pay after deductions (‘net’ wages) the number of hours worked, if the pay varies depending on time
+dev-272	try to come to an agreement with the local planning authority (lpa) by adjusting your plans
+dev-273	4 years
+dev-274	6 months
+dev-275	no
+dev-276	your local council
+dev-277	your local council
+dev-278	follow safety regulations [SEP] provide a smoke alarm on each storey and a carbon monoxide alarm in any room with a solid fuel burning appliance (for example a coal fire or wood burning stove) [SEP
+dev-279	get planning permission and building regulations approval
+dev-280	yes [CON] You passed your driving test and full moped test last year. [CON] You passed your theory test and full moped test last year. [CON] You passed your driving test and full moped test last year.
+dev-281	you cannot get your money back if an adviser is not regulated
+dev-282	you may be sent to a safe country that will consider your asylum claim
+dev-283	yes [CON] You have the right to be accompanied during any appeal meetings. If possible, a manager who has not been involved in the process should handle the appeal.
+dev-284	a family member or citizens advice bureau worker
