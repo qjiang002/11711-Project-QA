@@ -3,7 +3,7 @@
         "id": "dev-0",
         "question": "[S] My brother and his wife are in prison for carrying out a large fraud scheme. Their 7 and 8 year old children have been living with me for the last 4 years. I want to become their Special Guardian to look after them permanently [Q] How long will it be before I hear back from the court?",
         "answers": [
-            "within 10 days"
+            ""
         ],
         "ctxs": [
             {
@@ -16,7 +16,7 @@
         "id": "dev-1",
         "question": "[S] Me and my partner have been trying for a child for the past few years however with no luck. We have now decided we would like to adopt a child. [Q] Are there any age requirements for the adopter when adopting a child in the UK?",
         "answers": [
-            "aged 21 or over"
+            ""
         ],
         "ctxs": [
             {
@@ -29,7 +29,7 @@
         "id": "dev-2",
         "question": "[S] I am a guardian to a 16year old teenage boy from syria whom i cared for when he was young and homeless. I want to change his surname to to mine. [Q] Can I apply to change his surname to mine?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -50,7 +50,7 @@
         "id": "dev-3",
         "question": "[S] As a vulnerable adult I received the Covid-19 vaccination in January 2021. Almost immediately I started to feel very unwell, and over the next few weeks the left side of my face became paralysed, almost like I had had a stroke. I am now unable to talk properly. [Q] Can I claim off the government for damage caused by the vaccine?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -75,7 +75,7 @@
         "id": "dev-4",
         "question": "[S] I recently inherited my childhood home in Sussex following the death of my father. For sentimental reasons, and because it is bigger than my current home, I would like to move into it with my family. This would mean either selling or renting out my current home. I know that you don't have to pay capital gains tax when you sell your own home, but I'm not clear whether my current home would be classed as my main home if I move into the other property. [Q] Will I pay capital gains tax if I sell my current home in order to move into an inherited property?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -92,7 +92,7 @@
         "id": "dev-5",
         "question": "[S] I work for a large company as an employee and I have recently experienced a stillbirth at 30 weeks pregnant. I would like my live in partner to have some leave to support me. [Q] Can my partner take leave from work due to my stillbirth even though he is not the biological parent of the child?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -125,7 +125,7 @@
         "id": "dev-6",
         "question": "[S] My husband and I were in the process of adopting our would-be daughter, who was placed with us pending the adoption order. Tragically, we lost her in a traffic accident. We are devastated by her loss and will find it incredibly difficult to carry on working at this time. [Q] Are adoptive parents entitled to bereavement leave?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -160,7 +160,7 @@
         "id": "dev-8",
         "question": "[S] My uncle has  developed a serious blood clot after getting his first dose of covid vaccine which has left him severed paralysed and disabled. [Q] Is there a way he can be compensated for the damages  after this unfortunate episode?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -189,8 +189,7 @@
         "id": "dev-9",
         "question": "[S] I inherited forty thousand pounds from my late father. I also have savings of around the same amount. I am currently out of work. [Q] Do I have to pay inheritance tax on my windfall?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -215,7 +214,7 @@
         "id": "dev-10",
         "question": "[S] I suffer from severe arthritis which means that I am unable to walk more than a few steps at a time. It is particularly bad in my hands so I am not able to perform many household tasks [Q] What level of Attendance Allowance can I claim for severe arthritis, when I have no carer?",
         "answers": [
-            "lower rate - \u00a360"
+            ""
         ],
         "ctxs": [
             {
@@ -244,7 +243,7 @@
         "id": "dev-11",
         "question": "[S] Me and my partner recently adopted a child. It's almost three months now and still couldn't get along with the kid. I have started looking a counselling or a therapy for us and the kid [Q] To pay for the counselling or therapy for the child and parents. Are there any funds available ?",
         "answers": [
-            "adoption support fund"
+            ""
         ],
         "ctxs": [
             {
@@ -257,8 +256,7 @@
         "id": "dev-12",
         "question": "[S] I have completed a training to be an approved foster. I am getting a foster care allowance to help the cost of caring for a child. I get approximatively \u00a312000 per annum [Q] What are my tax liability of the money I receive from foster care allowance and are there any tax relaxation ?",
         "answers": [
-            "in a tax year, households do not pay tax on the first \u00a310,000 they earn from fostering.",
-            "you also get tax relief for every week (or part week) that a child is in your care. this means you do not have to pay tax on some of your earnings over \u00a310,000."
+            ""
         ],
         "ctxs": [
             {
@@ -295,7 +293,7 @@
         "id": "dev-13",
         "question": "[S] I'm 71, and am currently living in rented accommodation with my 64-year-old Civil Partner. I have an existing Housing Benefit claim. [Q] Can I continue to claim Housing Benefit?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -320,7 +318,7 @@
         "id": "dev-14",
         "question": "[S] My two sisters and I all hold enduring power of attorney for our brother, who has disabilities which cause him to lack mental capacity to make his own decisions. The EPA was registered in 2006. As his illness has progressed, it's no longer practical for him to receive care in the home and two of us believe that it is in his best interests for him to move into a residential care home. This has financial implications for him as he would have to partly self-fund the care from the sale of his current home. The other sibling disagrees and wants him to remain at home. [Q] Can my sister and I over-rule our other sister and fellow EPA attorney to do what we believe is in our brother's best interests?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -361,7 +359,7 @@
         "id": "dev-15",
         "question": "[S] My 10 year old nephew has been living with us for the last two years, since his parents are unable to care for him due to addiction problems. We would like to look after him long-term and have been advised to apply to be a special guardian. However, I have been offered the chance to take a year's sabbatical from my career in order to join an academic program in the US, so we are considering letting our home and moving to Boston for a year. [Q] As his special guardian, can I take my nephew with us to live in Boston for a year?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -382,7 +380,7 @@
         "id": "dev-16",
         "question": "[S] I have been living in a council house and claiming Housing Benefit for a number of years. As well as my partner, I did have two children living with me, one 16 and the other 17, but the oldest has now left home. My house has three bedrooms. [Q] What is the reduction in Housing Benefit for having one spare bedroom?",
         "answers": [
-            "14%"
+            ""
         ],
         "ctxs": [
             {
@@ -407,7 +405,7 @@
         "id": "dev-17",
         "question": "[S] My partner and i are foster parents to our lovely 6 years  old girl who lost her parents during iraq war. We have taken a personal intiative to acqure more skills on how to give our girl the best foster care through training . [Q] Will we be eligible for a paid leave  from work during foster care training?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -424,7 +422,7 @@
         "id": "dev-18",
         "question": "[S] My uncle has a terminal illness. When he was 60 he completed an Enduring Power Of Attorney, appointing me as the attorney. He didn't appoint his immediate family as he regarded them as irresponsible financially. Now his mental capacity has deteriorated and it is time to use it. [Q] Who do I need to tell that I intend to register the EPA?",
         "answers": [
-            "tell the donor, their family members and other attorneys"
+            ""
         ],
         "ctxs": [
             {
@@ -509,7 +507,7 @@
         "id": "dev-19",
         "question": "[S] I am 24, single and currently working only part time. I am unable to meet my private housing rent on the money that I am earning. [Q] Would I be entitled to claim Housing Benefit?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -542,7 +540,7 @@
         "id": "dev-20",
         "question": "[S] I am a 17 year old from Kent and my mother is no longer fit to care for my younger brother as she is mentally unstable. [Q] Can I apply to become my brothers legal guardian considering my age?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -559,7 +557,7 @@
         "id": "dev-21",
         "question": "[S] My wife and I are both in receipt of the state pension, living in rented council accommodation and struggling with our rent. Both of our adult sons are away at university, so in theory we have two spare bedrooms, which I understand will reduce the amount of housing benefit we can receive. [Q] By how much will our housing benefit be reduced?",
         "answers": [
-            "25%"
+            ""
         ],
         "ctxs": [
             {
@@ -588,7 +586,7 @@
         "id": "dev-22",
         "question": "[S] My disabled 38 year old son recently passed away, I was his deputy since he was unable to manage his finances himself. He did not leave a will. [Q] How do I claim his estate?",
         "answers": [
-            "ask for a certificate of funds when you write to the court funds office about the death."
+            ""
         ],
         "ctxs": [
             {
@@ -617,7 +615,7 @@
         "id": "dev-23",
         "question": "[S] My friend was sadly involved in an accident at work that has left him paralysed. He was awarded \u00a3500,000 in compensation through the courts. He has appointed me his Property and Affairs Deputy to look after the account. [Q] What interest rate is paid on a Court Funds Office special account?",
         "answers": [
-            "0.1%"
+            ""
         ],
         "ctxs": [
             {
@@ -634,7 +632,7 @@
         "id": "dev-24",
         "question": "[S] I live in the South East and I have just taken on a 5 year old child as a foster parent. I want to know what financial support I can get from the government to help. [Q] What is the weekly allowance for my child?",
         "answers": [
-            "\u00a3169"
+            ""
         ],
         "ctxs": [
             {
@@ -655,10 +653,7 @@
         "id": "dev-25",
         "question": "[S] I'm 63 and I had a car accident 1 year ago while a was driving a lorry for my company on the A1. I crashed really hard and I can't walk anymore; my GP made me a prescription for some painkillers that I'm taking twice a day. I feel lucky because my nephews live not too far from here and sometimes they come and help me at home. [Q] My wife died 2 years ago, what kind of support can I get from the government?",
         "answers": [
-            "personal independence payment (pip)",
-            "employment and support allowance (esa)",
-            "industrial injuries benefit",
-            "universal credit"
+            ""
         ],
         "ctxs": [
             {
@@ -711,7 +706,7 @@
         "id": "dev-26",
         "question": "[S] My 83 year old mother who I care for is unable to manage her own finances due to bad health but insists she is competent to do so. [Q] Can I overrule her decision and become her attorney?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -752,7 +747,7 @@
         "id": "dev-27",
         "question": "[S] The whole of 2020 and 2021 i went through a very hard period during the covid pandemic. I contracted the covid virus and had severe symptoms which made me lose my job. I got mentally depressed because i could not pay my rent and house bills. I was kicked out from my rented house. [Q] The council have now found me some temporary housing. Can I apply for Housing Benefit?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -777,7 +772,7 @@
         "id": "dev-28",
         "question": "[S] My grandfather was injured in a serious road traffic accident 2 years ago. Following this he has lost some of his mental capacity and therefore I am now his property and affairs deputy. He has just received a large lump sum of money via court order due to the accident. [Q] I am wanting to pass the responsibility of being property and affairs deputy to my brother. Is this allowed?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -816,7 +811,7 @@
         "id": "dev-30",
         "question": "[S] I have been fostering a 10-year old girl for six months. During a routine dental checkup, we were advised that she would benefit from orthodontic treatment due to an overcrowded jaw; part of this would involve a general anaesthetic for removal of several teeth. [Q] Am I able to sign the consent form for my foster child's general anaesthetic procedure?",
         "answers": [
-            "check your child placement plan to find out if you have the authority"
+            ""
         ],
         "ctxs": [
             {
@@ -859,7 +854,7 @@
         "id": "dev-32",
         "question": "[S] I am a Farmer who has recently moved to the UK and I am planning on relocating to Scotland and buying farm land but I don't understand the different rules for Scotland compared to England. [Q] Do I need to register the land with the same organisation in England as i do in Scotland?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -888,7 +883,7 @@
         "id": "dev-33",
         "question": "[S] I have recently bought a farm from another and plan to rent this out. Im in England and an older adult who has struggled with understanding all the rules so far. [Q] Do I need to make changes to the existing registration of the land to reflect that I have bought it?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -927,7 +922,7 @@
         "id": "dev-35",
         "question": "[S] My parents moved to Italy before getting married. I was born in Rome and lived there all my life. I gave up my British citizenship when I was 18; it was a bad choice. Now, because of Brexit, I'm worried that is going to be complicated to visit my grandparents in London. [Q] Can I have my British passport back? I know that Italy allows double citizenship.",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -948,8 +943,7 @@
         "id": "dev-36",
         "question": "[S] My child has recently diagnosed with dyslexia and I've been told that there are different tools that can help in daily life, these all seem quite expensive online so i am unsure if we can afford them. [Q] Is there any funding or support available for children with dyslexia? what are they?",
         "answers": [
-            "sen support",
-            "an education, health and care (ehc) plan"
+            ""
         ],
         "ctxs": [
             {
@@ -990,7 +984,7 @@
         "id": "dev-37",
         "question": "[S] My child is 5 years old and starting school this year, he is physically well however I feel as though my child is developing slower than other children are at the same age which i am concerned about. [Q] Is my child able to be assessed for extra learning support in school?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1039,8 +1033,7 @@
         "id": "dev-38",
         "question": "[S] I run a small, independent charity which attempts to help people struggling with their vet costs. I have several people who pay monthly by direct debit and also receive some one off donations. [Q] Am I eligible for Gift Aid?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1101,7 +1094,7 @@
         "id": "dev-39",
         "question": "[S] My charity often receives donations of second hand clothes and other items which we pass on to people in need. These are given as gifts and we do not accept payment for them, nor do we offer payment to the donors. [Q] Can we still claim gift aid on unpaid donations?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1138,7 +1131,7 @@
         "id": "dev-40",
         "question": "[S] I am on full time role and I am on Pay as you earn(PAYE) to pay income tax. I was approached by a charity asking permission to claim back my tax [Q] If I give permission to the charity to claim tax back, are they eligible to claim?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1187,7 +1180,7 @@
         "id": "dev-41",
         "question": "[S] I have a limited company trading as a IT software consultancy. I have paid the Corporation tax for the previous tax year of my company. I want to give permission for a charity to claim gift aid on the corporation tax I paid [Q] Can a charity claim gift aid on my limited company ?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1224,7 +1217,7 @@
         "id": "dev-42",
         "question": "[S] The father of a friend is a prominent doctor in the region. During the pandemic, he was characterized by prioritizing the people most in need of medical care and mobilizing civil society to help. [Q] What steps do I have to take to get it honored?",
         "answers": [
-            "download and fill in the honours nomination form and email it to the honours and appointments secretariat."
+            ""
         ],
         "ctxs": [
             {
@@ -1237,9 +1230,7 @@
         "id": "dev-43",
         "question": "[S] I recently met a widow who told me that her husband was an Officer of the Order of the British Empire but was not sure what he did to receive it. [Q] What are the requirements to be honored as Officer of the Order of the British Empire?",
         "answers": [
-            "made achievements in public life",
-            "committed themselves to serving and helping britain",
-            "made life better for other people or be outstanding at what they do"
+            ""
         ],
         "ctxs": [
             {
@@ -1296,7 +1287,7 @@
         "id": "dev-44",
         "question": "[S] When I was 14, I was stupidly playing on the quayside during a storm in South West England. I was washed into the sea in a heavy wave and nearly drowned, as I couldn't swim and went into a panic. A local passerby saw what had happened and risked his own life to jump in and pull me to safety. I'm now 25 but have never forgotten his bravery and have stayed in touch with him. It will be his 50th birthday next year and I would love to nominate him for a gallantry award to mark his birthday. [Q] What is the time limit for nominating someone for a gallantry award?",
         "answers": [
-            "5 years"
+            ""
         ],
         "ctxs": [
             {
@@ -1309,7 +1300,7 @@
         "id": "dev-45",
         "question": "[S] We are a family of Jamaican heritage, living in the UK; I was born here. My cousins still live in Jamaica. One of them has done a huge amount of work with street children in Jamaica, setting up her own charity and working all hours alongside her own job. I'd like to nominate her for an honour but as she is not British and her work was not in Britain, I don't know if I can. [Q] Can a non-British national recieve an honour for their achievements outside the UK?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1354,7 +1345,7 @@
         "id": "dev-46",
         "question": "[S] When I was thirteen  I was rescued by the Coast Guard and ever since I have had a desire to volunteer for them. I am now 25 and have free time. I am a normal weight and have no physical disabilities. [Q] Am I the sort of person that the Coast Guard want to recruit?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1399,7 +1390,7 @@
         "id": "dev-47",
         "question": "[S] I would really like to give something back to society by volunteering for the Coast Guard but I am unemployed right now and have very little disposable income to call my own. I do have a lot of free time, however. [Q] Are there any costs to be incurred in volunteering for the Coast Guard?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1416,7 +1407,7 @@
         "id": "dev-48",
         "question": "[S] My daughter is 6 years old and suffering from dyslexia. We just been informed by the GP just now. We want to inform about the dyslexia to the school. [Q] Who do we contact in school about my child's special needs ?",
         "answers": [
-            "the sen co-ordinator, or \u2018senco\u2019"
+            ""
         ],
         "ctxs": [
             {
@@ -1445,7 +1436,7 @@
         "id": "dev-49",
         "question": "[S] We have a son who is 14 years old and he is still having difficulty to understand things. He is currently receiving special educational needs support. We think he might need more support than what he receive from SEND [Q] Is additional assessment required whether he needs more support than SEND ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1474,7 +1465,7 @@
         "id": "dev-50",
         "question": "[S] I live in England and i have bought a big chunk of land from my neighbour in the countryside. I would like to use it for wheat farming and other developments. [Q] Should i change and put  my names on the rural land register?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1495,7 +1486,7 @@
         "id": "dev-51",
         "question": "[S] My Aunt lives in scotland and has inherited through a will from our late grandfather two pieces of land in scotland and in England simultaneously. She has a plan to register and sell the one in England. . [Q] Whom can she contact to get advise?",
         "answers": [
-            "the rural payments agency"
+            ""
         ],
         "ctxs": [
             {
@@ -1512,7 +1503,7 @@
         "id": "dev-52",
         "question": "[S] My brother relocated abroad to live with his wife in Indonesia after several years of trying to secure a settlement visa for his Indonesian wife failed. He decided to renounce his British Citizenship and spend more time with his family. Now his marriage has failed and he would like to resume his British Citizenship and return to Uk. [Q] How much fee will he pay to get biometric information taken in order to resume his British Citizenship?",
         "answers": [
-            "\u00a319.20"
+            ""
         ],
         "ctxs": [
             {
@@ -1525,7 +1516,7 @@
         "id": "dev-53",
         "question": "[S] I am a British Citizen living abroad in Japan. I have a permanent Job, family and acquired alot of properties Japan.My life is good and comfortable and by the fact that i don't have any family or relatives in UK. I would like to renounce my British Citizenship. [Q] Can I apply online if I am not in UK?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1546,8 +1537,7 @@
         "id": "dev-54",
         "question": "[S] My husband is very interested in sailing in deep seas as a hobby.He is a full time employee at a pest control company in England.During weekends he has been attending a coastguard  training course as an additional skill to his sailing interest. He has informed his employer and encouraged him to pursue it and count on his support. [Q] What training is required to be a coastguard volunteer?",
         "answers": [
-            "initial training by hm coastguard",
-            "regular training to keep your skills up to date"
+            ""
         ],
         "ctxs": [
             {
@@ -1560,7 +1550,7 @@
         "id": "dev-55",
         "question": "[S] My brother is 28 years and he is currently unemployed. He lives in kent and is a fully trained coastguard with a driving license.During covid lockdown he has had alot of stress and embarked on binge eating. He has since added weight and is now 145kg and his waistline is 130cm. A company near dover has accepted him to be a volunteer but first he must undergo health and fitness test. [Q] Will he qualify to be a coastguard volunteer ?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1581,11 +1571,7 @@
         "id": "dev-56",
         "question": "[S] I am a mother to an adopted 14 years old son. He has a known existing ADHD condition which has impacted his life and experiences alot of learning difficulties. As a concerned parents i always want him to be given a closer eye even when in school with other pupils and assisted in learning.. [Q] What help can I get about these special concerns worrying me?",
         "answers": [
-            "a special learning programme",
-            "extra help from a teacher or assistant",
-            "to work in a smaller group",
-            "observation in class or at break",
-            "help taking part in class activities"
+            ""
         ],
         "ctxs": [
             {
@@ -1630,7 +1616,7 @@
         "id": "dev-57",
         "question": "[S] My neighbour has a 19 year old physically disabled daughter who has performed very well in the former school. She is now joining college for further studies. My neighbour is concerned about her daughter's special education needs.. [Q] What can she do before taking her daughter there?",
         "answers": [
-            "contact the college"
+            ""
         ],
         "ctxs": [
             {
@@ -1643,7 +1629,7 @@
         "id": "dev-58",
         "question": "[S] During our parents school meeting ,the headteacher requested us to make a voluntary contributions towards Year 7 educational trip .My daughter is in Year 7 and i made a payment of \u00a35000 to sponser the trip. [Q] Can i claim this as a gift Aid?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1676,7 +1662,7 @@
         "id": "dev-59",
         "question": "[S] I have recieved alot of donations and i have kept all the records for over 5 years and i would like to claim Gift Aids. [Q] Can i claim online?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1701,7 +1687,7 @@
         "id": "dev-60",
         "question": "[S] I am 23 years old and live in England. I have been very compassionate in my entire life and i have taken a key role in helping my locality. During covid pandemic i took up a personal intiative of helping my vulnerable old neighbours by doing shopping, walking their pets, giving them hope when they were sick and scared. Made sure sure they have my contacts which they can dial for prompt support. I became a key pillar to their lives during the covid pandemic. [Q] Can i get my friend to nominate me?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1746,7 +1732,7 @@
         "id": "dev-61",
         "question": "[S] My Grandmother lives in South Africa. She is now 105 years and during her adult life, she took  a key community figure in ensuring all girls from poor families have acessed to education.She ran several campaigns to shun early marriages and female genital mutilations. [Q] Can i nominate her for honorary award even if she does not live in UK?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1771,7 +1757,7 @@
         "id": "dev-62",
         "question": "[S] My daughter has been offered an English grammar course . She is 17 years old and lives in UK. she wishes to pursue it. Unfortunately she needs some money to cater for day to day living cost. [Q] Can she qualify  for further education funding?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1796,7 +1782,7 @@
         "id": "dev-63",
         "question": "[S] I have completed my secondary school level and I want to apply for a diploma in health and social care. I want to make a wise decision before I join because my future depends on it. [Q] Where can i search for further education courses?",
         "answers": [
-            "use the national careers service course search"
+            ""
         ],
         "ctxs": [
             {
@@ -1817,7 +1803,7 @@
         "id": "dev-64",
         "question": "[S] I always want to ride a motorcycle and was told to take Compulsory basic training. I have scheduled a CBT course next week but the same day afternoon I have another appointment. [Q] what is the duration of CBT course ?",
         "answers": [
-            "the cbt course usually lasts a full day"
+            ""
         ],
         "ctxs": [
             {
@@ -1830,7 +1816,7 @@
         "id": "dev-65",
         "question": "[S] I have passed my car driving test in February 2000 in UK. Been driving the car for almost 20 years. I own a 50cc moped but did not use it and recently been thinking whether should I start riding moped [Q] Do I need to take Compulsory basic training to ride my moped ?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1867,7 +1853,7 @@
         "id": "dev-66",
         "question": "[S] I was a post-graduate student who took out a master's loan. I had to leave my course due to having cancer and requiring treatment. I have now recovered, and I am looking to do a Master's course. [Q] Am I eligible for a master's loan after dropping out due to illness?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1884,9 +1870,7 @@
         "id": "dev-67",
         "question": "[S] I am looking at doing master's course in the UK. It is an Msc course that is eligible for a postgraduate loan. I do not know how much the loan is. [Q] How much funding is available for a postgraduate student?",
         "answers": [
-            "\u00a311,570",
-            "\u00a311,222",
-            "\u00a310,906"
+            ""
         ],
         "ctxs": [
             {
@@ -1911,7 +1895,7 @@
         "id": "dev-68",
         "question": "[S] John here. i wasn't very good at reading at school but now I'm older I think I'm in a better place in my life and want to learn. I am working part time. [Q] Where can I get information on courses and funding?",
         "answers": [
-            "from the national careers service"
+            ""
         ],
         "ctxs": [
             {
@@ -1932,7 +1916,7 @@
         "id": "dev-69",
         "question": "[S] I left school last year at 16 and unemployed. I know I need to get some skills and my maths and English are very bad. I don't like going out but have a computer and an internet connection. [Q] Will I have to pay for a basic maths and english course?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -1953,7 +1937,7 @@
         "id": "dev-70",
         "question": "[S] My work colleague is an approved driving instructor and has been convicted of rape and physical assault . This case has destroyed his reputation. [Q] Can he be struck out of the ADI register?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -1982,7 +1966,7 @@
         "id": "dev-71",
         "question": "[S] My father was unfairly suspended but was still in the  ADI register and won the case through an appeal . He suffered loss of income and depression during the trial. [Q] Can he be compensated?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2035,7 +2019,7 @@
         "id": "dev-72",
         "question": "[S] I passed my driving test on the 20th June 2008. I want to drive a 125cc Motorbike, and I have been told that you do not need to do a CBT course with a driving licence. [Q] Is it true that a CBT is not needed with a driving licence?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2076,11 +2060,7 @@
         "id": "dev-73",
         "question": "[S] I have signed up for the CBT training course to drive a 50cc Moped. I have my first lesson in two weeks, and I do not know if there is anything I need to bring. [Q] What should I bring for the CBT lessons?",
         "answers": [
-            "uk driving licence",
-            "a motorcycle helmet that meets british safety standards",
-            "motorcycle boots or other sturdy footwear",
-            "motorcycle gloves",
-            "textile or leather motorcycle trousers or heavy denim trousers"
+            ""
         ],
         "ctxs": [
             {
@@ -2117,7 +2097,7 @@
         "id": "dev-74",
         "question": "[S] I live in England and studying a Postgraduate Master course. I applied for Postgraduate Master's loan and was approved. Thinking how I receive the payment. [Q] Will I receive as one-off payment or on instalments ?",
         "answers": [
-            "instalments"
+            ""
         ],
         "ctxs": [
             {
@@ -2142,9 +2122,7 @@
         "id": "dev-75",
         "question": "[S] I am currently doing my masters on computer science. I was told that I am eligible to apply for Postgraduate master's Loan [Q] What are the documents required to prove my identity?",
         "answers": [
-            "uk passport",
-            "original birth or adoption certificate",
-            "passport or national identity card"
+            ""
         ],
         "ctxs": [
             {
@@ -2165,7 +2143,7 @@
         "id": "dev-76",
         "question": "[S] I am a driving instructor who is ADI registered. I have recently won an appeal against removing me from the ADI register. I have experienced a loss of earnings due to this. [Q] Can I make a claim for the losses on my income?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2198,7 +2176,7 @@
         "id": "dev-77",
         "question": "[S] I have recently been arrested on suspicion of assault. I am an ADI-registered driving instructor, and I am concerned that this will affect my registration. [Q] What will happen if I am convicted?",
         "answers": [
-            "your approved driving instructor (adi) registration can be suspended"
+            ""
         ],
         "ctxs": [
             {
@@ -2235,7 +2213,7 @@
         "id": "dev-78",
         "question": "[S] I am employee working under a contract of employment and have 3 years of continuous service. Recently decided for a early retirement [Q] Do I qualify for redundancy pay ?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2260,7 +2238,7 @@
         "id": "dev-79",
         "question": "[S] I am on a full time employment. Recently I was made redundant and was given 4 weeks of notice and given a planned leaving date. Now I got a better offer outside within 1 weeks of notice [Q] Can I leave before the planned leaving date ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2273,9 +2251,7 @@
         "id": "dev-80",
         "question": "[S] I am planning to surprise my husband with a week long cruise around the Med, later this year. I have never been on a cruise before, however, and am a little worried about some aspects. [Q] I want to assure myself that this trip will be perfectly safe, what measures will be in place to ensure this?",
         "answers": [
-            "international convention for the safety of life at sea",
-            "international convention on load lines",
-            "international convention for the prevention of pollution from ships"
+            ""
         ],
         "ctxs": [
             {
@@ -2300,8 +2276,7 @@
         "id": "dev-81",
         "question": "[S] My family owns a small ship. One of its features is a gas grill which can be used to prepare hot food [Q] What fire regulations apply to my ship?",
         "answers": [
-            "merchant shipping (fire protection: small ships) regulations 1998.",
-            "merchant shipping (fire protection) regulations 2003"
+            ""
         ],
         "ctxs": [
             {
@@ -2322,7 +2297,7 @@
         "id": "dev-82",
         "question": "[S] We have done a complete risk assessments to our cargo ships to reduce any chances of accidents , injuries or illnesses. This is according to the laid down procedures . [Q] When can we repeat the  risk assessments?",
         "answers": [
-            "every year and whenever there are significant changes to either the ship or working activities"
+            ""
         ],
         "ctxs": [
             {
@@ -2335,7 +2310,7 @@
         "id": "dev-83",
         "question": "[S] Our shipping company owns a small commercial vessel over 30 meters in length. We have recently had some major work done including the installation of a new propulsion system [Q] Do we need to update our risk assessment?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2352,7 +2327,7 @@
         "id": "dev-84",
         "question": "[S] My cousin has difficulties learning things and I generally watch out for him even though he is 24 years old.  He has had problems with a neighbour, who has smashed his windows last night. [Q] Am I able to take time off work today to help my cousin deal with this issue under the emergency dependent's provisions in this case?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2381,7 +2356,7 @@
         "id": "dev-85",
         "question": "[S] I work shifts in a job that covers 24 hours a day seven days a week.  It is difficult to replace someone when they are off unexpectedly. My 7 year old child has been involved in a fight at school and slightly injured.  My boss could not find someone to replace me at short notice.  I was told I would have to find someone else to go to the school. [Q] I feel I have been treated unfairly.  Has my boss acted fairly according to the carers and dependents guidance?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2418,7 +2393,7 @@
         "id": "dev-86",
         "question": "[S] I took a job at a local coffee bar.  The owners sent me an email stating that I could work until April the following year, and also my working hours; pay; leave entitlement; and responsibilities.  They said that was sufficient for a contract. [Q] I was never allowed to take leave when I wanted it, paid too little even when I work overtime, and they terminated my employment two months early in February.  Can I use the email as evidence and obtain compensation?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2443,7 +2418,7 @@
         "id": "dev-87",
         "question": "[S] I am an employer who operates payroll. I have received a PAYE settlement agreement, which I am now looking to pay.  I want to pay by direct debit. [Q] Where do I setup a direct debit?",
         "answers": [
-            "through your business\u2019s hm revenue and customs (hmrc) online account"
+            ""
         ],
         "ctxs": [
             {
@@ -2456,7 +2431,7 @@
         "id": "dev-88",
         "question": "[S] I am an employer who has just paid their PAYE settlement agreement. I have paid by post and want confirmation when it has been received. [Q] Will I receive any form of confirmation?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2479,7 +2454,7 @@
         "id": "dev-90",
         "question": "[S] I'm here in the UK from 5 years and I usually pay my taxes on time but this year I got a penalty for late paying tax. [Q] What is the deadline for paying PAYE settlement agreement tax on time?",
         "answers": [
-            "22 october following the tax year it applies to"
+            ""
         ],
         "ctxs": [
             {
@@ -2492,7 +2467,7 @@
         "id": "dev-91",
         "question": "[S] We are being taken to a employment tribunal by a former employee. This is due to a lack of authorisation for deductions on their wage slip. We have been told that we are likely to lose and errors with the employment contract have also been noted. [Q] What level of compensation would we be expected to pay?",
         "answers": [
-            "4 weeks\u2019 pay"
+            ""
         ],
         "ctxs": [
             {
@@ -2509,7 +2484,7 @@
         "id": "dev-92",
         "question": "[S] My employer has told me that we have no contract after I injured myself at work. I received a job offer, which I accepted.  I never received any written contract, and they are saying they have no responsibility over my health and safety. [Q] Do I have no rights because the job was only verbally agreed?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2530,8 +2505,7 @@
         "id": "dev-93",
         "question": "[S] I requested time off to look after my son, who has developed cancer. I have been dismissed by my employer for this reason, and believe this is unfair. [Q] Where can I complain about this?",
         "answers": [
-            "your staff or trade union representative or acas",
-            "an employment tribunal"
+            ""
         ],
         "ctxs": [
             {
@@ -2548,7 +2522,7 @@
         "id": "dev-94",
         "question": "[S] I need to take some time off to look after my daughter, who was involved in a car accident. My employer has granted me leave, but mentioned nothing about pay. [Q] Do they have to pay for my time off?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2569,7 +2543,7 @@
         "id": "dev-95",
         "question": "[S] I started a limited company and employed 5 employees. I registered for PAYE scheme. We were very busy and could not pay HMRC [Q] Will our account be closed ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2582,7 +2556,7 @@
         "id": "dev-96",
         "question": "[S] I am considering making an employee redundant due to the company facing financial issues. This employee has been working for the company for 2 years. [Q] What length of notice do I have to give?",
         "answers": [
-            "a week\u2019s notice for every year employed"
+            ""
         ],
         "ctxs": [
             {
@@ -2607,8 +2581,7 @@
         "id": "dev-97",
         "question": "[S] I am about to give an employee notice for their compulsory redundancy. They have worked for the company for 23 years, and earned \u00a3700 per week. The employee will be 43 years old when the notice is given. [Q] What amount will I need to pay the employee for redundancy?",
         "answers": [
-            "1.5 weeks\u2019 pay for each full year of employment after their 41st birthday",
-            "a week\u2019s pay for each full year of employment after their 22nd birthday"
+            ""
         ],
         "ctxs": [
             {
@@ -2645,8 +2618,7 @@
         "id": "dev-98",
         "question": "[S] I am about to give out the first payslips to my employees. The payslips generated shows the gross pay, tax and national insurance. [Q] Is there anything else that I need to include?",
         "answers": [
-            "pay after deductions",
-            "the number of hours worked"
+            ""
         ],
         "ctxs": [
             {
@@ -2675,7 +2647,7 @@
         "id": "dev-99",
         "question": "[S] I have a new employee who has a student loan. They have told me that their student loan is considered to be Plan 2. They have an annual wage of \u00a320,000. I am looking to calculate their student loan repayment. [Q] What is the threshold for a Plan 2 student loan?",
         "answers": [
-            "\u00a327,295"
+            ""
         ],
         "ctxs": [
             {
@@ -2692,7 +2664,7 @@
         "id": "dev-100",
         "question": "[S] I am the managing director of an accounting firm based in Manchester. All of our current employees are salaried, with payroll being run monthly and the appropriate payments being sent to HMRC. After a particularly stressful year due to the pandemic, one of our most senior staff members has decided to take a six month leave of absence. [Q] How should I record employees who have taken a leave of absence when I submit my FPS?",
         "answers": [
-            "\u2018yes\u2019 in the \u2018irregular payment pattern indicator\u2019"
+            ""
         ],
         "ctxs": [
             {
@@ -2705,7 +2677,7 @@
         "id": "dev-101",
         "question": "[S] I own and run a small electronics startup company, spun out from a UK university. Our latest employee is a recent postgraduate who has outstanding debts to the student loan company incurred when doing his doctoral research. He is currently earning \u00a332,000 pa. [Q] How much should I deduct from this employee's monthly salary to cover his student loan repayments?",
         "answers": [
-            "6% of their income above \u00a321,000 a year"
+            ""
         ],
         "ctxs": [
             {
@@ -2722,7 +2694,7 @@
         "id": "dev-102",
         "question": "[S] I am 43, and work full-time as a product manager at a software & services company. I have just been notified that my son has been hospitalised after a road traffic accident, and is likely to need a part-time carer for a few weeks while he recuperates. [Q] Does the organisation of caring arrangements count as a emergency?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2751,7 +2723,7 @@
         "id": "dev-103",
         "question": "[S] I am 32 and work as a sales representative for an insurance company. I am married, and my partner suffers from severe epilepsy which occasionally requires me to care for him for periods of 1-2 days. Despite this my employer has refused to allow me to take time off to deal with such incidents, on the grounds that the condition is pre-existing. [Q] Is it possible for me to appeal this refusal, perhaps even to an industrial tribunal?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2768,7 +2740,7 @@
         "id": "dev-104",
         "question": "[S] I own and operate a 10-seat foot passenger ferry which crosses the mouth of a river estuary in Devon, England. I have been advised that, legally, this makes my boat a \"seagoing vessel\" under current maritime law. [Q] Does my boat also qualify as a \"passenger ship\", with all the attendant safety requirements?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2789,7 +2761,7 @@
         "id": "dev-105",
         "question": "[S] I own a cargo shipping company which currently has 7 boats in its fleet. These operate between ports in the East of England and various destinations in mainland Europe. [Q] How frequently must the risk assessments be reviewed for the ships in my fleet?",
         "answers": [
-            "every year and whenever there are significant changes to either the ship or working activities."
+            ""
         ],
         "ctxs": [
             {
@@ -2802,7 +2774,7 @@
         "id": "dev-106",
         "question": "[S] I own and manage a small publishing company in Ross-on-Wye, England. We have a PAYE Settlement Agreement with HMRC which covers our Class 1B NI payments for minor expenses incurred by our agents. [Q] What is the deadline for settling our PSA for the Financial Year 2020-2021?",
         "answers": [
-            "by 22 october"
+            ""
         ],
         "ctxs": [
             {
@@ -2815,7 +2787,7 @@
         "id": "dev-107",
         "question": "[S] I am the finance director for a highly specialised insurance company based in London. We have a PAYE Settlement Agreement with HMRC, although the annual value of the Class 1B NI payments it encompasses tends to be quite small [Q] As the annual amount to be paid is small, can I use my personal credit card to pay it?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -2832,7 +2804,7 @@
         "id": "dev-108",
         "question": "[S] I own and operate an electronics company in Southern England, which currently has 140 employees. As part of our expansion into the EU, about 5 of our employees will need to be seconded to our office in France for a 6 month period. Their current principal statements make no mention of overseas employment. [Q] If I make changes to their principal statements, how soon do I need to notify the affected workers?",
         "answers": [
-            "within one month of making the change"
+            ""
         ],
         "ctxs": [
             {
@@ -2869,7 +2841,7 @@
         "id": "dev-109",
         "question": "[S] I own and run a biscuit factory in Scotland, which has 72 employees at present. We have traditionally given Xmas bonuses to our workforce; however entitlement to this perk is not specifically stated in their standard contracts of employment. [Q] If we are unable to pay a bonus this year, could this constitute a breach of contract?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2894,7 +2866,7 @@
         "id": "dev-110",
         "question": "[S] I am the Human Resources Manager for a small employer in the construction industry, which is currently on the verge of insolvency and will likely have to make many of its staff redundant. There is a possibility that we will be unable to meet our statutory redundancy pay commitments for some of our more senior employees. [Q] Who can we contact for help in meeting our statutory commitments if we become insolvent?",
         "answers": [
-            "the insolvency service\u2019s redundancy payments service (rps)"
+            ""
         ],
         "ctxs": [
             {
@@ -2907,7 +2879,7 @@
         "id": "dev-111",
         "question": "[S] I am an employee and shop steward (USDAW) at a carpet retailer in the Midlands. Owing to the effect of COVID-19 on the retail trade my employer has announced 25 redundancies, without bothering to run a full consultation either with our union or with the employees as a whole. [Q] Is it ok for the company not holding a consultation?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2928,7 +2900,7 @@
         "id": "dev-112",
         "question": "[S] I have inherited a former barn as part of my father's farm in the Yorkshire Dales, England. I intend to convert this into a 2-bedroom holiday cottage for tourist use; however, it does not have a connection to the sewage network and the area is classed as a Groundwater Protection Zone, suggesting that a Cesspool may be required. [Q] What are the rules regarding the capacity of such a cesspool?",
         "answers": [
-            "minimum capacity of 18,000 litres per 2 users (plus another 6,800 litres per each extra user)"
+            ""
         ],
         "ctxs": [
             {
@@ -2945,7 +2917,7 @@
         "id": "dev-113",
         "question": "[S] I have acquired and am currently renovating a very old residential property in Hertfordshire, England, which appears to have a septic tank which outflows directly into the ground in the back garden. The house does not appear to be in a Groundwater Protection Zone. [Q] Do I need a permit to use this tank for the house's domestic sewage disposal?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -2990,7 +2962,7 @@
         "id": "dev-114",
         "question": "[S] I am a Spanish national currently in the UK on a Student Visa, and am about to start my studies at a university in the SW of England. I have been offered rented accommodation by the University in one of their halls of residence. [Q] Do I need to prove my \"right to rent\" when taking up this offer?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3007,7 +2979,7 @@
         "id": "dev-115",
         "question": "[S] I rent a room in a house in multiple occupation in Sheffield, England, and have a periodic assured shorthold tenancy agreement with the landlord. Recently, however, he has announced a very large rent increase as part of a \"section 13\" procedure, to which I and several other tenants in the building strongly object. [Q] Can we appeal to a housing tribunal over this rent dispute?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3062,7 +3034,7 @@
         "id": "dev-117",
         "question": "[S] I got into some problems with debt two years ago and arranged for repayments to be taken directly from my wages. This was done, but I suspect now that they continued to take money from me - and are still doing so - even though I'd reached the limit of what I owed. [Q] I want to check what I owe and reclaim anything I've overpaid. Who do I contact",
         "answers": [
-            "the caps office"
+            ""
         ],
         "ctxs": [
             {
@@ -3081,7 +3053,7 @@
         "id": "dev-119",
         "question": "[S] I am the carer for my mother who is disabled and has mobility issues.  I shop on her behalf due to he disability.  I pay for the items with my debit card and she pays me back.  I have recently purchased on her behalf a mobility vehicle for which she paid me back the money.  I was charged VAT for it. [Q] Can my mother claim back the VAT paid on the mobility vehicle?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3102,7 +3074,7 @@
         "id": "dev-120",
         "question": "[S] I am an employee who earns \u00a31,500 per month. I have been having \u00a3500 taken out every month to pay my debts, but I cannot afford this. [Q] Am I able to reduce my payments to my debt?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3123,7 +3095,7 @@
         "id": "dev-121",
         "question": "[S] I am currently paying off my debt out of my wages. This amounts to \u00a3400 per month. I have lost track of how mow much I have paid. [Q] Where can I check how much debt is left to pay?",
         "answers": [
-            "the centralised attachment of earning payments (caps) office"
+            ""
         ],
         "ctxs": [
             {
@@ -3140,7 +3112,7 @@
         "id": "dev-122",
         "question": "[S] I owe my friend \u00a35000 he gave me to boost my wedding ceremony. I didn't pay his money back and took a court action. I have been served with a court county judge. I am a full time employee and my employer has received attachments of earnings order. [Q] Is it possible to pay off this debt immediately?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3161,7 +3133,7 @@
         "id": "dev-123",
         "question": "[S] I am 65 years old. I am looking to buy grab rails, which I will have the product installed at my home. [Q] Will I be eligible for the reduced VAT rate?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3202,7 +3174,7 @@
         "id": "dev-124",
         "question": "[S] I want to buy some electronic products from the UK without paying VAT. I will have the products delivered directly to my factory in Japan. [Q] Will I be able to buy these products as tax-free?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3215,7 +3187,7 @@
         "id": "dev-125",
         "question": "[S] My friend Ann is from Canada . She is was visiting the UK temporarily and won a lottery during a gambling event. She won a lot of money. Would like to know if she should inform the HMRC . [Q] Does she need to pay gambling tax?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3228,7 +3200,7 @@
         "id": "dev-126",
         "question": "[S] My grandfather is 65 years old and physically disabled . He owns a flat and would like to install an easily accessible bath and new lighting system. For him to get a reduced VAT on the items he wishes to buy. [Q] What does he need to do to be qualify for the reduced rate?",
         "answers": [
-            "confirm to your supplier in writing that you meet these conditions"
+            ""
         ],
         "ctxs": [
             {
@@ -3257,8 +3229,7 @@
         "id": "dev-127",
         "question": "[S] I am a British national. I applied for a spouse visa for my wife who lives in South Africa. I gave all the supporting documents and the required fee but it was refused.  They said that I don't meet the minimum income requirement so I need a good immigration solicitor to handle my case. [Q] Where can i get one?",
         "answers": [
-            "the office of the immigration services commissioner (oisc) adviser finder",
-            "the law society"
+            ""
         ],
         "ctxs": [
             {
@@ -3279,7 +3250,7 @@
         "id": "dev-128",
         "question": "[S] My immigration case has been mishandled by a solicitor I had hired.At first he requested a deposit of \u00a33000 which I felt was unreasonable but paid. Second,I gave him all my supporting documents but he misplaced them. My efforts to meet him in his office too has been futile. He never turned up for appointments. [Q] Can i report him?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3320,7 +3291,7 @@
         "id": "dev-129",
         "question": "[S] My husband died after an accident at work. He was only 52. I am heartbroken and now strapped for money. [Q] Do I qualify for Bereavement Support payment?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3353,9 +3324,7 @@
         "id": "dev-130",
         "question": "[S] My wife died after contracting a disease to do with asbestos from her workplace. She was only 58. I need tome support urgently. [Q] What is the application process for BSP?",
         "answers": [
-            "the quickest way to apply is by phone. you can also apply using a paper form.",
-            "download a bereavement support payment form (bsp1)",
-            "contact your nearest jobcentre plus to get one through the post"
+            ""
         ],
         "ctxs": [
             {
@@ -3380,7 +3349,7 @@
         "id": "dev-131",
         "question": "[S] We bought a new lift for our office last year. We sell horticultural machinery and made \u00a330,000 last year. We hope to make more this time. [Q] Can we claim the main pool rate of 18%?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3413,7 +3382,7 @@
         "id": "dev-132",
         "question": "[S] A few months ago I bought expensive table saw for my personal use but I want to use it in my business from now. I took a loan to buy it and there are still 10 monthly payments outstanding. [Q] Can I still use annual investment allowance in this case?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3446,7 +3415,7 @@
         "id": "dev-133",
         "question": "[S] I run a transport limited company and I started trading the same day the company was set up.I want to file my returns at the end of my tax year. [Q] Can i get a worked example on how i can file my returns to cover full financial year?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3491,7 +3460,7 @@
         "id": "dev-134",
         "question": "[S] We registered our company for corporation tax and started trading 5 months after our accounting reference date.We want to prepare our tax returns [Q] Do we have to file tax returns for the period we were dormant?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3504,7 +3473,7 @@
         "id": "dev-135",
         "question": "[S] I started my first company last year and its almost time for me to fil my first accounts and the Company's tax returns. I began trading on the first day that my company was established which makes it so I have to file a Company Tax Return covering a span of over 12 months. [Q] Is it ok for me to file only one Company Tax Return?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3549,7 +3518,7 @@
         "id": "dev-136",
         "question": "[S] This is the first limited company I am operating and I have been doing so for less than a year. It is almost time for me to file for Company Tax Returns. I realized that we registered the company for Corporation Tax after our accounting reference date. When we were first established we remained dormant for about 2 months before we began trading. [Q] Do I have to file two separate tax returns for the dormant period and for the period of trading?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3562,7 +3531,7 @@
         "id": "dev-137",
         "question": "[S] My software development company developed a proprietary that we are now interested in selling. The official date the algorithm was developed to what it is today is the 10th of October 2004. [Q] Do I need to report gains on this asset in any way?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3575,7 +3544,7 @@
         "id": "dev-138",
         "question": "[S] My business associates and I are interested in selling shares of our limited company to potential investors. Since we have been expanding rapidly this will help us maintain our level of growth. [Q] Do we have to pay Corporate Tax on the shares sold?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3608,7 +3577,7 @@
         "id": "dev-139",
         "question": "[S] Since my company is in a bit of a rough spot financially at the moment I am interested in lending it money. I will charge interest on this amount as it will be a big chunk of my personal savings. [Q] Will the interest I will be payed count as personal income for me?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3625,7 +3594,7 @@
         "id": "dev-140",
         "question": "[S] I am a director at the company I work at. Since I have fallen into some financial trouble after my divorce and my house catching on fire I requested a loan from my company. The board agreed and lent me \u00a325000. I have been paying interest on this loan but at a lower rate then the official one since I am still struggling to get on my feet. [Q] Do we note the payments below the official rate in a normal way?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -3662,7 +3631,7 @@
         "id": "dev-141",
         "question": "[S] My husband died during a workplace accident 2 months ago. He had payed national insurance for 15 years and I am 50 years old. [Q] Am I eligible for Bereavement Support?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3703,10 +3672,7 @@
         "id": "dev-142",
         "question": "[S] My partner and I are planning our wills and finances in the event one of us passes away. We both are planning on purchasing life insurance, but need to determine other sources of income to decide how much to buy. [Q] How much money does bereavement support provide?",
         "answers": [
-            "\u00a33,500",
-            "\u00a3350",
-            "\u00a32,500",
-            "\u00a3100"
+            ""
         ],
         "ctxs": [
             {
@@ -3739,11 +3705,7 @@
         "id": "dev-143",
         "question": "[S] I am an eighty year old woman who was recently widowed. My husband and I were living off our state pensions and have very little in savings. I feel mortified asking for help with funeral costs but I cannot manage them myself. [Q] What sort of help is available to me for my husband's funeral?",
         "answers": [
-            "burial fees for a particular plot",
-            "cremation fees, including the cost of the doctor\u2019s certificate",
-            "travel to arrange or go to the funeral",
-            "the cost of moving the body within the uk",
-            "death certificates or other documents"
+            ""
         ],
         "ctxs": [
             {
@@ -3780,7 +3742,7 @@
         "id": "dev-144",
         "question": "[S] My mother died two days ago. She was a French citizen as am I and indicated that she wished to be laid to rest in her home town in France. I am an only child and am not able to manage the expense all by myself. She does not have any insurance. [Q] As my mother is an EU citizen, am I eligible to claim help with funeral expenses?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3857,8 +3819,7 @@
         "id": "dev-145",
         "question": "[S] Ann lives in the UK and receives house benefits. Her husband has succumbed to cancer. She needs help to give her late husband a decent burial. [Q] Can she be eligible for funeral expenses payments?",
         "answers": [
-            "no",
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3907,7 +3868,7 @@
         "id": "dev-146",
         "question": "[S] My neighbor lives in the UK and his wife has died. He is eligible for a funeral expenses payment and wants to make a claim. [Q] Is there a service helpline he can call?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3924,7 +3885,7 @@
         "id": "dev-147",
         "question": "[S] We are a foreign company operating a branch office in the UK. We decided to sell all our assets including intangible assets and close the company. [Q] Are we supposed to pay corporation tax?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3945,7 +3906,7 @@
         "id": "dev-148",
         "question": "[S] My family runs a chain of grocery stores and I borrowed some money to buy a new car for my wife. [Q] Can this be classified as a director\u2019s loan?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -3958,8 +3919,7 @@
         "id": "dev-149",
         "question": "[S] I lend \u00a330,000 cash to our family limited company last April as it was struggling during the covid pandemic. We agreed that the money will be paid back with interest. [Q] What should the company do?",
         "answers": [
-            "pay you the interest less income tax at the basic rate of 20%",
-            "report and pay the income tax every quarter using form ct61"
+            ""
         ],
         "ctxs": [
             {
@@ -3980,7 +3940,7 @@
         "id": "dev-150",
         "question": "[S] I bought an old taxi on an auction a few weeks ago. I am interested in turning it into an operation vehicle and offering taxi services. I live in a small town near Liverpool and am not exactly sure what I need to do to begin this process. [Q] Who do I contact regarding licensing my taxi?",
         "answers": [
-            "your local council"
+            ""
         ],
         "ctxs": [
             {
@@ -3997,7 +3957,7 @@
         "id": "dev-151",
         "question": "[S] I recently move to London. Before doing so I lived in Manchester where I was operating a private taxi service. After settling in I plan on picking up the same business and operating a taxi vehicle again. I am pretty sure I will need a new license. [Q] Is the process of obtaining a license in London the same as in Manchester?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4040,7 +4000,7 @@
         "id": "dev-153",
         "question": "[S] My family and I are intending to go on a camping holiday in Europe and would like to take our SUV. We would be out of the UK for around five weeks in total. [Q] As we are not going to be away for very long, do we need to register that we are taking our vehicle abroad?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4053,7 +4013,7 @@
         "id": "dev-154",
         "question": "[S] I am eighteen and have just received my A level results. I feel that the results are not representative of the work that I put in and have been skewed by the pandemic. [Q] Can I challenge my A level results and if so how?",
         "answers": [
-            "ask your school or college to get an exam result looked at again"
+            ""
         ],
         "ctxs": [
             {
@@ -4074,8 +4034,7 @@
         "id": "dev-155",
         "question": "[S] I asked for a review of my GCSE results after receiving them last year. I felt that my results were unfair and I asked for a review. The review agreed with the original decision. [Q] Can I appeal against the results of the review?",
         "answers": [
-            "ask the exams officer, headteacher or principal at your school or college to make an appeal",
-            "make an appeal yourself"
+            ""
         ],
         "ctxs": [
             {
@@ -4092,7 +4051,7 @@
         "id": "dev-156",
         "question": "[S] Yesterday a friend of mine showed me the \"open register\" which is apparently a public document containing information on voters. I personally do not remember signing up to this register and instantly asked here if it is possible to opt out. She was pretty confident that it is but was not sure what the process is. [Q] Will I have to stay with the open register?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4115,7 +4074,7 @@
         "id": "dev-158",
         "question": "[S] I have just finished going through a divorce. The situation was particularly nasty, which lead to extended paperwork and 5 meetings with the solicitor for 2 hours each. At the end of the process, the bill was \u00a39500. I think this was more than it should have been. [Q] How can I challenge the cost of the bill?",
         "answers": [
-            "ask the senior courts costs office to make a \u2018detailed assessment\u2019 of your bill"
+            ""
         ],
         "ctxs": [
             {
@@ -4132,9 +4091,7 @@
         "id": "dev-159",
         "question": "[S] I own a medium sized business. We recently negotiated a contract with an automotive parts supplier to supply injection moulded panels. We used a solicitor throughout the process and the final bill was \u00a3100950. This is more than we had agreed upon when I first met with the solicitor. [Q] How much would it cost to challenge the bill through an independent body?",
         "answers": [
-            "\u00a345",
-            "\u00a31,345",
-            "your own costs and the other party\u2019s reasonable costs of the detailed assessment"
+            ""
         ],
         "ctxs": [
             {
@@ -4171,10 +4128,7 @@
         "id": "dev-160",
         "question": "[S] My brother wants to start a taxi business outside London.  Before he makes the license application, he wants to make sure that his car meets all the specifications. [Q] What are the things does the local council checks during inspections?",
         "answers": [
-            "it\u2019s roadworthy",
-            "it\u2019s comfortable and clean",
-            "the taximeter works properly",
-            "the doors are safe and secure"
+            ""
         ],
         "ctxs": [
             {
@@ -4203,11 +4157,7 @@
         "id": "dev-161",
         "question": "[S] I want to run a private vehicle hire business inside London. I have seen that it has a high business potential. [Q] What are the eligibility criteria for my vehicle to be licenced as a private vehicle hire inside london?",
         "answers": [
-            "have no more than 8 passenger seats",
-            "not look like a licensed taxi",
-            "only display advertising that complies with tfl guidelines",
-            "display licence discs",
-            "your vehicle will need to be inspected by tfl"
+            ""
         ],
         "ctxs": [
             {
@@ -4240,7 +4190,7 @@
         "id": "dev-162",
         "question": "[S] we have a community sports club that targets the youth in our community. we charge a small weekly fee for upkeep. [Q] can we register as a community amateur sports club ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4301,7 +4251,7 @@
         "id": "dev-163",
         "question": "[S] we applied to have our sports club become a community amateur sports club but our application was refused by the HMRC. [Q] can we appeal our refused application ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4322,7 +4272,7 @@
         "id": "dev-164",
         "question": "[S] My name is Chris Hemming. I am 15 years old and have always had an interest in the politics of my country the UK [Q] Can i register to vote?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4335,7 +4285,7 @@
         "id": "dev-165",
         "question": "[S] I am 34 and have been registered of the full version of the electoral register. I have updated my address recently and will always want to vote in the UK elections. [Q] Can banks carry out checks for loan applications from this register?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4356,7 +4306,7 @@
         "id": "dev-166",
         "question": "[S] I am seventeen and intend to go to University to study medicine in the next two years. I have no personal income and my parents cannot afford to fund me. I will have to stay in the cheapest digs that I can find. [Q] Can I get funding for my rental accomodation for five years?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4393,7 +4343,7 @@
         "id": "dev-167",
         "question": "[S] I am 35 and wish to study as a mature student, starting from next year. I will have to move from my home in order to study, and quit my job. I have a small amount of savings but not enough for my full course. [Q] Although I have savings, can I apply for any sort of financial help towards rent?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -4414,7 +4364,7 @@
         "id": "dev-168",
         "question": "[S] i have always been very good at mathematics and thought that i'd do very well in the subject on my A levels. i was shocked to learn that i'd scored an A instead of the A* i was expecting. [Q] can i appeal my A levels mathematics result ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4443,7 +4393,7 @@
         "id": "dev-169",
         "question": "[S] our school generally does well in the A levels but in our year we had disastrous results. i and a few of my classmates appealed the results and while they succeeded in their appeals, my review was denied. [Q] can i appeal the result of a review ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4460,9 +4410,7 @@
         "id": "dev-170",
         "question": "[S] My work colleagues and I have decided to open a community amateur sports club.We would like to nurture golf playing talents as well support the society. [Q] What are some of the benefits ?",
         "answers": [
-            "tax relief on income, gains and profits from some activities",
-            "gift aid repayments on donations",
-            "business rates relief"
+            ""
         ],
         "ctxs": [
             {
@@ -4487,8 +4435,7 @@
         "id": "dev-171",
         "question": "[S] We are planning to come up with our own golf club governing document so that it can be used as a guide to all our members. [Q] What are the things which the document must contain?",
         "answers": [
-            "set out how you meet the eligibility criteria for registering as a casc",
-            "state that any assets left after the club closes are only used by another registered casc, charity or related community sport"
+            ""
         ],
         "ctxs": [
             {
@@ -4513,7 +4460,7 @@
         "id": "dev-172",
         "question": "[S] my son has been accepted at a college that is in London. we are too far away from London for him to commute daily and he needs housing there. [Q] can my son get residential support for his studies in London ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4578,7 +4525,7 @@
         "id": "dev-173",
         "question": "[S] my daughter has received support for her accomodation at the school she is attending and her course is to last four years. [Q] how long do the college accomodation support payments last ?",
         "answers": [
-            "a maximum of 3 years"
+            ""
         ],
         "ctxs": [
             {
@@ -4591,8 +4538,7 @@
         "id": "dev-174",
         "question": "[S] I recently had a legal battle and I used a solicitor to sort things out for me. I am pretty sure he has charge me excessively and i am not happy. [Q] How do i apply to challenge his bill?",
         "answers": [
-            "download and fill in 3 copies of part 8 claim form (n208)",
-            "send a cheque made payable to \u2018hmcts\u2019 with all 3 copies of your completed form and a copy of your solicitor\u2019s bill"
+            ""
         ],
         "ctxs": [
             {
@@ -4617,7 +4563,7 @@
         "id": "dev-175",
         "question": "[S] I am moving to Japan and have an old car that is a family heirloom. It has was my grandfather's car and I have no other family in the UK. I want to keep the car to remember my grandfather. The car also has a personalized registration. [Q] Can I export the car to Japan?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4638,7 +4584,7 @@
         "id": "dev-176",
         "question": "[S] I live in Germany and want to buy a new car that is only available in the UK. The car I want is located in Northern Ireland. [Q] What taxes will I have to pay on this vehicle?",
         "answers": [
-            "vat"
+            ""
         ],
         "ctxs": [
             {
@@ -4671,9 +4617,7 @@
         "id": "dev-177",
         "question": "[S] I live near a road which has been altered and have been experiencing a lot of noise pollution from the traffic . I had plans to sell the property but even the potential buyers have withdrawn and the property value has decreased. [Q] Where can i make part 1 claim?",
         "answers": [
-            "your local council",
-            "highways england",
-            "connect plus"
+            ""
         ],
         "ctxs": [
             {
@@ -4714,7 +4658,7 @@
         "id": "dev-178",
         "question": "[S] My agricultural land has become polluted due to the new road built next to it, where lots of heavy lorries drive past each day. [Q] Can I make a part 1 claim for agricultural land?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4763,8 +4707,7 @@
         "id": "dev-179",
         "question": "[S] I am a British citizen and I had travelled abroad for a vacation. I have lost my passport and I want to travel back to the UK. [Q] If i apply for an emergency travel document how long can it take?",
         "answers": [
-            "2 working days",
-            "take longer"
+            ""
         ],
         "ctxs": [
             {
@@ -4793,7 +4736,7 @@
         "id": "dev-180",
         "question": "[S] I am a British citizen overseas .My passport expired and I applied for an emergency travel document at the British embassy in india. [Q] How many countries can i travel with using the emergency travel document?",
         "answers": [
-            "a maximum of 5 countries"
+            ""
         ],
         "ctxs": [
             {
@@ -4806,7 +4749,7 @@
         "id": "dev-181",
         "question": "[S] I had applied for a spouse visa outside the U.K through a visa application centre to join my husband in the UK but my plans have changed. I need to change some details on the application. [Q] Who should I contact?",
         "answers": [
-            "the visa application centre where you applied"
+            ""
         ],
         "ctxs": [
             {
@@ -4819,7 +4762,7 @@
         "id": "dev-182",
         "question": "[S] I am a Latvian national and am currently in the UK on a T5 Seasonal Worker visa. I hold a valid biometric residence permit, but the nature of my work has recently required me to move to a new address, which I have not yet had time to update the authorities about. [Q] Will I need a new BRP, or can I simply update the address online?",
         "answers": [
-            "report a change of address online"
+            ""
         ],
         "ctxs": [
             {
@@ -4840,7 +4783,7 @@
         "id": "dev-183",
         "question": "[S] I am a Spanish national, and currently reside there whilst awaiting a decision on my application for a Visa to visit the UK to pursue my academic studies. I applied via a visa application centre, but have gotten married and changed my surname since the application was made. [Q] Can I update the details of my present application, or will I need to start over again?",
         "answers": [
-            "you may need to make another visa application"
+            ""
         ],
         "ctxs": [
             {
@@ -4865,7 +4808,7 @@
         "id": "dev-184",
         "question": "[S] we were out and about with my family on holiday abroad when our hotel room was looted. our travel documents were stolen in that incident. [Q] how can we replace our stolen travel documents when we are abroad ?",
         "answers": [
-            "apply online"
+            ""
         ],
         "ctxs": [
             {
@@ -4886,7 +4829,7 @@
         "id": "dev-185",
         "question": "[S] my daughter was on a backpacking trip across the world when her passport expired. she needs to apply for an emergency travel document but is short of money. [Q] how much does the emergency travel document application cost ?",
         "answers": [
-            "\u00a3100"
+            ""
         ],
         "ctxs": [
             {
@@ -4899,9 +4842,7 @@
         "id": "dev-186",
         "question": "[S] A new road has been built near my house. At first we didn't worry too much but now we realise it has made our house harder to sell. [Q] Who do I make a claim for compensation to?",
         "answers": [
-            "your local council",
-            "highways england",
-            "connect plus"
+            ""
         ],
         "ctxs": [
             {
@@ -4938,7 +4879,7 @@
         "id": "dev-187",
         "question": "[S] A road next to my property has recently been expanded and many heavy trucks are now using the rout. I'm not happy as i have asthma and it's affecting my health. [Q] Do I have a right to compensation?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -4999,7 +4940,7 @@
         "id": "dev-188",
         "question": "[S] I have a small business importing wine from France to sell in the London area. [Q] Will I have to pay duty and VAT on goods that cost around \u00a3150?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5064,7 +5005,7 @@
         "id": "dev-189",
         "question": "[S] I have a large business importing Easter decorations from China but one of the companies I buy from hasn't filled in the customs declaration form correctly.  [Q] How long this will delay things if I fill in the form myself?",
         "answers": [
-            "4 weeks"
+            ""
         ],
         "ctxs": [
             {
@@ -5089,7 +5030,7 @@
         "id": "dev-190",
         "question": "[S] I own a house in Bristol. The house was built 100 years ago. I want to make a two-room extension to the existing property. [Q] How do I contact my local planning authority to ask if I need planning permission?",
         "answers": [
-            "through your local council"
+            ""
         ],
         "ctxs": [
             {
@@ -5110,7 +5051,7 @@
         "id": "dev-191",
         "question": "[S] I own a small industrial set of buildings in Birmingham. I applied for planning permission to build a new commercial property, but the LPA refused my application. I want to appeal their decision. [Q] How long will my appeal take to be decided?",
         "answers": [
-            "several months"
+            ""
         ],
         "ctxs": [
             {
@@ -5143,7 +5084,7 @@
         "id": "dev-192",
         "question": "[S] During the pandemic I owned a small company based in Birmingham that dissolved due to bankruptcy. I have started up another company based in Scotland. [Q] Can I use a grant to restore my dissolved company?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5160,7 +5101,7 @@
         "id": "dev-193",
         "question": "[S] My brothers business based in London has recently dissolved and he does not want to claim any assets previously owned by the business. I have just claimed my pension. [Q] Can I claim for my brothers business to be restored?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5201,7 +5142,7 @@
         "id": "dev-194",
         "question": "[S] I live in England, and a friend wants to send me a ten-pack of cigarettes that we used to smoke together when we lived in Barcelona together. My friend still lives in Barcelona. [Q] Will I still have to pay Excise Duty even though the cigarettes will be a gift?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5242,7 +5183,7 @@
         "id": "dev-195",
         "question": "[S] I live in Bristol. I recently bought a handmade rug online worth \u00a3300 from Turkey. It is being sent to me directly from Turkey. [Q] Do I need to pay Customs duty on both the price for the goods and the price of the postage and packaging?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5291,7 +5232,7 @@
         "id": "dev-196",
         "question": "[S] I own an IT consultancy business. We have expanded a lot recently and our annual taxable profits are now in the region of \u00a31 million. I am responsible for sorting out the tax bill. [Q] How long do I have to pay corporation tax after the end of each accounting period?",
         "answers": [
-            "9 months and 1 day"
+            ""
         ],
         "ctxs": [
             {
@@ -5312,9 +5253,7 @@
         "id": "dev-197",
         "question": "[S] I own a legal firm, specialising in conveyancing. We typically make a taxable profit of \u00a3500,000 each year. I have just realised that our corporation tax bill is due in the next 2 days. [Q] What are the possible ways to pay the corporation tax bill to catch up with the deadline?",
         "answers": [
-            "online or telephone banking (faster payments)",
-            "chaps",
-            "through your online bank account"
+            ""
         ],
         "ctxs": [
             {
@@ -5355,7 +5294,7 @@
         "id": "dev-198",
         "question": "[S] My sister in law's cake decorating business has just gone into liquidation as she was no longer able to meet her overheads. She has a lot of professional baking equipment which is tied up in her business. [Q] Is it possible for me to buy my sister's in law's equipment once her company is formally liquidised?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5390,7 +5329,7 @@
         "id": "dev-200",
         "question": "[S] I own a computer hardware repair shop which has been doing really well recently. I am interested in expanding my business and opening a new location on the other side of town. I have found the perfect spot in terms of location but the building standing there right now is really old and not well maintained. My plan is to completely demolish it and rebuild it as a place where I can open my shop and also have a few apartments to rent out. [Q] Could I get in trouble if I were to operate without a planning permission?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5411,8 +5350,7 @@
         "id": "dev-201",
         "question": "[S] I recently purchased an old apartment building with the idea of renovating it and renting out the apartments. Since the building was quite old but had a really big back yard I planned an expansion to the building which would consist of a private cinema for the people renting the building. I applied for a planning permission but my application was declined 6 weeks after I sent it in. [Q] What steps can I take to possibly have the decision changed?",
         "answers": [
-            "adjusting your plans",
-            "appeal"
+            ""
         ],
         "ctxs": [
             {
@@ -5445,7 +5383,7 @@
         "id": "dev-202",
         "question": "[S] I had a limited company and because of the recent IR35 changes I moved to a permanent role but have not liquidated the company and no profits from the company as well [Q] Do I still have to pay my tax bill to HMRC?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -5458,7 +5396,7 @@
         "id": "dev-203",
         "question": "[S] I started a limited company 13 months back.  My accountant calculated my corporation tax dues and informed me to pay directly to HMRC. I have made the payment as intstructed [Q] I want to know whether HMRC has received my Corporation  tax payment ?",
         "answers": [
-            "check your hm revenue and customs (hmrc) online account"
+            ""
         ],
         "ctxs": [
             {
@@ -5471,7 +5409,7 @@
         "id": "dev-204",
         "question": "[S] I am a 54 year old who owns a company in Newcastle, my taxable turnover is around \u00a376,000 each year down from \u00a3120,000 5 years ago. [Q] Can I opt out of VAT?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5492,7 +5430,7 @@
         "id": "dev-205",
         "question": "[S] I am a 53 year old from Essex, I have recently liquidised a lot of my business which takes me above the VAT threshold for this tax year. I expect a VAT turnover of \u00a350,000 per annum. [Q] Does this make me exempt?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5521,7 +5459,7 @@
         "id": "dev-206",
         "question": "[S] I have a small business manufacturing and selling high quality cured meats in Northern Ireland. We sell all around the world, including to the EU. [Q] What prefix do I need to put in front of my VAT number for EU sales?",
         "answers": [
-            "xi"
+            ""
         ],
         "ctxs": [
             {
@@ -5558,8 +5496,7 @@
         "id": "dev-207",
         "question": "[S] I have a business renting out construction tools like cement mixers and whacker plates. I have just registered for VAT as my turnover has now gone over the \u00a385,000 threshold. [Q] How far can I backdate claims for VAT on tools I have purchased previously?",
         "answers": [
-            "4 years",
-            "6 months"
+            ""
         ],
         "ctxs": [
             {
@@ -5588,7 +5525,7 @@
         "id": "dev-208",
         "question": "[S] I live in Kent and run a small retail business selling bicycles and their parts and accessories to the general public. I am not currently VAT registered, but my turnover is approaching the threshold for registration. This figure, however, includes mail order sales to customers outside the UK, which I believe are currently zero-rated in VAT terms. [Q] Do sales of zero-rated items count towards the threshold when calculating my turnover for a given twelve month period?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -5609,7 +5546,7 @@
         "id": "dev-209",
         "question": "[S] I live in the UK and wish to purchase an item worth approximately \u00a3100 from an overseas (non-UK) supplier, with the purchase transaction taking place online. The item in question is for personal use, and is not intended as a gift. [Q] Is VAT payable on this purchase, either at point of sale or on delivery?",
         "answers": [
-            "the seller will have included vat in the total you paid"
+            ""
         ],
         "ctxs": [
             {
@@ -5670,7 +5607,7 @@
         "id": "dev-210",
         "question": "[S] I am a software developer, and from mid-2017 until earlier this year I worked for a company which has since been dissolved. At the time of dissolution I held shares in the company and was owed three months\u2019 worth of outstanding wages, with the company retaining the intellectual property rights to work I had done during that three month period. [Q] Can I claim back the intellectual property rights to my unremunerated work?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5707,8 +5644,7 @@
         "id": "dev-211",
         "question": "[S] I am a director and acting financial controller of a small, profitable biotechnology start-up company based in Reading. Four months ago the company was acquired by a large technology group, which I believe has a Group Payment Arrangement in place with HMRC. [Q] How do I find out the correct payslip reference to use when paying my next Corporation Tax bill?",
         "answers": [
-            "on any payslip that hmrc sent you",
-            "through your company\u2019s hmrc online account - choose \u2018view account\u2019 then \u2018accounting period\u2019"
+            ""
         ],
         "ctxs": [
             {
@@ -5733,7 +5669,7 @@
         "id": "dev-212",
         "question": "[S] I live in England and own an old farmhouse surrounded by two acres of land. I wish to renovate the property, adding an extra storey and converting some old stables adjacent into a garage. I have submitted an application for planning permission to my Local Planning Authority. [Q] How long can the LPA deliberate before reaching a decision on my application?",
         "answers": [
-            "8 weeks"
+            ""
         ],
         "ctxs": [
             {
@@ -5754,8 +5690,7 @@
         "id": "dev-213",
         "question": "[S] I am planning to utilise my garden area to build an extra bedroom for my growing family. I would like to follow the right rules before i start. [Q] Do i need to inform the local council and seek permission?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -5776,7 +5711,7 @@
         "id": "dev-214",
         "question": "[S] Our family transport limited company was greatly affected in year 2020 -2021 by covid pandemic restrictions .We are unable to timely pay the corperation tax bill due low profits [Q] Can we write a statement to the HMRC to detail our case?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5793,7 +5728,7 @@
         "id": "dev-215",
         "question": "[S] My limited company was dissolved by my accountant after it ceased trading some 6 months ago.There were funds remaining in my business bank account. The funds were siezed by the crown and i had to borrow money from relatives.The company has no outstanding debts. [Q] Can i apply for discretionary grant from the crown?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5814,7 +5749,7 @@
         "id": "dev-216",
         "question": "[S] My friend Annita has a wedding Anniversary next month and lives  abroad in South Africa. I would like to send her a gift percel from UK. [Q] Will i need to pay custom duty for the gift ?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -5827,8 +5762,7 @@
         "id": "dev-217",
         "question": "[S] I run a salon business and i collect \u00a3 30,000 per year.My business turn over is less than vatable threshold of \ufffd85,000 [Q] Do i need VAT registration?",
         "answers": [
-            "no",
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5877,7 +5811,7 @@
         "id": "dev-218",
         "question": "[S] I graduated with a Bachelor's degree in Computer Science around 2 years ago. After working in the field since I decided I would like to continue my education and get a Master's degree. I have applied for a loan but am not certain about details surrounding the money I will be given. [Q] Will the money go directly towards my education or will it be given to me?",
         "answers": [
-            "directly to you"
+            ""
         ],
         "ctxs": [
             {
@@ -5890,7 +5824,7 @@
         "id": "dev-219",
         "question": "[S] I took a year off of studying to travel around the world. I would now like to continue my education and will need a loan to be able to afford to do so. The last time I studied I also took out a loan with from Student Finance England. [Q] Am I eligible to apply for my new loan online?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -5911,7 +5845,7 @@
         "id": "dev-220",
         "question": "[S] I began my CBT training course a little over a week ago and have driven with my trainer only 2 times so far. Yesterday after our drive he informed me that he will need to stop my CBT course due to lack of knowledge of traffic signs. I understood and he pointed me at good learning materials so I can catch up. When I asked him when I will be able to continue with my CBT course he said that I will have to begin anew and pay the charge again. [Q] Is he allowed to charge me again?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5928,7 +5862,7 @@
         "id": "dev-221",
         "question": "[S] I will be attending my CBT course tomorrow in hopes of finally being able to drive the moped my parent bought me for Christmas. I passed the theory test and full moped test last year. I am aware that the course will take me the whole day and my dad suggested he drops me off together with my moped and I drive back once I have my certificate. We have already equipped the vehicle with L plates. [Q] Am I going to be allowed to drive back home on my moped after receiving my certificate of completion?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -5949,11 +5883,7 @@
         "id": "dev-222",
         "question": "[S] I am 19 and rent a bedsit in a multiple tenancy building in the North of the UK. I am concerned that there is not an adequate provision in the case of fire. [Q] I need to know the fire safety measures that my landlord is taking.. what are they?",
         "answers": [
-            "follow safety regulations",
-            "provide a smoke alarm on each storey and a carbon monoxide alarm in any room with a solid fuel burning appliance",
-            "check you have access to escape routes at all times",
-            "make sure the furniture and furnishings they supply are fire safe",
-            "provide fire alarms and extinguishers"
+            ""
         ],
         "ctxs": [
             {
@@ -5986,8 +5916,7 @@
         "id": "dev-223",
         "question": "[S] My family and I are private tenants and have been for over five years in the same place. My landlord has just increased our rent out of the blue and we cannot afford the new rate. [Q] Is it acceptable for the landlord to have done this arbitrarily?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6016,7 +5945,7 @@
         "id": "dev-224",
         "question": "[S] I own a newly built house and I have set up a septic tank since the property is not connected to the main public sewer.It is mainly for domestic purposes from a toilet and kitchen. [Q] Do i need to apply for a permit or a licence to own it?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6057,10 +5986,7 @@
         "id": "dev-225",
         "question": "[S] My friend is planning to build a new home . He wants to invest in a sewage system for domestic use that releases the sewage to surface water. [Q] What are the general binding rules that he need to follow for a new septic tank?",
         "answers": [
-            "not cause pollution",
-            "use a small sewage treatment plant",
-            "apply for a permit",
-            "read the additional rules for discharging sewage to a surface water"
+            ""
         ],
         "ctxs": [
             {
@@ -6097,9 +6023,7 @@
         "id": "dev-226",
         "question": "[S] I have fallen behind with my rent arrears for 2 months. The landlord is on the verge of evicting me . I have tried all I can to raise the rent arrears but all in vain. The landlord has given me a 6 months eviction notice . [Q] Where can i get help with my rent situations before i become homeless?",
         "answers": [
-            "money advice service",
-            "shelter",
-            "citizens advice"
+            ""
         ],
         "ctxs": [
             {
@@ -6128,9 +6052,7 @@
         "id": "dev-227",
         "question": "[S] I live in a rented property in England which needs repairs. The heating system is not working and the water pipes are leaking. The bathroom sink and taps are faulty and damaged. [Q] Who should I contact to do the repairs?",
         "answers": [
-            "your landlord",
-            "the environmental health department at your local council",
-            "housing department at your local council"
+            ""
         ],
         "ctxs": [
             {
@@ -6175,7 +6097,7 @@
         "id": "dev-228",
         "question": "[S] I applied  for a spouse visa  within the UK and  got rejected by the UKVI citing minimum income requirements are not met. I need an immigration adviser to handle my case. [Q] Where can i find a qualified immigration adviser?",
         "answers": [
-            "office of the immigration services commissioner (oisc) adviser finder"
+            ""
         ],
         "ctxs": [
             {
@@ -6188,7 +6110,7 @@
         "id": "dev-229",
         "question": "[S] My friend is an asylum seeker . His case was mishandled by his hired solicitor.His asylum claim was rejected due to poor representation. The solicitor misplaced some of his documents and could charge exorbitant fees. Efforts to reach out to him went unanswered. He now wants to make a complaint. [Q] How can he complain about his advisor if his advisor is not regulated by OISC?",
         "answers": [
-            "email the oisc"
+            ""
         ],
         "ctxs": [
             {
@@ -6231,8 +6153,7 @@
         "id": "dev-231",
         "question": "[S] I am appealing against a decision to deport me on the grounds that I do not have a skilled job here in the UK. I have been here for over ten years from my native Australia and am desperately looking for work but can't find any. The adviser I hired is not helping me at all. [Q] I want to make a complaint against my immigration advisor, can I?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6269,8 +6190,7 @@
         "id": "dev-232",
         "question": "[S] I am a UK citizen but I live in Canada. I have been paying the National insurance to the UK and now I am in my state pension year. I would prefer my to be paid in my overseas bank. [Q] Which are the bank accounts where pension can be paid?",
         "answers": [
-            "an account in your name",
-            "a joint account"
+            ""
         ],
         "ctxs": [
             {
@@ -6299,8 +6219,7 @@
         "id": "dev-233",
         "question": "[S] I am British National but I live in South Africa. I paid National insurance throughout all my working period in the UK.I have reached my state pension age and I want all my money to be paid in the South African Bank. [Q] Which country should I pay my pension tax to?",
         "answers": [
-            "uk",
-            "the country you live in"
+            ""
         ],
         "ctxs": [
             {
@@ -6321,8 +6240,7 @@
         "id": "dev-234",
         "question": "[S] I am 65 and have been living in Spain since I retired early three years ago. I am now eligible for the state pension in the UK. I am not employed here in Spain. [Q] How can claim a state pension in Spain?",
         "answers": [
-            "contact the international pension centre",
-            "send the international claim form to the international pension centre"
+            ""
         ],
         "ctxs": [
             {
@@ -6343,7 +6261,7 @@
         "id": "dev-235",
         "question": "[S] My husband and I are in in our early seventies and are in receipt of a UK state pension. We have been offered the opportunity to live in the US for four months of the year for the next two years. [Q] Can we continue to claim our state pensions if we are in the US?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6360,7 +6278,7 @@
         "id": "dev-236",
         "question": "[S] I am a UK citizen but I live abroad.I have reached my state pension age . I want my state pension to be paid to the bank account in the country I am living in. [Q] Will that be possible to pay through my overseas bank account?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6393,9 +6311,7 @@
         "id": "dev-239",
         "question": "[S] My brother started working for an entertainment agency for the last 3 months and would like to know more about his working rights. [Q] What are the working rights after 12 week period?",
         "answers": [
-            "\u2018equal pay\u2019",
-            "automatic pension enrolment",
-            "paid annual leave"
+            ""
         ],
         "ctxs": [
             {
@@ -6424,7 +6340,7 @@
         "id": "dev-240",
         "question": "[S] Me and my colleagues who form about 50% of the employees have been getting progressively worried about the financial side of the company we work for. Therefore, we requested from our employer an information and consultation agreement. He instantly denied as if he was anticipating such a moment and stated that there are pre-existing agreements to which we have all agreed to. We checked the contracts we have signed and while about 10% of us have signed such an agreement the others have not. [Q] Who can we complain to under these circumstances?",
         "answers": [
-            "cac"
+            ""
         ],
         "ctxs": [
             {
@@ -6449,7 +6365,7 @@
         "id": "dev-241",
         "question": "[S] I am interested in requesting an information and consultation agreement with my employer. I have spoken to the whole office and everyone agrees that we should request this information. The problem is we are scared from being fired unfairly if we request this from out boss directly. [Q] Can we request this agreement without directly contacting out employer?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6466,10 +6382,7 @@
         "id": "dev-242",
         "question": "[S] My work colleague Lucy  has raised a grievance about poor working conditions and the employer has arranged for a grievance meeting. [Q] Who can accompany her to the meeting?",
         "answers": [
-            "colleague",
-            "trade union representative",
-            "a family member",
-            "citizens advice bureau worker"
+            ""
         ],
         "ctxs": [
             {
@@ -6494,7 +6407,7 @@
         "id": "dev-243",
         "question": "[S] My employees have raised grievance about job promotions and we have agreed to use a mediator to find a lasting solution. [Q] Where can i source for mediator services?",
         "answers": [
-            "in your area"
+            ""
         ],
         "ctxs": [
             {
@@ -6507,7 +6420,7 @@
         "id": "dev-244",
         "question": "[S] I am a 30 year old agency worker who has been in the same temp job for nine months. I have just found out that I am pregnant. My baby will be due in seven months and I had expected to still be in the same employment at that time [Q] As I am technically only a temp, am I eligible for maternity pay of any kind?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6520,7 +6433,7 @@
         "id": "dev-245",
         "question": "[S] My daughter is fifteen and has recently been signed up to a modelling agency. So far she has had two jobs with them but we have yet to receive any pay. When I called to enquire I was told that pay was 'pending.' I am worried that the agency will refuse to pay because the hirer is unhappy with my daughter's work. [Q] Can the agency refuse to pay because the hirer is unhappy with my daughter's work?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6537,9 +6450,7 @@
         "id": "dev-246",
         "question": "[S] I am a Syrian national and have sought asylum in the UK. I have been given ARC card as I wait for my asylum decision. [Q] What can i use the ARC for?",
         "answers": [
-            "show who you are",
-            "show whether you have permission to work",
-            "get health or education services"
+            ""
         ],
         "ctxs": [
             {
@@ -6564,7 +6475,7 @@
         "id": "dev-247",
         "question": "[S] My uncle sought asylum after arriving in the UK last month from Eritrea. He has been detained by immigration and told to wait for his decision. [Q] How long does it take for one to get a decision?",
         "answers": [
-            "6 months"
+            ""
         ],
         "ctxs": [
             {
@@ -6577,7 +6488,7 @@
         "id": "dev-248",
         "question": "[S] I have made a complaint about a grievance over working hours. I work longer than my contract states. The decision I received from my employer is not to my liking. [Q] Who should I send my appeal to?",
         "answers": [
-            "your employer\u2019s grievance procedure will set out"
+            ""
         ],
         "ctxs": [
             {
@@ -6594,7 +6505,7 @@
         "id": "dev-249",
         "question": "[S] I am a junior office worker in a large law firm and have been here for eighteen months. I feel that I am being bullied by my immediate supervisor, who encourages other workers to laugh at me too. This is causing me a great deal of distress. [Q] I want to make a formal grievance complaint about my supervisor. Can I?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6613,8 +6524,7 @@
         "id": "dev-251",
         "question": "[S] I have moved to the UK as a refugee. I want to claim asylum. I have been persecuted in my home country for my political beliefs. I have travelled through the EU countries to come to the UK. [Q] Will I be eligible to claim asylum in the UK?",
         "answers": [
-            "yes",
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6655,8 +6565,7 @@
         "id": "dev-252",
         "question": "[S] I am a  20 year old refugee who has attempted to claim asylum in the UK. At the screening, I have been told that my case may not be able to be considered. [Q] What happens if my case cannot be considered?",
         "answers": [
-            "sent to a safe country that will consider your asylum claim",
-            "considered in the uk and given to a caseworker"
+            ""
         ],
         "ctxs": [
             {
@@ -6673,7 +6582,7 @@
         "id": "dev-253",
         "question": "[S] I am an employee of a company. I am looking to request an information and consultation agreement due to concerns over the employer's finances. The company has 150 employees. The registered office is in London. [Q] Will I be eligible to make a request?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6694,7 +6603,7 @@
         "id": "dev-254",
         "question": "[S] I, and 49 other employees, have requested an information and consultation agreement. The company has 70 employees. Our employer has refused to start negotiations. [Q] Can the employer choose not to negotiate?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6707,7 +6616,7 @@
         "id": "dev-255",
         "question": "[S] I have been out of a job for about 6 months now. Since I have had little to no luck finding opportunities myself I contacted a local firm. They advertise the ability to find me a suitable permanent position in a few months. So far working with them has been great. [Q] Do I count as an agency worker under these circumstances?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -6720,7 +6629,7 @@
         "id": "dev-256",
         "question": "[S] I found out I am pregnant last week. I am in the second month and can feel some of the effects of pregnancy slowly down on me, I am still more than capable to do my job. I was recently contracted at a new position for system and server set-up at a small local start up business. After announcing that I am pregnant they decided to close down the position and terminate my contract. [Q] Who should I contact if I believe I am being discriminated against?",
         "answers": [
-            "acas"
+            ""
         ],
         "ctxs": [
             {
@@ -6749,7 +6658,7 @@
         "id": "dev-257",
         "question": "[S] I am sixteen and arrived here illegally a month ago. My family were left behind and I am desperate to hear from them. The country I am from is not safe for me to return to. [Q] As I am under the age of eighteen am I legally allowed to apply for refugee status as a child?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6762,7 +6671,7 @@
         "id": "dev-258",
         "question": "[S] I have been working for a law firm (as a receptionist) for just over a year. I am fortunate to have been working near to my home but my boss has just announced that we are relocating to a town ten miles away. [Q] Can I protest this on the grounds that it will take me a long time to get to work now?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6779,8 +6688,7 @@
         "id": "dev-259",
         "question": "[S] I am 21 and work in a factory. Until recently we were allowed to listen to the radio as we worked but this right has been taken away from us. Over ten of us would like to make a complaint about this. [Q] How many people need to agree to complain before we would get a hearing?",
         "answers": [
-            "at least 2% of all the employees in the company or organisation",
-            "at least 15 employees must make the request"
+            ""
         ],
         "ctxs": [
             {
@@ -6801,7 +6709,7 @@
         "id": "dev-260",
         "question": "[S] My uncle has developed a serious blood clot after getting his first dose of covid vaccine which has left him severed paralysed and disabled. My uncle is considered to be severely disabled. [Q] Is there a way he can be compensated for the damages  after this unfortunate episode?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6814,7 +6722,7 @@
         "id": "dev-261",
         "question": "[S] I work as a full-time employee at a company in the UK, and am currently expecting my second child. Complications with my first pregnancy resulted in my son being born three weeks premature, and I am concerned that the problem may recur. I am going to be off due to pregnancy sickness three weeks before my maternity leave. [Q] How long before my due date can I start my Statutory Maternity Leave?",
         "answers": [
-            "automatically"
+            ""
         ],
         "ctxs": [
             {
@@ -6831,7 +6739,7 @@
         "id": "dev-262",
         "question": "[S] I am currently doing my masters on computer science. I was told that I am eligible to apply for Postgraduate master's Loan. I am an Italian citizen. [Q] What are the documents required to prove my identity?",
         "answers": [
-            "passport or national identity card"
+            ""
         ],
         "ctxs": [
             {
@@ -6844,7 +6752,7 @@
         "id": "dev-263",
         "question": "[S] I live in England and studying a Postgraduate Master course. I applied for Postgraduate Master's loan and was approved. Thinking how I receive the payment. The course will last for three years. [Q] Will I receive as one-off payment or on instalments ?",
         "answers": [
-            "instalments"
+            ""
         ],
         "ctxs": [
             {
@@ -6861,7 +6769,7 @@
         "id": "dev-264",
         "question": "[S] I am looking at doing master's course in the UK. It is an Msc course that is eligible for a postgraduate loan. I do not know how much the loan is. The course will be starting on the 1st July 2020. [Q] How much funding is available for a postgraduate student?",
         "answers": [
-            "\u00a310,906"
+            ""
         ],
         "ctxs": [
             {
@@ -6878,7 +6786,7 @@
         "id": "dev-265",
         "question": "[S] I am currently doing my masters on computer science. I was told that I am eligible to apply for Postgraduate master's Loan. My UK passport expired 3 months ago and I since I have not traveled I am yet to renew it. [Q] What are the documents required to prove my identity?",
         "answers": [
-            "original birth or adoption certificate"
+            ""
         ],
         "ctxs": [
             {
@@ -6891,7 +6799,7 @@
         "id": "dev-266",
         "question": "[S] I am looking at doing master's course in the UK. It is an Msc course that is eligible for a postgraduate loan. I do not know how much the loan is. [Q] How much funding is available for a postgraduate student who's course starts in October of 2021?",
         "answers": [
-            "\u00a311,570"
+            ""
         ],
         "ctxs": [
             {
@@ -6908,7 +6816,7 @@
         "id": "dev-267",
         "question": "[S] I started a limited company and employed 5 employees. I registered for the PAYE scheme. We were very busy and I was not able to find time to pay HMRC in the past 5 months. [Q] Will our account be closed ?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6921,7 +6829,7 @@
         "id": "dev-268",
         "question": "[S] I rent a room in a house in multiple occupation in Sheffield, England, and have a periodic assured shorthold tenancy agreement with the landlord. Recently, however, he has announced a very large rent increase as part of a \"section 13\" procedure, to which I and several other tenants in the building strongly object. [Q] Can we appeal to a housing tribunal over this rent dispute considering we have a shorthold tenancy agreement?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -6938,7 +6846,7 @@
         "id": "dev-269",
         "question": "[S] I am looking at doing master's course in the UK. It is an Msc course that is eligible for a postgraduate loan. I do not know how much the loan is. [Q] How much funding is available for a postgraduate student for my course which started on the 10th of September 2020?",
         "answers": [
-            "\u00a311,222"
+            ""
         ],
         "ctxs": [
             {
@@ -6955,10 +6863,7 @@
         "id": "dev-270",
         "question": "[S] I'm 63 and I had a car accident 1 year ago while a was driving a lorry for my company on the A1. I crashed really hard and I can't walk anymore; my GP made me a prescription for some painkillers that I'm taking twice a day. I feel lucky because my nephews live not too far from here and sometimes they come and help me at home. I am not able to work because of the illness [Q] My wife died 2 years ago, what kind of support can I get from the government?",
         "answers": [
-            "personal independence payment (pip)",
-            "employment and support allowance (esa)",
-            "industrial injuries benefit",
-            "universal credit"
+            ""
         ],
         "ctxs": [
             {
@@ -7011,8 +6916,7 @@
         "id": "dev-271",
         "question": "[S] I am about to give out the first payslips to my employees, who are paid according to the number of hours they have worked. The payslips generated show the gross pay, tax and national insurance. [Q] Is there anything else that I need to include?",
         "answers": [
-            "pay after deductions",
-            "the number of hours worked"
+            ""
         ],
         "ctxs": [
             {
@@ -7041,7 +6945,7 @@
         "id": "dev-272",
         "question": "[S] I recently purchased an old apartment building with the idea of renovating it and renting out the apartments. Since the building was quite old but had a really big back yard I planned an expansion to the building which would consist of a private cinema for the people renting the building. I applied for a planning permission but my application was declined 6 weeks after I sent it in. No agreement has been reached. [Q] What steps can I take to possibly have the decision changed?",
         "answers": [
-            "appeal"
+            ""
         ],
         "ctxs": [
             {
@@ -7054,7 +6958,7 @@
         "id": "dev-273",
         "question": "[S] I have a business renting out construction tools like cement mixers and whacker plates. I have just registered for VAT as my turnover has now gone over the \u00a385,000 threshold. I am interested in claiming VAT on tool purchased about 2 years ago that are still in my possession. [Q] How far can I backdate claims for VAT on tools I have purchased previously and I still own?",
         "answers": [
-            "4 years"
+            ""
         ],
         "ctxs": [
             {
@@ -7071,7 +6975,7 @@
         "id": "dev-274",
         "question": "[S] I have a business renting out construction tools like cement mixers and whacker plates. I have just registered for VAT as my turnover has now gone over the \u00a385,000 threshold. I am interested in claiming VAT on services I have payed for around 3 months ago. [Q] How far can I backdate claims for VAT on services I have payed for previously?",
         "answers": [
-            "6 months"
+            ""
         ],
         "ctxs": [
             {
@@ -7088,7 +6992,7 @@
         "id": "dev-275",
         "question": "[S] My family and I are private tenants and have been for over five years in the same place. My landlord has just increased our rent out of the blue and we cannot afford the new rate. The fixed-term tenancy agreement has two years remaining. [Q] Is it acceptable for the landlord to have done this arbitrarily?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -7101,7 +7005,7 @@
         "id": "dev-276",
         "question": "[S] I live in a rented property in England which needs repairs. The heating system is not working and the water pipes are leaking. The bathroom sink and taps are faulty and damaged. The house is currently unfit for living in. [Q] Who should I contact to do the repairs?",
         "answers": [
-            "housing department at your local council"
+            ""
         ],
         "ctxs": [
             {
@@ -7118,7 +7022,7 @@
         "id": "dev-277",
         "question": "[S] I live in a rented property in England which needs repairs. The heating system is not working and the water pipes are leaking. The bathroom sink and taps are faulty and damaged. [Q] Who should I contact to do the repairs if my landlord does not carry them out?",
         "answers": [
-            "the environmental health department at your local council"
+            ""
         ],
         "ctxs": [
             {
@@ -7135,11 +7039,7 @@
         "id": "dev-278",
         "question": "[S] I am 19 and rent a bedsit in a multiple tenancy building in the North of the UK. I am concerned that there is not an adequate provision in the case of fire. It's a large house and has multiple occupancy [Q] I need to know the fire safety measures that my landlord is taking.. what are they?",
         "answers": [
-            "follow safety regulations",
-            "provide a smoke alarm on each storey and a carbon monoxide alarm in any room with a solid fuel burning appliance",
-            "check you have access to escape routes at all times",
-            "make sure the furniture and furnishings they supply are fire safe",
-            "provide fire alarms and extinguishers"
+            ""
         ],
         "ctxs": [
             {
@@ -7172,10 +7072,7 @@
         "id": "dev-279",
         "question": "[S] My friend is planning to build a new home . He wants to invest in a sewage system for domestic use that releases the sewage to surface water. The expected amount of discharge is 7,000 litres per day [Q] What are the general binding rules that he need to follow for a new septic tank?",
         "answers": [
-            "not cause pollution",
-            "use a small sewage treatment plant",
-            "apply for a permit",
-            "read the additional rules for discharging sewage to a surface water"
+            ""
         ],
         "ctxs": [
             {
@@ -7212,7 +7109,7 @@
         "id": "dev-280",
         "question": "[S] I will be attending my CBT course tomorrow in hopes of finally being able to drive the moped my parent bought me for Christmas. I passed the theory test and full moped test last year. I am aware that the course will take me the whole day and my dad suggested he drops me off together with my moped and I drive back once I have my certificate. We have already equipped the vehicle with L plates. The moped I will drive is 50cc. [Q] Am I going to be allowed to drive back home on my moped after receiving my certificate of completion?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -7225,7 +7122,7 @@
         "id": "dev-281",
         "question": "[S] I am appealing against a decision to deport me on the grounds that I do not have a skilled job here in the UK. I have been here for over ten years from my native Australia and am desperately looking for work but can't find any. The adviser I hired is not helping me at all. This deportation decision was made 18 months ago. [Q] I want to make a complaint against my immigration advisor, can I?",
         "answers": [
-            "no"
+            ""
         ],
         "ctxs": [
             {
@@ -7238,7 +7135,7 @@
         "id": "dev-282",
         "question": "[S] I am a 20 year old refugee who has attempted to claim asylum in the UK. At the screening, I have been told that my case may not be able to be considered. The Home Office have stated that they cannot put me in another safe country. [Q] What happens if my case cannot be considered?",
         "answers": [
-            "considered in the uk and given to a caseworker"
+            ""
         ],
         "ctxs": [
             {
@@ -7251,7 +7148,7 @@
         "id": "dev-283",
         "question": "[S] I am a junior office worker in a large law firm and have been here for eighteen months. I feel that I am being bullied by my immediate supervisor, who encourages other workers to laugh at me too. This is causing me a great deal of distress. I tried to resolve the problem by talking to my manager but I am not happy with his response [Q] I want to make a formal grievance complaint about my supervisor. Can I?",
         "answers": [
-            "yes"
+            ""
         ],
         "ctxs": [
             {
@@ -7264,10 +7161,7 @@
         "id": "dev-284",
         "question": "[S] My work colleague Lucy  has raised a grievance about poor working conditions and the employer has arranged for a grievance meeting. [Q] Other than a colleague and her trade union representative, who else can accompany her to the meeting if our HR policy allows them to?",
         "answers": [
-            "colleague",
-            "trade union representative",
-            "a family member",
-            "citizens advice bureau worker"
+            ""
         ],
         "ctxs": [
             {
