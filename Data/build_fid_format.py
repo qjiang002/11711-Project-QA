@@ -60,15 +60,19 @@ def main(args):
             use_segments: bool=False, segment_level: int=3,
             add_conditions: bool=True, build_natural: bool=True,
             keep_all: bool=True, cond_only: bool=True,
-            whole_doc: bool=False
+            whole_doc: bool=False, remove_tags: bool=False,
+            classification: bool=True
         ):
+        # whether to trim out the tags
+        proc = (lambda c: re.sub(r"<[^<>]+>", "", c).strip() 
+                if remove_tags else c)
         # specification of concatenation tags
-        con_prefix, con_infix = ' [C] ', ' [C] '
-        sce_prefix, q_prefix = '[S] ', ' [Q] '
-        ans_infix = ' [A] '
+        con_prefix, con_infix = ' [CON] ', ' [CON] '
+        # sce_prefix, q_prefix = '[S] ', ' [Q] '
+        ans_infix = ' [SEP] '
         if build_natural:
             con_prefix, con_infix = ' IF ', ' AND '
-            sce_prefix, q_prefix = 'GIVEN THAT ', ' THEN '
+            # sce_prefix, q_prefix = 'GIVEN THAT ', ' THEN '
             ans_infix = ' OR '
         # load original data
         original = json.load(open(in_filepath, 'r'))
@@ -80,30 +84,31 @@ def main(args):
                 or qdict['not_answerable']
             ):
                 continue
-            answers = ([f"{u[0]}{con_prefix + con_infix.join(u[1]) if u[1] else ''}"
+            answers = ([proc(f"{u[0]}{con_prefix + con_infix.join(u[1]) if u[1] else ''}")
                        if add_conditions else u[0] if qdict['answers'] else '' for u in qdict['answers']]
                        if not qdict['not_answerable'] else ['[N/A]']) 
             # concatenate all answers to be 1 single target
             answers = ans_infix.join(answers) if len(answers) > 1 else answers[0]
-            if not build_natural:
-                answers = ans_infix[1:] + answers
+            # if not build_natural:
+            #     answers = ans_infix[1:] + answers
             unit = {'id': qdict['id'],
                     # concatenate scenario with question
-                    'question': f"{sce_prefix}{qdict['scenario']}{q_prefix}{qdict['question']}",
+                    'question': f"{qdict['scenario']} {qdict['question']}",
+                    # 'question': f"{sce_prefix}{qdict['scenario']}{q_prefix}{qdict['question']}",
                     'target': answers, 'answers': [answers]}
             # compute rough question token length
             q_len = len(unit['question'].split(' '))
             if whole_doc:
                 contexts = splitter.split_elements(q_len=q_len,
                                                    elements=docs[qdict['url']]['contents'])
-                unit['ctxs'] = [{'title': '', 'text': ctx} for ctx in contexts]
+                unit['ctxs'] = [{'title': '', 'text': proc(ctx)} for ctx in contexts]
             elif not use_segments:
                 if qdict['evidences']:
                     evidences = splitter.split_elements(q_len=q_len,
                                                         elements=qdict['evidences'])
                 else:
                     evidences = ['']
-                unit['ctxs'] = [{'title': '', 'text': e} for e in evidences]
+                unit['ctxs'] = [{'title': '', 'text': proc(e)} for e in evidences]
             else:
                 contents = docs[qdict['url']]['contents']
                 evidences = set(qdict['evidences'])
@@ -135,7 +140,7 @@ def main(args):
                     t_len = len(tag.split(' '))
                     split_contexts = splitter.split_elements(q_len=q_len + t_len, 
                                                              elements=tag_to_segment[tag])
-                    unit['ctxs'].extend([{'title': tag, 'text': sc} for sc in split_contexts])
+                    unit['ctxs'].extend([{'title': proc(tag), 'text': proc(sc)} for sc in split_contexts])
                 # add irrelevant segments as "unknown" disturbance
                 if (not cond_only) and keep_all:
                     extra = {k: v for k, v in unit.items()}
@@ -148,11 +153,17 @@ def main(args):
                         t_len = len(tag.split(' '))
                         split_contexts = splitter.split_elements(q_len=q_len + t_len, 
                                                                  elements=tag_to_segment[tag])
-                        new['ctxs'] = [{'title': tag, 'text': sc} for sc in split_contexts]
+                        new['ctxs'] = [{'title': proc(tag), 'text': proc(sc)} for sc in split_contexts]
                         if new['ctxs']:
+                            if classification:
+                                new['target'] = 'irrelevant'
+                                new['answers'] = ['irrelevant']
                             out.append(new)
             # add question unit
             if unit['ctxs']:
+                if classification:
+                    unit['target'] = 'relevant'
+                    unit['answers'] = ['relevant']
                 out.append(unit)
 
         json.dump(out, open(out_filepath, 'w'), indent=4)
@@ -166,7 +177,9 @@ def main(args):
             else 'evidences' if not args.whole_doc else 'full')
            + ('_natural' if args.build_natural else '')
            + ('_keepall' if args.keep_all else '')
-           + ('_onlycon' if args.cond_only else ''))
+           + ('_onlycon' if args.cond_only else '')
+           + ('_notags' if args.remove_tags else '')
+           + ('_cls' if args.classification else ''))
     
     # only doing so for training and development set since test set has no "evidence" tab
     for subset in ('train', 'dev'):
@@ -177,7 +190,8 @@ def main(args):
             use_segments=args.use_segments, segment_level=args.segment_level,
             add_conditions=args.add_conditions, keep_all=args.keep_all,
             build_natural=args.build_natural, cond_only=args.cond_only,
-            whole_doc=args.whole_doc
+            whole_doc=args.whole_doc, remove_tags=args.remove_tags,
+            classification=args.classification
         )
 
 
@@ -203,6 +217,12 @@ if __name__ == '__main__':
         '-a',
         action='store_true',
         help='Whether to keep all segments in the passage with irrelavant ones marked as unknown.'
+    )
+    parser.add_argument(
+        '--remove-tags',
+        '-R',
+        action='store_true',
+        help='Whether to remove html tags from the documents.'
     )
     parser.add_argument(
         '--cond-only',
@@ -241,6 +261,12 @@ if __name__ == '__main__':
         type=int,
         default=300,
         help='Total limit of token lengths due to T5 capacity.'
+    )
+    parser.add_argument(
+        '--classification',
+        '-C',
+        action='store_true',
+        help='Whether to store classification tags.'
     )
     parser.add_argument(
         '--out',
